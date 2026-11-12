@@ -1,15 +1,39 @@
-# Large raw data from figshare (10.6084/m9.figshare.22650361) – download with scripts/download_data.sh
+# Large raw data from figshare (10.6084/m9.figshare.22650361): get it with scripts/download_data.sh
 data/raw/
 *.zip
 *.mat
 
-# Python / R / OS
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Python / R
 __pycache__/
 .venv/
 .ipynb_checkpoints/
 .Rhistory
 .RData
 .Rproj.user/
-.DS_Store
-Thumbs.db
-desktop.ini
+
+# Build output
+node_modules/
+dist/
+coverage/
+
+# Logs and temp
+*.log
+tmp/
+.tmp/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Claude Code local overrides (personal, not shared)
+.claude/settings.local.json
+.claude/worktrees/
