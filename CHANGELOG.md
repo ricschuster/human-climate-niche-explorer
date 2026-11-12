@@ -7,6 +7,8 @@ All notable changes to this project are documented here. The format is based on
 
 ### Added
 
+- Project brief with audience, MVP and later layers; ADR 0003 choosing a
+  static Observable Framework site on GitHub Pages.
 - Project harness from `ricschuster/claude-project-template`: Claude Code
   working rules, CI hygiene checks, issue and PR templates, ADRs, design notes
   and handoffs.
