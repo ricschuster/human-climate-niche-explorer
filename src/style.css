@@ -1,0 +1,270 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-air.css") (prefers-color-scheme: light);
+@import url("observablehq:theme-near-midnight.css") (prefers-color-scheme: dark);
+
+/* Chart roles. Light values first; dark values are their own steps, validated
+   against the dark surface (see docs/design/02_site.md). */
+:root {
+  --hot: #eb6834; /* unprecedented heat, selected warming level */
+  --reference: #2a78d6; /* the reference niche, 1.5 C comparison */
+  --context: #898781; /* other levels, regression line: de-emphasis only */
+  --ink-secondary: #52514e;
+  --hairline: #e1e0d9;
+  --ocean: #f4f3ef;
+  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --hot: #d95926;
+    --reference: #3987e5;
+    --ink-secondary: #c3c2b7;
+    --hairline: #2c2c2a;
+    --ocean: #141413;
+  }
+}
+
+body,
+#observablehq-main {
+  font-family: var(--sans);
+}
+
+#observablehq-main {
+  max-width: 1200px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--sans);
+  max-width: none;
+}
+
+p,
+.prose {
+  max-width: 70ch;
+}
+
+/* Sticky control row: the one filter that scopes every view below it. */
+.controls {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--theme-background);
+  padding: 0.75rem 0 0.5rem;
+  margin: 0 0 1rem;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.warming-slider {
+  display: grid;
+  gap: 0.25rem;
+  max-width: 760px;
+}
+
+.warming-slider .readout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  align-items: baseline;
+}
+
+.warming-slider label {
+  font-weight: 600;
+}
+
+.warming-slider output {
+  font-size: 1.1rem;
+}
+
+.warming-slider .scenario {
+  color: var(--theme-foreground-muted);
+  font-size: 0.85rem;
+}
+
+.warming-slider input[type="range"] {
+  width: 100%;
+  margin: 0.25rem 0 0;
+  accent-color: var(--hot);
+}
+
+.warming-slider .ticks {
+  position: relative;
+  height: 2.4rem;
+  font-size: 0.75rem;
+  color: var(--theme-foreground-muted);
+  margin: 0 8px; /* half the range thumb, so ticks line up with thumb centres */
+}
+
+.warming-slider .tick {
+  position: absolute;
+  transform: translateX(-50%);
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.warming-slider .tick::before {
+  content: "";
+  display: block;
+  width: 1px;
+  height: 5px;
+  margin: 0 auto 2px;
+  background: currentColor;
+}
+
+.warming-slider .tick.selected {
+  color: var(--theme-foreground);
+  font-weight: 600;
+}
+
+.warming-slider .tick .policy {
+  display: block;
+  font-size: 0.7rem;
+}
+
+@media (max-width: 640px) {
+  .warming-slider .tick .policy {
+    display: none;
+  }
+  .warming-slider .ticks {
+    height: 1.4rem;
+  }
+}
+
+/* Headline */
+.hero {
+  font-size: clamp(3rem, 8vw, 4.5rem);
+  font-weight: 600;
+  line-height: 1;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.hero-unit {
+  font-size: 0.45em;
+  font-weight: 500;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--theme-foreground-muted);
+}
+
+.stat-value {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.stat-range {
+  font-size: 0.85rem;
+  color: var(--theme-foreground-muted);
+}
+
+.quote {
+  border-left: 3px solid var(--hot);
+  padding: 0.25rem 0 0.25rem 0.75rem;
+  margin: 0.75rem 0 0.25rem;
+  max-width: 75ch;
+}
+
+.quote-actions button {
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--hairline);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--theme-foreground);
+  cursor: pointer;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.05rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid var(--hairline);
+  color: var(--theme-foreground-muted);
+  vertical-align: middle;
+}
+
+/* Legends: the mark beside the text carries identity; text stays in ink. */
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  font-size: 0.8rem;
+  color: var(--ink-secondary);
+  margin: 0.25rem 0 0.5rem;
+}
+
+.legend .key {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.legend .swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.legend .line {
+  width: 16px;
+  height: 2px;
+  display: inline-block;
+}
+
+.legend .tickmark {
+  width: 2px;
+  height: 12px;
+  display: inline-block;
+}
+
+/* Map */
+.map {
+  height: 520px;
+  width: 100%;
+  background: var(--ocean);
+  border-radius: 4px;
+}
+
+@media (max-width: 640px) {
+  .map {
+    height: 320px;
+  }
+}
+
+.maplibregl-popup-content {
+  background: var(--theme-background);
+  color: var(--theme-foreground);
+  font: 0.8rem/1.35 var(--sans);
+  padding: 0.5rem 0.65rem;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.25);
+}
+
+.maplibregl-popup-tip {
+  display: none;
+}
+
+.maplibregl-popup-content strong {
+  font-size: 0.95rem;
+}
+
+.caption {
+  font-size: 0.8rem;
+  color: var(--theme-foreground-muted);
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.card h2 + .caption {
+  margin-top: -0.25rem;
+}

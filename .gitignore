@@ -37,3 +37,7 @@ tmp/
 # Claude Code local overrides (personal, not shared)
 .claude/settings.local.json
 .claude/worktrees/
+
+# Observable Framework: data copied from data/processed/ at build time, and cache
+src/data/
+src/.observablehq/cache/
