@@ -22,11 +22,11 @@ themselves rather than read static figures. See
 
 ## Project status
 
-Setup. The repo structure, source paper, supplementary data and authors' code
-are in place, and the raw data deposit is downloadable with
-`scripts/download_data.sh`. Next: inspect the `.mat` files, decide which views
-to build, and choose the visualization stack (record it as an ADR). Open GitHub
-issues are the live task tracker.
+Design. Audience (policy and NCC staff) and stack (static site) are decided;
+the MVP is defined in `docs/design/00_project_brief.md`. The raw grid has been
+checked: recomputing hot exposure reproduces the paper's numbers. Next: the
+preprocessing scripts, then the Observable Framework site. Open GitHub issues
+are the live task tracker.
 
 ## Scope
 
@@ -41,9 +41,11 @@ deposit do not support. Do not expand scope without a design note in
 
 ## Stack
 
-Not chosen yet. Data processing will read the authors' MATLAB `.mat` files
-(Python with scipy/h5py works, so MATLAB is not required). Record the
-visualization stack choice as an ADR in `docs/decisions/`.
+- Site: Observable Framework, deployed to GitHub Pages, maps with MapLibre GL
+  (`docs/decisions/0003-static-site-with-observable-framework.md`).
+- Preprocessing: Python scripts in `scripts/`, run with `uv` and inline
+  dependencies (scipy reads the authors' MATLAB v5 `.mat` files directly).
+- Nothing is recomputed in the browser: the site reads only `data/processed/`.
 
 ## Data rules
 
