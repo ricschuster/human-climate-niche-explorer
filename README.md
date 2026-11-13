@@ -20,6 +20,7 @@ under different Shared Socioeconomic Pathways (SSP1-2.6, SSP2-4.5, SSP3-7.0, SSP
 | `data/processed/` | Small derived files used by the visualization | yes |
 | `reference/authors_code/` | Authors' original MATLAB / Python / R code (figshare, CC BY 4.0) | yes |
 | `scripts/` | Data download and processing scripts | yes |
+| `src/` | The site (Observable Framework); build with `npm run build` | yes |
 | `docs/` | Design notes, decision records (ADRs), session handoffs | yes |
 
 ## Getting the raw data

@@ -76,8 +76,22 @@ jobs:
           uvx ruff check scripts
           uvx ruff format --check scripts
 
+  site-build:
+    needs: changes
+    if: needs.changes.outputs.code == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      # Builds from the committed data/processed/; no raw data needed.
+      - run: npm run build
+
   checks:
-    needs: [changes, repo-hygiene, python-lint]
+    needs: [changes, repo-hygiene, python-lint, site-build]
     if: always()
     runs-on: ubuntu-latest
     steps:

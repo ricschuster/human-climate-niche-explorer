@@ -19,6 +19,9 @@ for the Python preprocessing, Node.js 20 or later for the site.
 ./scripts/download_data.sh   # fetches about 1.7 GB of raw data into data/raw/
 ./scripts/build_all.sh       # rebuilds data/processed/ and validates it against the paper
 uvx ruff check scripts && uvx ruff format --check scripts   # lint the scripts
+npm ci                       # site dependencies
+npm run dev                  # preview the site locally, with live reload
+npm run build                # build the static site into dist/
 ```
 
 You only need the raw data to change `data/processed/`; the site builds from

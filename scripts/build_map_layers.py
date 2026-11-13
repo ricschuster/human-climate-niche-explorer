@@ -8,13 +8,17 @@ Run from the repo root: `uv run scripts/build_map_layers.py`
 
 Writes to data/processed/map/:
 
-- hot_<level>.png: cells whose ensemble-mean MAT is above 29 C at that warming
-  level (the same cells the country table counts).
-- population_light.png, population_dark.png: people per 1/12 degree cell
-  (about 100 km2) in the 9.5 billion world (SSP2, 2070), in classes that are a
-  subset of the paper's Fig. 4 legend. One file per page theme.
+- hot_<level>_{w,e}.png: cells whose ensemble-mean MAT is above 29 C at that
+  warming level (the same cells the country table counts).
+- population_{light,dark}_{w,e}.png: people per 1/12 degree cell (about
+  100 km2) in the 9.5 billion world (SSP2, 2070), in classes that are a subset
+  of the paper's Fig. 4 legend. One set per page theme.
 - layers.json: image corner coordinates for MapLibre, file names, classes and
   colours.
+
+Each layer is split into a western (180 W to 0) and an eastern (0 to 180 E)
+half, 2160 pixels wide, because some mobile GPUs cannot hold a texture wider
+than 4096 pixels.
 
 The images are reprojected to Web Mercator by nearest-neighbour row lookup
 (columns are already linear in longitude), at full 1/12 degree resolution at
@@ -72,40 +76,51 @@ class Grid:
         full[self.row, self.col] = values
         return full[self.src_rows]
 
-    def corners(self) -> list[list[float]]:
-        return [[-180, self.north], [180, self.north], [180, self.south], [-180, self.south]]
+    def corners(self, west: float, east: float) -> list[list[float]]:
+        return [[west, self.north], [east, self.north], [east, self.south], [west, self.south]]
 
 
-def save_png(arr: np.ndarray, colors: list[str], name: str) -> str:
-    img = Image.fromarray(arr, mode="P")
+HALVES = {"w": (-180, 0), "e": (0, 180)}
+
+
+def save_png(arr: np.ndarray, colors: list[str], stem: str) -> dict[str, str]:
+    """Save the western and eastern halves; return {"w": file, "e": file}."""
     palette = [0, 0, 0] + [v for c in colors for v in hex_rgb(c)]
-    img.putpalette(palette)
-    path = OUT / name
-    img.save(path, optimize=True, transparency=0)
-    print(f"wrote {path.relative_to(h.REPO)} ({path.stat().st_size / 1e3:.0f} KB)")
-    return name
+    half = arr.shape[1] // 2
+    out = {}
+    for key, part in (("w", arr[:, :half]), ("e", arr[:, half:])):
+        img = Image.fromarray(np.ascontiguousarray(part), mode="P")
+        img.putpalette(palette)
+        name = f"{stem}_{key}.png"
+        path = OUT / name
+        img.save(path, optimize=True, transparency=0)
+        print(f"wrote {path.relative_to(h.REPO)} ({path.stat().st_size / 1e3:.0f} KB)")
+        out[key] = name
+    return out
 
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
+    for old in OUT.glob("*.png"):
+        old.unlink()
     grid = Grid()
 
     pop = np.nan_to_num(np.asarray(h.load(h.REFERENCE_POPULATION.var)))
     classes = (np.searchsorted(POP_BREAKS, pop, side="left") + 1).astype(np.uint8)  # 1..7, 0 = sea
     pop_img = grid.image(classes)
     pop_files = {
-        "light": save_png(pop_img, POP_COLORS_LIGHT, "population_light.png"),
-        "dark": save_png(pop_img, POP_COLORS_DARK, "population_dark.png"),
+        "light": save_png(pop_img, POP_COLORS_LIGHT, "population_light"),
+        "dark": save_png(pop_img, POP_COLORS_DARK, "population_dark"),
     }
 
     hot_files = {}
     for w in h.WARMING_LEVELS:
         hot = (h.ensemble_mean(h.load(w.mat_var)) > h.HOT_THRESHOLD_C).astype(np.uint8)
-        hot_files[f"{w.level}"] = save_png(grid.image(hot), [HOT_COLOR], f"hot_{w.level}.png")
+        hot_files[f"{w.level}"] = save_png(grid.image(hot), [HOT_COLOR], f"hot_{w.level}")
 
     meta = {
-        "coordinates": grid.corners(),
-        "width": h.GRID_COLS,
+        "coordinates": {k: grid.corners(*lon) for k, lon in HALVES.items()},
+        "width": h.GRID_COLS // 2,
         "height": len(grid.src_rows),
         "population": {
             "files": pop_files,

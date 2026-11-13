@@ -1,0 +1,19 @@
+{
+  "name": "human-climate-niche-explorer",
+  "private": true,
+  "type": "module",
+  "description": "Interactive explorer of Lenton, Xu et al. (2023), Quantifying the human cost of global warming",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "data": "node scripts/copy_site_data.mjs",
+    "dev": "npm run data && observable preview",
+    "build": "npm run data && observable build",
+    "clean": "rm -rf src/.observablehq/cache src/data dist"
+  },
+  "dependencies": {
+    "@observablehq/framework": "1.13.4"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

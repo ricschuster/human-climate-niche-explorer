@@ -102,7 +102,11 @@ simplification but still have rows in the table.
 Raster layers for MapLibre, already in Web Mercator. `layers.json` gives the
 image corner `coordinates`, file names, legend classes and colours.
 
-- `hot_<warming>.png`: places with ensemble-mean MAT above 29 C.
-- `population_light.png`, `population_dark.png`: people per 1/12 degree cell
-  (about 100 km2) in the 9.5 billion world, in 7 classes from the paper's
-  Fig. 4 legend; one file per page theme.
+- `hot_<warming>_{w,e}.png`: places with ensemble-mean MAT above 29 C.
+- `population_{light,dark}_{w,e}.png`: people per 1/12 degree cell (about
+  100 km2) in the 9.5 billion world, in 7 classes from the paper's Fig. 4
+  legend; one set per page theme.
+
+Every layer comes in a western (`_w`, 180 W to 0) and an eastern (`_e`, 0 to
+180 E) half, each 2160 pixels wide, so no texture exceeds the 4096 pixel limit
+of some mobile GPUs. `coordinates` in `layers.json` has one entry per half.

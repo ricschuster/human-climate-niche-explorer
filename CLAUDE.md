@@ -26,8 +26,9 @@ Build. Audience (policy and NCC staff) and stack (static site) are decided;
 the MVP is defined in `docs/design/00_project_brief.md`. The preprocessing
 scripts in `scripts/` produce `data/processed/` and `scripts/validate.py`
 checks it against the paper (see `docs/design/01_data_notes.md` for known
-differences). Next: the Observable Framework site. Open GitHub issues are the
-live task tracker.
+differences). The Observable Framework site (`src/`) implements the MVP views;
+see `docs/design/02_site.md`. Next: deployment to GitHub Pages. Open GitHub
+issues are the live task tracker.
 
 ## Scope
 
@@ -67,6 +68,9 @@ deposit do not support. Do not expand scope without a design note in
   `~/.cache/human-climate-niche-explorer/`). One step:
   `uv run scripts/<step>.py`. Validation alone: `uv run scripts/validate.py`.
 - Lint Python: `uvx ruff check scripts && uvx ruff format --check scripts`.
+- Site: `npm ci`, then `npm run dev` (preview) or `npm run build` (to
+  `dist/`). Both copy `data/processed/` into `src/data/` first. See
+  `docs/design/02_site.md`.
 - `CONTRIBUTING.md` Setup should match these commands.
 
 ## Repo structure
@@ -75,6 +79,7 @@ deposit do not support. Do not expand scope without a design note in
 - `data/raw/` (ignored), `data/supplementary/`, `data/processed/`.
 - `reference/authors_code/`: authors' MATLAB / Python / R code, unmodified.
 - `scripts/`: download and processing scripts.
+- `src/`, `observablehq.config.js`, `package.json`: the site.
 - `docs/`: design notes, ADRs, handoffs.
 
 ## Working rules

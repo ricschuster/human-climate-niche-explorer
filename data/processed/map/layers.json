@@ -1,28 +1,54 @@
 {
-  "coordinates": [
-    [
-      -180,
-      83.66666666666667
+  "coordinates": {
+    "w": [
+      [
+        -180,
+        83.66666666666667
+      ],
+      [
+        0,
+        83.66666666666667
+      ],
+      [
+        0,
+        -59.5
+      ],
+      [
+        -180,
+        -59.5
+      ]
     ],
-    [
-      180,
-      83.66666666666667
-    ],
-    [
-      180,
-      -59.5
-    ],
-    [
-      -180,
-      -59.5
+    "e": [
+      [
+        0,
+        83.66666666666667
+      ],
+      [
+        180,
+        83.66666666666667
+      ],
+      [
+        180,
+        -59.5
+      ],
+      [
+        0,
+        -59.5
+      ]
     ]
-  ],
-  "width": 4320,
+  },
+  "width": 2160,
   "height": 2884,
   "population": {
     "files": {
-      "light": "population_light.png",
-      "dark": "population_dark.png"
+      "light": {
+        "w": "population_light_w.png",
+        "e": "population_light_e.png"
+      },
+      "dark": {
+        "w": "population_dark_w.png",
+        "e": "population_dark_e.png"
+      }
     },
     "population": "9.5 billion (SSP2, 2070)",
     "unit": "people per 1/12 degree cell (about 100 km2)",
@@ -66,15 +92,42 @@
   },
   "hot": {
     "files": {
-      "1.0": "hot_1.0.png",
-      "1.5": "hot_1.5.png",
-      "1.8": "hot_1.8.png",
-      "2.0": "hot_2.0.png",
-      "2.1": "hot_2.1.png",
-      "2.4": "hot_2.4.png",
-      "2.7": "hot_2.7.png",
-      "3.6": "hot_3.6.png",
-      "4.4": "hot_4.4.png"
+      "1.0": {
+        "w": "hot_1.0_w.png",
+        "e": "hot_1.0_e.png"
+      },
+      "1.5": {
+        "w": "hot_1.5_w.png",
+        "e": "hot_1.5_e.png"
+      },
+      "1.8": {
+        "w": "hot_1.8_w.png",
+        "e": "hot_1.8_e.png"
+      },
+      "2.0": {
+        "w": "hot_2.0_w.png",
+        "e": "hot_2.0_e.png"
+      },
+      "2.1": {
+        "w": "hot_2.1_w.png",
+        "e": "hot_2.1_e.png"
+      },
+      "2.4": {
+        "w": "hot_2.4_w.png",
+        "e": "hot_2.4_e.png"
+      },
+      "2.7": {
+        "w": "hot_2.7_w.png",
+        "e": "hot_2.7_e.png"
+      },
+      "3.6": {
+        "w": "hot_3.6_w.png",
+        "e": "hot_3.6_e.png"
+      },
+      "4.4": {
+        "w": "hot_4.4_w.png",
+        "e": "hot_4.4_e.png"
+      }
     },
     "color": "#eb6834",
     "definition": "ensemble-mean MAT above 29 C"
