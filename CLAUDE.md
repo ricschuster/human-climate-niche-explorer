@@ -27,10 +27,9 @@ the MVP is defined in `docs/design/00_project_brief.md`. The preprocessing
 scripts in `scripts/` produce `data/processed/` and `scripts/validate.py`
 checks it against the paper (see `docs/design/01_data_notes.md` for known
 differences). The Observable Framework site (`src/`) implements the MVP views;
-see `docs/design/02_site.md`. A manual GitHub Pages deploy workflow is in
-place; the site goes public only after an audience review (see
-`docs/design/02_site.md`, Deployment). Open GitHub issues are the live task
-tracker.
+see `docs/design/02_site.md`. It is live on GitHub Pages
+(<https://ricschuster.github.io/human-climate-niche-explorer/>) and redeploys
+on every merge to `main`. Open GitHub issues are the live task tracker.
 
 ## Scope
 

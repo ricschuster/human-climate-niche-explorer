@@ -67,22 +67,14 @@ and `actions/deploy-pages`. The site lives under the repository path
 (`https://ricschuster.github.io/human-climate-niche-explorer/`); Framework
 writes relative links, so no base path setting is needed.
 
-The site is reviewed before it goes public. The repository is public, so a
-Pages site would be public too, and the workflow is therefore manual only
-(`workflow_dispatch`) and Pages is not enabled yet. To go live after the
-review:
-
-1. Enable Pages with GitHub Actions as the source (Settings, Pages, or
-   `gh api -X POST repos/ricschuster/human-climate-niche-explorer/pages -f build_type=workflow`).
-2. Add `push: branches: [main]` under `on:` in the workflow, by PR, so every
-   merge redeploys.
-3. Run the workflow once (`gh workflow run deploy-pages.yml`) and set the
-   repository's website link to the Pages URL.
+The workflow runs on every push to `main` (so every merged PR redeploys) and
+can be started by hand with `gh workflow run deploy-pages.yml`. Pages is
+enabled with GitHub Actions as the source. The site went live on 2026-11-13;
+the audience review of the wording happens on the live site.
 
 ## Not yet done
 
-- Review of the wording by the audience (policy or NCC staff), then going
-  live (see Deployment).
+- Review of the wording by the audience (policy or NCC staff).
 - The scenario-by-year view (Fig. 2) and emissions and poverty (Fig. 6), listed
   as later layers in the brief.
 - A favicon and social preview image.
