@@ -7,8 +7,8 @@ All notable changes to this project are documented here. The format is based on
 
 ### Added
 
-- GitHub Pages deploy workflow, manual only until the site has been
-  reviewed (`docs/design/02_site.md`, Deployment).
+- GitHub Pages deploy workflow; the site redeploys on every merge to `main`
+  (`docs/design/02_site.md`, Deployment).
 - Project brief with audience, MVP and later layers; ADR 0003 choosing a
   static Observable Framework site on GitHub Pages, with full-resolution
   raster map layers.
