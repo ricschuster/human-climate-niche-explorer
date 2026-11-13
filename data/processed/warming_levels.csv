@@ -1,0 +1,10 @@
+warming,ssp,period,policy,n_models,mat_variable
+1,Observed,2000-2020,Present day,5,MAT0020
+1.5,SSP1-2.6,2021-2040,Paris Agreement goal,8,MAT_S1_30
+1.8,SSP1-2.6,2081-2100,All announced targets met,8,MAT_S1_90
+2,SSP2-4.5,2041-2060,,7,MAT_S2_50
+2.1,SSP3-7.0,2041-2060,Binding long-term targets,8,MAT_S3_50
+2.4,SSP5-8.5,2041-2060,2030 NDCs only,7,MAT_S5_50
+2.7,SSP2-4.5,2081-2100,Current policies,7,MAT_S2_90
+3.6,SSP3-7.0,2081-2100,Worst case,8,MAT_S3_90
+4.4,SSP5-8.5,2081-2100,Worst case,7,MAT_S5_90

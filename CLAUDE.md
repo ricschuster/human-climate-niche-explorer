@@ -22,11 +22,12 @@ themselves rather than read static figures. See
 
 ## Project status
 
-Design. Audience (policy and NCC staff) and stack (static site) are decided;
-the MVP is defined in `docs/design/00_project_brief.md`. The raw grid has been
-checked: recomputing hot exposure reproduces the paper's numbers. Next: the
-preprocessing scripts, then the Observable Framework site. Open GitHub issues
-are the live task tracker.
+Build. Audience (policy and NCC staff) and stack (static site) are decided;
+the MVP is defined in `docs/design/00_project_brief.md`. The preprocessing
+scripts in `scripts/` produce `data/processed/` and `scripts/validate.py`
+checks it against the paper (see `docs/design/01_data_notes.md` for known
+differences). Next: the Observable Framework site. Open GitHub issues are the
+live task tracker.
 
 ## Scope
 
@@ -61,8 +62,12 @@ deposit do not support. Do not expand scope without a design note in
 ## Commands
 
 - Get raw data: `./scripts/download_data.sh` (downloads about 1.7 GB; slow).
-- Other commands: TBD once the stack is chosen; `CONTRIBUTING.md` Setup
-  should match.
+- Rebuild `data/processed/` and validate against the paper:
+  `./scripts/build_all.sh` (first run about 10 minutes; caches in
+  `~/.cache/human-climate-niche-explorer/`). One step:
+  `uv run scripts/<step>.py`. Validation alone: `uv run scripts/validate.py`.
+- Lint Python: `uvx ruff check scripts && uvx ruff format --check scripts`.
+- `CONTRIBUTING.md` Setup should match these commands.
 
 ## Repo structure
 

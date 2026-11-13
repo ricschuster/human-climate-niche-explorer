@@ -1,0 +1,11 @@
+# Lint and format settings for the Python preprocessing scripts in scripts/.
+line-length = 120
+target-version = "py311"
+
+[lint]
+select = ["E", "F", "W", "I", "B", "UP", "RUF"]
+# The formatter wraps code; long strings and messages are fine.
+ignore = ["E501"]
+
+[lint.isort]
+known-first-party = ["hcn_common", "build_countries", "build_global", "build_map_layers", "build_niche_curves"]

@@ -26,6 +26,14 @@ paper's Fig. 5 data exactly:
   matches to within 0.3 percent.
 - Land fraction is exposed land area divided by the country polygon's area,
   not by the summed area of its grid cells.
+- Refined on 2026-11-13 while writing `scripts/build_countries.py`: exposed
+  land area is the area of the polygon covered by exposed cells (exact
+  cell-polygon coverage fractions), not whole cells assigned by centre, with
+  cell areas on the WGS84 ellipsoid and polygon areas in EPSG:6933. Small
+  islands with no cell centre inside (Nauru, Tuvalu) then get their exposed
+  area too, and every country's land fraction matches the paper to within
+  0.2 percentage points. People are still assigned by cell centre. The paper
+  caps land fraction at 100 percent.
 
 World Borders 0.3 predates South Sudan, so the paper's "Sudan" includes South
 Sudan, and it is licensed CC BY-SA 3.0, so files derived from it must be

@@ -1,0 +1,10 @@
+population,metric,slope_pct_per_c,intercept_pct,r2,n,method
+6.9bn,hot,11.928,-14.729,0.829442,65,ordinary least squares
+6.9bn,outside_temp,11.7933,-3.53798,0.971593,65,forced through zero at 0.3 C
+6.9bn,outside_combined,10.9839,1.2212,0.827866,65,ordinary least squares on warming minus 0.3 C
+9.5bn,hot,13.8034,-16.185,0.833897,65,ordinary least squares
+9.5bn,outside_temp,11.7933,-3.53798,0.971593,65,forced through zero at 0.3 C
+9.5bn,outside_combined,9.50938,13.543,0.839769,65,ordinary least squares on warming minus 0.3 C
+11.1bn,hot,14.821,-17.4642,0.832705,65,ordinary least squares
+11.1bn,outside_temp,11.7933,-3.53798,0.971593,65,forced through zero at 0.3 C
+11.1bn,outside_combined,9.07185,18.6254,0.838899,65,ordinary least squares on warming minus 0.3 C

@@ -1,0 +1,2323 @@
+id,iso3,name,continent,warming,exposed_9.5bn,population_9.5bn,exposed_11.1bn,population_11.1bn,exposed_land_km2,country_area_km2,exposed_land_pct,paper_level
+SDN,SDN,Sudan,Africa,1,3.42824e+07,7.34233e+07,4.13924e+07,9.11908e+07,296669,1.85562e+06,15.9876,False
+NER,NER,Niger,Africa,1,2.49302e+07,7.21824e+07,3.59742e+07,1.04206e+08,157916,1.1813e+06,13.3679,False
+MLI,MLI,Mali,Africa,1,1.32891e+07,4.31765e+07,1.68239e+07,5.45054e+07,395101,1.25272e+06,31.5394,False
+YEM,YEM,Yemen,Asia,1,7.97824e+06,6.84559e+07,1.1052e+07,9.61469e+07,16823,453075,3.71308,False
+SAU,SAU,Saudi Arabia,Asia,1,6.29251e+06,6.20701e+07,7.09577e+06,6.99067e+07,122997,1.92173e+06,6.40037,False
+TCD,TCD,Chad,Africa,1,5.56709e+06,3.02464e+07,6.63748e+06,3.62048e+07,194150,1.26628e+06,15.3322,False
+BFA,BFA,Burkina Faso,Africa,1,4.09547e+06,4.72464e+07,5.59061e+06,6.43994e+07,49072.7,272769,17.9906,False
+MRT,MRT,Mauritania,Africa,1,4.08261e+06,6.82752e+06,5.22056e+06,8.50438e+06,269872,1.03639e+06,26.0397,False
+ETH,ETH,Ethiopia,Africa,1,3.22762e+06,1.81779e+08,4.25988e+06,2.3535e+08,45177,1.12737e+06,4.00728,False
+SEN,SEN,Senegal,Africa,1,2.96795e+06,2.59866e+07,4.98642e+06,4.05961e+07,92679.5,196225,47.2313,False
+NGA,NGA,Nigeria,Africa,1,2.39609e+06,4.74453e+08,3.20529e+06,6.10435e+08,11628.6,907498,1.28139,False
+ERI,ERI,Eritrea,Africa,1,1.59185e+06,1.3633e+07,1.78113e+06,1.51022e+07,36962.7,122538,30.1643,False
+CMR,CMR,Cameroon,Africa,1,443977,3.63431e+07,555327,4.41574e+07,3993.2,464318,0.860012,False
+KEN,KEN,Kenya,Africa,1,246216,8.81372e+07,358185,1.23004e+08,16066.6,585702,2.74314,False
+SOL,-99,Somaliland,Africa,1,172189,2.83394e+06,271385,4.78726e+06,5804.27,167407,3.46717,False
+GMB,GMB,Gambia,Africa,1,149162,3.36997e+06,217969,4.52093e+06,636.173,10501.1,6.05817,False
+DJI,DJI,Djibouti,Africa,1,132317,1.34773e+06,151692,1.5285e+06,3657.95,21848,16.7428,False
+OMN,OMN,Oman,Asia,1,126009,5.63999e+06,137357,5.79059e+06,19304.9,311213,6.20311,False
+SOM,SOM,Somalia,Africa,1,103605,1.43063e+07,175378,2.39379e+07,3953.32,471815,0.837896,False
+COL,COL,Colombia,South America,1,39532.4,6.5018e+07,56173,8.13405e+07,673.888,1.13512e+06,0.0593672,False
+SDS,SSD,South Sudan,Africa,1,33074.8,1.76665e+07,42816.8,2.24756e+07,1307.3,626859,0.208548,False
+PAK,PAK,Pakistan,Asia,1,29512,3.19248e+08,42730.9,4.3232e+08,152.636,872939,0.0174853,False
+ARE,ARE,United Arab Emirates,Asia,1,21896.8,1.69727e+07,18699.7,1.46028e+07,392.286,71085,0.551854,False
+VEN,VEN,Venezuela,South America,1,11877.5,4.24884e+07,14979.6,5.29421e+07,162.02,912684,0.0177521,False
+BEN,BEN,Benin,Africa,1,10872.1,2.28736e+07,15006.4,2.6048e+07,60.4419,116113,0.0520542,False
+IDN,IDN,Indonesia,Asia,1,0,2.60126e+08,0,2.92624e+08,0,1.87983e+06,0,False
+MYS,MYS,Malaysia,Asia,1,0,4.359e+07,0,5.25047e+07,0,327885,0,False
+CHL,CHL,Chile,South America,1,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+BOL,BOL,Bolivia,South America,1,0,1.47842e+07,0,2.25738e+07,0,1.08681e+06,0,False
+PER,PER,Peru,South America,1,0,3.14427e+07,0,4.46236e+07,0,1.28987e+06,0,False
+ARG,ARG,Argentina,South America,1,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,1,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,1,0,1.03466e+06,0,967994,0,5395.04,0,False
+IND,IND,India,Asia,1,0,1.75493e+09,0,2.24008e+09,18.3965,3.15074e+06,0.000583878,False
+CHN,CHN,China,Asia,1,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,False
+ISR,ISR,Israel,Asia,1,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,False
+PSX,PSE,Palestine,Asia,1,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,1,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+MWI,MWI,Malawi,Africa,1,0,5.2879e+07,0,7.10866e+07,0,119398,0,False
+TZA,TZA,United Republic of Tanzania,Africa,1,0,1.22335e+08,0,1.59497e+08,0,941505,0,False
+SYR,SYR,Syria,Asia,1,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+FRA,FRA,France,Europe,1,0,8.07947e+07,0,6.17002e+07,0,636757,0,False
+SUR,SUR,Suriname,South America,1,0,662600,0,846261,0,145123,0,False
+GUY,GUY,Guyana,South America,1,0,633573,0,999059,0,211214,0,False
+KOR,KOR,South Korea,Asia,1,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,1,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+MAR,MAR,Morocco,Africa,1,0,3.54531e+07,0,4.97131e+07,0,591743,0,False
+SAH,ESH,Western Sahara,Africa,1,0,102853,0,149177,0,90495.4,0,False
+CRI,CRI,Costa Rica,North America,1,0,6.98038e+06,0,7.92145e+06,0,51151,0,False
+NIC,NIC,Nicaragua,North America,1,0,6.68907e+06,0,1.05133e+07,0,128685,0,False
+COG,COG,Republic of the Congo,Africa,1,0,9.33724e+06,0,1.07184e+07,0,344889,0,False
+COD,COD,Democratic Republic of the Congo,Africa,1,0,1.71523e+08,0,2.0323e+08,0,2.32524e+06,0,False
+BTN,BTN,Bhutan,Asia,1,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,1,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,1,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+NAM,NAM,Namibia,Africa,1,0,3.45009e+06,0,3.96594e+06,0,822713,0,False
+ZAF,ZAF,South Africa,Africa,1,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,False
+MAF,MAF,Saint Martin,North America,1,0,0,0,0,0,68.2815,0,False
+SXM,SXM,Sint Maarten,North America,1,0,39968.7,0,48129.2,0,23.358,0,False
+UZB,UZB,Uzbekistan,Asia,1,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,1,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,1,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,1,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+BRA,BRA,Brazil,South America,1,0,2.1243e+08,0,2.53033e+08,0,8.47266e+06,0,False
+URY,URY,Uruguay,South America,1,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,1,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,1,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,1,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,1,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,1,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,1,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,1,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,1,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,1,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+VNM,VNM,Vietnam,Asia,1,0,9.28161e+07,0,1.07253e+08,0,328892,0,False
+KHM,KHM,Cambodia,Asia,1,0,1.71329e+07,0,2.27848e+07,0,181060,0,False
+LUX,LUX,Luxembourg,Europe,1,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,1,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,1,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,1,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,1,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,1,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,1,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,1,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,1,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+LAO,LAO,Laos,Asia,1,0,8.47843e+06,0,1.11635e+07,0,228114,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,1,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,1,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,1,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+LBY,LBY,Libya,Africa,1,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,False
+TUN,TUN,Tunisia,Africa,1,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,1,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,1,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,1,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,1,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,1,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,1,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,1,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+ZMB,ZMB,Zambia,Africa,1,0,3.69113e+07,0,5.22068e+07,0,751914,0,False
+SLE,SLE,Sierra Leone,Africa,1,0,1.24305e+07,0,1.39226e+07,0,71611.6,0,False
+GIN,GIN,Guinea,Africa,1,0,1.61837e+07,0,2.3078e+07,0,244302,0,False
+LBR,LBR,Liberia,Africa,1,0,1.29651e+07,0,1.41395e+07,0,95298.2,0,False
+CAF,CAF,Central African Republic,Africa,1,0,8.13473e+06,0,9.44636e+06,0,617984,0,False
+AUT,AUT,Austria,Europe,1,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+IRQ,IRQ,Iraq,Asia,1,0,7.97278e+07,0,1.19011e+08,0,437367,0,False
+ITA,ITA,Italy,Europe,1,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,1,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+IRN,IRN,Iran,Asia,1,0,8.95934e+07,0,1.06568e+08,0,1.62251e+06,0,False
+NLD,NLD,Netherlands,Europe,1,0,1.86362e+07,0,1.3912e+07,0,37397,0,False
+LIE,LIE,Liechtenstein,Europe,1,0,36124.2,0,40021.8,0,137.25,0,False
+CIV,CIV,Ivory Coast,Africa,1,0,3.11476e+07,0,4.63636e+07,0,320677,0,False
+SRB,SRB,Republic of Serbia,Europe,1,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+AGO,AGO,Angola,Africa,1,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,False
+HRV,HRV,Croatia,Europe,1,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,1,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+QAT,QAT,Qatar,Asia,1,0,2.75168e+06,0,2.42414e+06,0,11150.1,0,False
+BWA,BWA,Botswana,Africa,1,0,2.8525e+06,0,2.5181e+06,0,579029,0,False
+ZWE,ZWE,Zimbabwe,Africa,1,0,1.25232e+07,0,1.8211e+07,0,389338,0,False
+BGR,BGR,Bulgaria,Europe,1,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+THA,THA,Thailand,Asia,1,0,6.67212e+07,0,7.41564e+07,0,514453,0,False
+SMR,SMR,San Marino,Europe,1,0,36177.8,0,36646.5,0,60.3174,0,False
+HTI,HTI,Haiti,North America,1,0,1.07858e+07,0,1.49327e+07,0,26891.6,0,False
+DOM,DOM,Dominican Republic,North America,1,0,1.28349e+07,0,1.76331e+07,0,48439.9,0,False
+KWT,KWT,Kuwait,Asia,1,0,5.74722e+06,0,5.58102e+06,0,17473.5,0,False
+SLV,SLV,El Salvador,North America,1,0,5.60567e+06,0,9.37428e+06,0,20539.4,0,False
+GTM,GTM,Guatemala,North America,1,0,2.73982e+07,0,4.2427e+07,0,108811,0,False
+TLS,TLS,East Timor,Asia,1,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,False
+BRN,BRN,Brunei,Asia,1,0,603894,0,618094,0,5716.64,0,False
+MCO,MCO,Monaco,Europe,1,0,0,0,0,0,18.8396,0,False
+DZA,DZA,Algeria,Africa,1,0,4.85326e+07,0,6.14338e+07,0,2.30886e+06,0,False
+MOZ,MOZ,Mozambique,Africa,1,0,4.7154e+07,0,5.61809e+07,0,788447,0,False
+SWZ,SWZ,eSwatini,Africa,1,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+BDI,BDI,Burundi,Africa,1,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,False
+RWA,RWA,Rwanda,Africa,1,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+MMR,MMR,Myanmar,Asia,1,0,4.24877e+07,0,5.27607e+07,0,663159,0,False
+BGD,BGD,Bangladesh,Asia,1,0,1.87152e+08,0,2.34152e+08,0,136904,0,False
+AND,AND,Andorra,Europe,1,0,81058.4,0,97604.7,0,452.239,0,False
+AFG,AFG,Afghanistan,Asia,1,0,9.44788e+07,0,1.29784e+08,0,642181,0,False
+MNE,MNE,Montenegro,Europe,1,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,1,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+UGA,UGA,Uganda,Africa,1,0,1.23347e+08,0,1.66832e+08,0,241854,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,1,0,0,0,0,0,65.3528,0,False
+CUB,CUB,Cuba,North America,1,0,6.80126e+06,0,8.50991e+06,0,109929,0,False
+HND,HND,Honduras,North America,1,0,1.19517e+07,0,1.73542e+07,0,112236,0,False
+ECU,ECU,Ecuador,South America,1,0,2.02565e+07,0,2.77579e+07,0,255014,0,False
+PRY,PRY,Paraguay,South America,1,0,1.02603e+07,0,1.32973e+07,0,399901,0,False
+BRI,BRA,Brazilian Island,South America,1,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,1,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,1,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,1,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+JOR,JOR,Jordan,Asia,1,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,False
+NPL,NPL,Nepal,Asia,1,0,5.51307e+07,0,7.66844e+07,0,147106,0,False
+LSO,LSO,Lesotho,Africa,1,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GAB,GAB,Gabon,Africa,1,0,2.21628e+06,0,2.61017e+06,0,259968,0,False
+TGO,TGO,Togo,Africa,1,0,1.09893e+07,0,1.2525e+07,0,56863.4,0,False
+GHA,GHA,Ghana,Africa,1,0,5.29174e+07,0,7.00787e+07,0,238669,0,False
+GNB,GNB,Guinea-Bissau,Africa,1,0,2.53551e+06,0,3.15686e+06,0,32829.1,0,False
+GIB,GIB,Gibraltar,Europe,1,0,0,0,0,0,3.69249,0,False
+USA,USA,United States of America,North America,1,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,False
+CAN,CAN,Canada,North America,1,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+MEX,MEX,Mexico,North America,1,0,1.49388e+08,0,1.99689e+08,0,1.95785e+06,0,False
+BLZ,BLZ,Belize,North America,1,0,446261,0,666095,0,22299.4,0,False
+PAN,PAN,Panama,North America,1,0,5.11612e+06,0,6.24667e+06,0,74530.3,0,False
+PNG,PNG,Papua New Guinea,Oceania,1,0,1.19577e+07,0,1.45626e+07,0,465147,0,False
+EGY,EGY,Egypt,Africa,1,0,1.31192e+08,0,1.63656e+08,0,1.00106e+06,0,False
+GNQ,GNQ,Equatorial Guinea,Africa,1,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,1,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,1,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,1,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,1,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,1,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,1,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,1,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,1,0,2.05457,0,3.68493,0,1408.88,0,False
+BRT,-99,Bir Tawil,Africa,1,0,1064.6,0,1400,0,2019.46,0,False
+ATA,ATA,Antarctica,Antarctica,1,0,0,0,0,0,1.23582e+07,0,False
+AUS,AUS,Australia,Oceania,1,0,3.97861e+07,0,2.6854e+07,0,7.69117e+06,0,False
+GRL,GRL,Greenland,North America,1,0,25615.5,0,34703,0,2.15438e+06,0,False
+FJI,FJI,Fiji,Oceania,1,0,852169,0,1.10957e+06,0,18930.1,0,False
+NZL,NZL,New Zealand,Oceania,1,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,1,0,292378,0,311330,0,18841.1,0,False
+MDG,MDG,Madagascar,Africa,1,0,5.34276e+07,0,6.92521e+07,0,592981,0,False
+PHL,PHL,Philippines,Asia,1,0,1.51325e+08,0,1.96822e+08,0,293291,0,False
+LKA,LKA,Sri Lanka,Asia,1,0,2.26008e+07,0,2.81343e+07,0,66291.1,0,False
+CUW,CUW,Curaçao,North America,1,0,171905,0,219014,0,463.243,0,False
+ABW,ABW,Aruba,North America,1,0,92626.3,0,90939.9,0,169.766,0,False
+BHS,BHS,The Bahamas,North America,1,0,428157,0,452358,0,12603.9,0,False
+TCA,TCA,Turks and Caicos Islands,North America,1,0,20027.2,0,26606.5,0,445.213,0,False
+TWN,TWN,Taiwan,Asia,1,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,1,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,1,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,1,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,1,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,1,0,241872,0,289555,0,3336.5,0,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),1,0,0,0,0,0,7279.96,0,False
+SYC,SYC,Seychelles,Seven seas (open ocean),1,0,0,0,0,0,435.664,0,False
+KIR,KIR,Kiribati,Oceania,1,0,4979.2,0,4976.6,0,949.863,0,False
+MHL,MHL,Marshall Islands,Oceania,1,0,0,0,0,0,164.814,0,False
+TTO,TTO,Trinidad and Tobago,North America,1,0,960004,0,1.16158e+06,0,5122.92,0,False
+GRD,GRD,Grenada,North America,1,0,93377.5,0,128158,0,347.259,0,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,1,0,47326.3,0,69185.6,0,367.728,0,False
+BRB,BRB,Barbados,North America,1,0,205288,0,218146,0,444.223,0,False
+LCA,LCA,Saint Lucia,North America,1,0,151863,0,186748,0,605.133,0,False
+DMA,DMA,Dominica,North America,1,0,63878.3,0,83641.6,0,730.312,0,False
+UMI,UMI,United States Minor Outlying Islands,North America,1,0,0,0,0,0,28.0046,0,False
+MSR,MSR,Montserrat,North America,1,0,5186.16,0,6049.03,0,99.5971,0,False
+ATG,ATG,Antigua and Barbuda,North America,1,0,92102.7,0,119147,0,451.85,0,False
+KNA,KNA,Saint Kitts and Nevis,North America,1,0,34986.2,0,45485.9,0,264.122,0,False
+VIR,VIR,United States Virgin Islands,North America,1,0,28214,0,33015,0,354.793,0,False
+BLM,BLM,Saint Barthelemy,North America,1,0,0,0,0,0,24.4219,0,False
+PRI,PRI,Puerto Rico,North America,1,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,False
+AIA,AIA,Anguilla,North America,1,0,0,0,0,0,87.4201,0,False
+VGB,VGB,British Virgin Islands,North America,1,0,156.959,0,198.339,0,144.938,0,False
+JAM,JAM,Jamaica,North America,1,0,2.39581e+06,0,3.67148e+06,0,11032.9,0,False
+CYM,CYM,Cayman Islands,North America,1,0,20770.4,0,26043.7,0,309.202,0,False
+BMU,BMU,Bermuda,North America,1,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),1,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),1,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),1,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,1,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,False
+STP,STP,São Tomé and Principe,Africa,1,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,1,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,1,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,1,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,1,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,1,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,1,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,1,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,1,0,272.71,0,176.067,0,111.929,0,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),1,0,0,0,0,0,49.0614,0,False
+SGP,SGP,Singapore,Asia,1,0,4.28604e+06,0,3.9271e+06,0,510.503,0,False
+NFK,NFK,Norfolk Island,Oceania,1,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,1,0,13059.7,0,17204.5,0,191.133,0,False
+TON,TON,Tonga,Oceania,1,0,49547.1,0,89614.9,0,603.109,0,False
+WLF,WLF,Wallis and Futuna,Oceania,1,0,1602.87,0,2130.73,0,139.33,0,False
+WSM,WSM,Samoa,Oceania,1,0,110134,0,229975,0,2780.42,0,False
+SLB,SLB,Solomon Islands,Oceania,1,0,895930,0,1.13587e+06,0,27198.8,0,False
+TUV,TUV,Tuvalu,Oceania,1,0,0,0,0,0,23.0184,0,False
+MDV,MDV,Maldives,Seven seas (open ocean),1,0,0,0,0,0,108.742,0,False
+NRU,NRU,Nauru,Oceania,1,0,0,0,0,0,28.7669,0,False
+FSM,FSM,Federated States of Micronesia,Oceania,1,0,51546.6,0,94421.3,0,633.849,0,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),1,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,1,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,1,0,400755,0,497982,0,12296.6,0,False
+NIU,NIU,Niue,Oceania,1,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,1,0,17627.2,0,23106.4,0,180.304,0,False
+PLW,PLW,Palau,Oceania,1,0,15453.7,0,19821.5,0,491.931,0,False
+GUM,GUM,Guam,Oceania,1,0,175529,0,210406,0,564.205,0,False
+MNP,MNP,Northern Mariana Islands,Oceania,1,0,34393.8,0,45253.8,0,579.305,0,False
+BHR,BHR,Bahrain,Asia,1,0,2.64137e+06,0,2.4325e+06,0,688.118,0,False
+CSI,AUS,Coral Sea Islands,Oceania,1,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,1,0,0,0,0,0,11.9804,0,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),1,0,0,0,0,0,5.00196,0,False
+MAC,MAC,Macao S.A.R,Asia,1,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,1,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,1,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,1,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,1,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,1.5,9.30148e+07,1.75493e+09,1.13551e+08,2.24008e+09,128793,3.15074e+06,4.0877,True
+NER,NER,Niger,Africa,1.5,5.09827e+07,7.21824e+07,7.36198e+07,1.04206e+08,533611,1.1813e+06,45.1714,True
+SDN,SDN,Sudan,Africa,1.5,4.73475e+07,7.34233e+07,5.79979e+07,9.11908e+07,681784,1.85562e+06,36.7417,True
+BFA,BFA,Burkina Faso,Africa,1.5,3.73653e+07,4.72464e+07,5.0764e+07,6.43994e+07,203213,272769,74.5,True
+NGA,NGA,Nigeria,Africa,1.5,3.47531e+07,4.74453e+08,4.60371e+07,6.10435e+08,129025,907498,14.2176,True
+SAU,SAU,Saudi Arabia,Asia,1.5,2.69486e+07,6.20701e+07,3.02287e+07,6.99067e+07,742422,1.92173e+06,38.6331,True
+THA,THA,Thailand,Asia,1.5,2.06079e+07,6.67212e+07,1.95563e+07,7.41564e+07,38678.2,514453,7.51832,True
+MLI,MLI,Mali,Africa,1.5,1.46971e+07,4.31765e+07,1.85617e+07,5.45054e+07,1.00349e+06,1.25272e+06,80.1044,True
+TCD,TCD,Chad,Africa,1.5,1.46341e+07,3.02464e+07,1.75039e+07,3.62048e+07,603309,1.26628e+06,47.6441,True
+YEM,YEM,Yemen,Asia,1.5,1.20988e+07,6.84559e+07,1.69523e+07,9.61469e+07,137298,453075,30.3036,True
+ARE,ARE,United Arab Emirates,Asia,1.5,9.94479e+06,1.69727e+07,8.50938e+06,1.46028e+07,62271.8,71085,87.6019,True
+GHA,GHA,Ghana,Africa,1.5,7.13196e+06,5.29174e+07,1.00653e+07,7.00787e+07,60756.5,238669,25.4564,True
+VEN,VEN,Venezuela,South America,1.5,5.19741e+06,4.24884e+07,6.55871e+06,5.29421e+07,43043.2,912684,4.71612,True
+COL,COL,Colombia,South America,1.5,4.87489e+06,6.5018e+07,6.16542e+06,8.13405e+07,77008.2,1.13512e+06,6.78416,True
+MRT,MRT,Mauritania,Africa,1.5,4.56523e+06,6.82752e+06,5.82583e+06,8.50438e+06,667366,1.03639e+06,64.3934,True
+SDS,SSD,South Sudan,Africa,1.5,4.20356e+06,1.76665e+07,5.35845e+06,2.24756e+07,117445,626859,18.7354,True
+ETH,ETH,Ethiopia,Africa,1.5,4.01548e+06,1.81779e+08,5.31179e+06,2.3535e+08,105333,1.12737e+06,9.34317,True
+KHM,KHM,Cambodia,Asia,1.5,3.21874e+06,1.71329e+07,3.73515e+06,2.27848e+07,5858.72,181060,3.2358,True
+SEN,SEN,Senegal,Africa,1.5,2.84167e+06,2.59866e+07,4.74062e+06,4.05961e+07,99802.5,196225,50.8614,True
+IDN,IDN,Indonesia,Asia,1.5,2.41029e+06,2.60126e+08,2.35128e+06,2.92624e+08,10085.4,1.87983e+06,0.536507,True
+GIN,GIN,Guinea,Africa,1.5,1.957e+06,1.61837e+07,2.75719e+06,2.3078e+07,17141.3,244302,7.01645,True
+KEN,KEN,Kenya,Africa,1.5,1.93165e+06,8.81372e+07,2.7634e+06,1.23004e+08,73377.3,585702,12.5281,True
+SOM,SOM,Somalia,Africa,1.5,1.84891e+06,1.43063e+07,3.11671e+06,2.39379e+07,102308,471815,21.684,True
+CMR,CMR,Cameroon,Africa,1.5,1.69378e+06,3.63431e+07,2.09384e+06,4.41574e+07,13216.1,464318,2.84633,True
+BEN,BEN,Benin,Africa,1.5,1.66312e+06,2.28736e+07,2.00193e+06,2.6048e+07,22858.6,116113,19.6865,True
+TGO,TGO,Togo,Africa,1.5,1.56849e+06,1.09893e+07,1.92474e+06,1.2525e+07,11532.2,56863.4,20.2805,True
+OMN,OMN,Oman,Asia,1.5,1.34552e+06,5.63999e+06,1.40456e+06,5.79059e+06,131045,311213,42.1078,True
+ERI,ERI,Eritrea,Africa,1.5,1.32923e+06,1.3633e+07,1.48995e+06,1.51022e+07,38483.5,122538,31.4054,True
+PAK,PAK,Pakistan,Asia,1.5,1.05878e+06,3.19248e+08,1.55092e+06,4.3232e+08,7306.46,872939,0.836996,True
+DJI,DJI,Djibouti,Africa,1.5,1.04326e+06,1.34773e+06,1.18073e+06,1.5285e+06,13740.9,21848,62.8933,True
+MEX,MEX,Mexico,North America,1.5,497895,1.49388e+08,674555,1.99689e+08,5898.84,1.95785e+06,0.301293,True
+HND,HND,Honduras,North America,1.5,427002,1.19517e+07,636994,1.73542e+07,2479.19,112236,2.2089,True
+SOL,-99,Somaliland,Africa,1.5,402117,2.83394e+06,656714,4.78726e+06,19070.8,167407,11.3919,True
+PHL,PHL,Philippines,Asia,1.5,186247,1.51325e+08,270413,1.96822e+08,323.254,293291,0.110216,True
+LKA,LKA,Sri Lanka,Asia,1.5,178440,2.26008e+07,235855,2.81343e+07,942.897,66291.1,1.42236,True
+DZA,DZA,Algeria,Africa,1.5,166412,4.85326e+07,222050,6.14338e+07,185116,2.30886e+06,8.01765,True
+GTM,GTM,Guatemala,North America,1.5,156654,2.73982e+07,283450,4.2427e+07,648.231,108811,0.595742,True
+BRA,BRA,Brazil,South America,1.5,117650,2.1243e+08,141798,2.53033e+08,5062.85,8.47266e+06,0.0597552,True
+SLE,SLE,Sierra Leone,Africa,1.5,115116,1.24305e+07,134230,1.39226e+07,1147.79,71611.6,1.6028,True
+GMB,GMB,Gambia,Africa,1.5,72919.2,3.36997e+06,108625,4.52093e+06,368.944,10501.1,3.5134,True
+NIC,NIC,Nicaragua,North America,1.5,42115,6.68907e+06,69811.6,1.05133e+07,893.25,128685,0.694138,True
+MDG,MDG,Madagascar,Africa,1.5,37037.3,5.34276e+07,48788.4,6.92521e+07,163.747,592981,0.0276142,True
+JAM,JAM,Jamaica,North America,1.5,15124,2.39581e+06,23738.2,3.67148e+06,173.669,11032.9,1.5741,True
+DOM,DOM,Dominican Republic,North America,1.5,10801.1,1.28349e+07,15303,1.76331e+07,162.42,48439.9,0.335303,True
+SLV,SLV,El Salvador,North America,1.5,9691.5,5.60567e+06,21696.6,9.37428e+06,151.809,20539.4,0.739107,True
+NLD,NLD,Netherlands,Europe,1.5,9666.04,1.86362e+07,12108.8,1.3912e+07,230.511,37397,0.616388,True
+AUS,AUS,Australia,Oceania,1.5,4862.87,3.97861e+07,4437.93,2.6854e+07,127963,7.69117e+06,1.66376,True
+GNB,GNB,Guinea-Bissau,Africa,1.5,1743.46,2.53551e+06,2361.55,3.15686e+06,41.2468,32829.1,0.125641,True
+KIR,KIR,Kiribati,Oceania,1.5,1373.42,4979.2,1372.27,4976.6,89.108,949.863,9.38114,True
+GUY,GUY,Guyana,South America,1.5,434.111,633573,641.883,999059,1168.81,211214,0.553377,True
+QAT,QAT,Qatar,Asia,1.5,414.899,2.75168e+06,402.365,2.42414e+06,120.308,11150.1,1.07899,True
+MYS,MYS,Malaysia,Asia,1.5,0,4.359e+07,0,5.25047e+07,0,327885,0,True
+CHL,CHL,Chile,South America,1.5,0,1.96015e+07,0,2.25921e+07,0,736595,0,True
+BOL,BOL,Bolivia,South America,1.5,0,1.47842e+07,0,2.25738e+07,0,1.08681e+06,0,True
+PER,PER,Peru,South America,1.5,0,3.14427e+07,0,4.46236e+07,0,1.28987e+06,0,True
+ARG,ARG,Argentina,South America,1.5,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,True
+ESB,-99,Dhekelia Sovereign Base Area,Asia,1.5,0,20776.8,0,20384.5,0,127.423,0,True
+CYP,CYP,Cyprus,Asia,1.5,0,1.03466e+06,0,967994,0,5395.04,0,True
+CHN,CHN,China,Asia,1.5,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,True
+ISR,ISR,Israel,Asia,1.5,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,True
+PSX,PSE,Palestine,Asia,1.5,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,True
+LBN,LBN,Lebanon,Asia,1.5,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,True
+MWI,MWI,Malawi,Africa,1.5,0,5.2879e+07,0,7.10866e+07,0,119398,0,True
+TZA,TZA,United Republic of Tanzania,Africa,1.5,0,1.22335e+08,0,1.59497e+08,0,941505,0,True
+SYR,SYR,Syria,Asia,1.5,0,3.58793e+07,0,4.75504e+07,0,185940,0,True
+FRA,FRA,France,Europe,1.5,0,8.07947e+07,0,6.17002e+07,0,636757,0,True
+SUR,SUR,Suriname,South America,1.5,0,662600,0,846261,0,145123,0,True
+KOR,KOR,South Korea,Asia,1.5,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,True
+PRK,PRK,North Korea,Asia,1.5,0,2.14021e+07,0,2.39589e+07,0,122379,0,True
+MAR,MAR,Morocco,Africa,1.5,0,3.54531e+07,0,4.97131e+07,0,591743,0,True
+SAH,ESH,Western Sahara,Africa,1.5,0,102853,0,149177,0,90495.4,0,True
+CRI,CRI,Costa Rica,North America,1.5,0,6.98038e+06,0,7.92145e+06,0,51151,0,True
+COG,COG,Republic of the Congo,Africa,1.5,0,9.33724e+06,0,1.07184e+07,0,344889,0,True
+COD,COD,Democratic Republic of the Congo,Africa,1.5,0,1.71523e+08,0,2.0323e+08,0,2.32524e+06,0,True
+BTN,BTN,Bhutan,Asia,1.5,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,True
+UKR,UKR,Ukraine,Europe,1.5,0,3.52591e+07,0,3.61595e+07,0,571999,0,True
+BLR,BLR,Belarus,Europe,1.5,0,7.35153e+06,0,8.03146e+06,0,207499,0,True
+NAM,NAM,Namibia,Africa,1.5,0,3.45009e+06,0,3.96594e+06,0,822713,0,True
+ZAF,ZAF,South Africa,Africa,1.5,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,True
+MAF,MAF,Saint Martin,North America,1.5,0,0,0,0,0,68.2815,0,True
+SXM,SXM,Sint Maarten,North America,1.5,0,39968.7,0,48129.2,0,23.358,0,True
+UZB,UZB,Uzbekistan,Asia,1.5,0,3.17163e+07,0,4.15725e+07,0,447831,0,True
+KAZ,KAZ,Kazakhstan,Asia,1.5,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,True
+TJK,TJK,Tajikistan,Asia,1.5,0,7.93817e+06,0,1.26819e+07,0,142239,0,True
+LTU,LTU,Lithuania,Europe,1.5,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,True
+URY,URY,Uruguay,South America,1.5,0,2.89053e+06,0,3.72573e+06,0,177342,0,True
+MNG,MNG,Mongolia,Asia,1.5,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,True
+RUS,RUS,Russia,Europe,1.5,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,True
+CZE,CZE,Czechia,Europe,1.5,0,1.1607e+07,0,8.15203e+06,0,78759,0,True
+DEU,DEU,Germany,Europe,1.5,0,7.51203e+07,0,5.44185e+07,0,357674,0,True
+EST,EST,Estonia,Europe,1.5,0,1.12619e+06,0,848509,0,45819,0,True
+LVA,LVA,Latvia,Europe,1.5,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,True
+NOR,NOR,Norway,Europe,1.5,0,7.02167e+06,0,4.75375e+06,0,382074,0,True
+SWE,SWE,Sweden,Europe,1.5,0,1.35253e+07,0,9.27909e+06,0,446173,0,True
+FIN,FIN,Finland,Europe,1.5,0,6.12602e+06,0,4.43366e+06,0,333059,0,True
+VNM,VNM,Vietnam,Asia,1.5,0,9.28161e+07,0,1.07253e+08,0,328892,0,True
+LUX,LUX,Luxembourg,Europe,1.5,0,922822,0,602201,0,2608.48,0,True
+BEL,BEL,Belgium,Europe,1.5,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,True
+GEO,GEO,Georgia,Asia,1.5,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,True
+MKD,MKD,North Macedonia,Europe,1.5,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,True
+ALB,ALB,Albania,Europe,1.5,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,True
+AZE,AZE,Azerbaijan,Asia,1.5,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,True
+KOS,-99,Kosovo,Europe,1.5,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,True
+TUR,TUR,Turkey,Asia,1.5,0,9.48319e+07,0,1.21902e+08,0,780080,0,True
+ESP,ESP,Spain,Europe,1.5,0,4.91165e+07,0,3.53514e+07,0,506885,0,True
+LAO,LAO,Laos,Asia,1.5,0,8.47843e+06,0,1.11635e+07,0,228114,0,True
+KGZ,KGZ,Kyrgyzstan,Asia,1.5,0,6.38419e+06,0,8.74985e+06,0,198990,0,True
+ARM,ARM,Armenia,Asia,1.5,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,True
+DNK,DNK,Denmark,Europe,1.5,0,6.52654e+06,0,4.655e+06,0,42695.9,0,True
+LBY,LBY,Libya,Africa,1.5,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,True
+TUN,TUN,Tunisia,Africa,1.5,0,1.19796e+07,0,1.39603e+07,0,156613,0,True
+ROU,ROU,Romania,Europe,1.5,0,1.46562e+07,0,1.68727e+07,0,236377,0,True
+HUN,HUN,Hungary,Europe,1.5,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,True
+SVK,SVK,Slovakia,Europe,1.5,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,True
+POL,POL,Poland,Europe,1.5,0,3.17657e+07,0,2.46776e+07,0,313428,0,True
+IRL,IRL,Ireland,Europe,1.5,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,True
+GBR,GBR,United Kingdom,Europe,1.5,0,7.82883e+07,0,5.71469e+07,0,243783,0,True
+GRC,GRC,Greece,Europe,1.5,0,9.95235e+06,0,7.49269e+06,0,131353,0,True
+ZMB,ZMB,Zambia,Africa,1.5,0,3.69113e+07,0,5.22068e+07,0,751914,0,True
+LBR,LBR,Liberia,Africa,1.5,0,1.29651e+07,0,1.41395e+07,0,95298.2,0,True
+CAF,CAF,Central African Republic,Africa,1.5,0,8.13473e+06,0,9.44636e+06,0,617984,0,True
+AUT,AUT,Austria,Europe,1.5,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,True
+IRQ,IRQ,Iraq,Asia,1.5,0,7.97278e+07,0,1.19011e+08,0,437367,0,True
+ITA,ITA,Italy,Europe,1.5,0,5.57792e+07,0,4.09817e+07,0,301184,0,True
+CHE,CHE,Switzerland,Europe,1.5,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,True
+IRN,IRN,Iran,Asia,1.5,0,8.95934e+07,0,1.06568e+08,10.9799,1.62251e+06,0.000676724,True
+LIE,LIE,Liechtenstein,Europe,1.5,0,36124.2,0,40021.8,0,137.25,0,True
+CIV,CIV,Ivory Coast,Africa,1.5,0,3.11476e+07,0,4.63636e+07,0,320677,0,True
+SRB,SRB,Republic of Serbia,Europe,1.5,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,True
+AGO,AGO,Angola,Africa,1.5,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,True
+HRV,HRV,Croatia,Europe,1.5,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,True
+SVN,SVN,Slovenia,Europe,1.5,0,2.2598e+06,0,1.61432e+06,0,20327,0,True
+BWA,BWA,Botswana,Africa,1.5,0,2.8525e+06,0,2.5181e+06,0,579029,0,True
+ZWE,ZWE,Zimbabwe,Africa,1.5,0,1.25232e+07,0,1.8211e+07,0,389338,0,True
+BGR,BGR,Bulgaria,Europe,1.5,0,5.97598e+06,0,6.38754e+06,0,112760,0,True
+SMR,SMR,San Marino,Europe,1.5,0,36177.8,0,36646.5,0,60.3174,0,True
+HTI,HTI,Haiti,North America,1.5,0,1.07858e+07,0,1.49327e+07,0,26891.6,0,True
+KWT,KWT,Kuwait,Asia,1.5,0,5.74722e+06,0,5.58102e+06,0,17473.5,0,True
+TLS,TLS,East Timor,Asia,1.5,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,True
+BRN,BRN,Brunei,Asia,1.5,0,603894,0,618094,0,5716.64,0,True
+MCO,MCO,Monaco,Europe,1.5,0,0,0,0,0,18.8396,0,True
+MOZ,MOZ,Mozambique,Africa,1.5,0,4.7154e+07,0,5.61809e+07,0,788447,0,True
+SWZ,SWZ,eSwatini,Africa,1.5,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,True
+BDI,BDI,Burundi,Africa,1.5,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,True
+RWA,RWA,Rwanda,Africa,1.5,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,True
+MMR,MMR,Myanmar,Asia,1.5,0,4.24877e+07,0,5.27607e+07,0,663159,0,True
+BGD,BGD,Bangladesh,Asia,1.5,0,1.87152e+08,0,2.34152e+08,0,136904,0,True
+AND,AND,Andorra,Europe,1.5,0,81058.4,0,97604.7,0,452.239,0,True
+AFG,AFG,Afghanistan,Asia,1.5,0,9.44788e+07,0,1.29784e+08,0,642181,0,True
+MNE,MNE,Montenegro,Europe,1.5,0,535560,0,579515,0,13727.5,0,True
+BIH,BIH,Bosnia and Herzegovina,Europe,1.5,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,True
+UGA,UGA,Uganda,Africa,1.5,0,1.23347e+08,0,1.66832e+08,0,241854,0,True
+USG,-99,US Naval Base Guantanamo Bay,North America,1.5,0,0,0,0,0,65.3528,0,True
+CUB,CUB,Cuba,North America,1.5,0,6.80126e+06,0,8.50991e+06,0,109929,0,True
+ECU,ECU,Ecuador,South America,1.5,0,2.02565e+07,0,2.77579e+07,0,255014,0,True
+PRY,PRY,Paraguay,South America,1.5,0,1.02603e+07,0,1.32973e+07,0,399901,0,True
+BRI,BRA,Brazilian Island,South America,1.5,0,0,0,0,0,2.82463,0,True
+PRT,PRT,Portugal,Europe,1.5,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,True
+MDA,MDA,Moldova,Europe,1.5,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,True
+TKM,TKM,Turkmenistan,Asia,1.5,0,6.3208e+06,0,7.86674e+06,0,470849,0,True
+JOR,JOR,Jordan,Asia,1.5,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,True
+NPL,NPL,Nepal,Asia,1.5,0,5.51307e+07,0,7.66844e+07,0,147106,0,True
+LSO,LSO,Lesotho,Africa,1.5,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,True
+GAB,GAB,Gabon,Africa,1.5,0,2.21628e+06,0,2.61017e+06,0,259968,0,True
+GIB,GIB,Gibraltar,Europe,1.5,0,0,0,0,0,3.69249,0,True
+USA,USA,United States of America,North America,1.5,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,True
+CAN,CAN,Canada,North America,1.5,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,True
+BLZ,BLZ,Belize,North America,1.5,0,446261,0,666095,0,22299.4,0,True
+PAN,PAN,Panama,North America,1.5,0,5.11612e+06,0,6.24667e+06,0,74530.3,0,True
+PNG,PNG,Papua New Guinea,Oceania,1.5,0,1.19577e+07,0,1.45626e+07,0,465147,0,True
+EGY,EGY,Egypt,Africa,1.5,0,1.31192e+08,0,1.63656e+08,0,1.00106e+06,0,True
+GNQ,GNQ,Equatorial Guinea,Africa,1.5,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,True
+HKG,HKG,Hong Kong S.A.R.,Asia,1.5,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,True
+VAT,VAT,Vatican,Europe,1.5,0,0,0,0,0,0.0122038,0,True
+CYN,-99,Northern Cyprus,Asia,1.5,0,359752,0,366353,0,3319.43,0,True
+CNM,-99,Cyprus No Mans Area,Asia,1.5,0,132290,0,116721,0,340.999,0,True
+KAS,-99,Siachen Glacier,Asia,1.5,0,16968.5,0,23025.5,0,2088.06,0,True
+KAB,KAZ,Baykonur Cosmodrome,Asia,1.5,0,9380.15,0,12143.1,0,6501.49,0,True
+WSB,-99,Akrotiri Sovereign Base Area,Asia,1.5,0,18548,0,16548.1,0,98.685,0,True
+SPI,-99,Southern Patagonian Ice Field,South America,1.5,0,2.05457,0,3.68493,0,1408.88,0,True
+BRT,-99,Bir Tawil,Africa,1.5,0,1064.6,0,1400,0,2019.46,0,True
+ATA,ATA,Antarctica,Antarctica,1.5,0,0,0,0,0,1.23582e+07,0,True
+GRL,GRL,Greenland,North America,1.5,0,25615.5,0,34703,0,2.15438e+06,0,True
+FJI,FJI,Fiji,Oceania,1.5,0,852169,0,1.10957e+06,0,18930.1,0,True
+NZL,NZL,New Zealand,Oceania,1.5,0,5.25603e+06,0,3.8787e+06,0,268499,0,True
+NCL,NCL,New Caledonia,Oceania,1.5,0,292378,0,311330,0,18841.1,0,True
+CUW,CUW,Curaçao,North America,1.5,0,171905,0,219014,1.39352,463.243,0.300819,True
+ABW,ABW,Aruba,North America,1.5,0,92626.3,0,90939.9,0.00663798,169.766,0.00391007,True
+BHS,BHS,The Bahamas,North America,1.5,0,428157,0,452358,0,12603.9,0,True
+TCA,TCA,Turks and Caicos Islands,North America,1.5,0,20027.2,0,26606.5,0,445.213,0,True
+TWN,TWN,Taiwan,Asia,1.5,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,True
+JPN,JPN,Japan,Asia,1.5,0,9.08181e+07,0,6.99495e+07,0,373507,0,True
+SPM,SPM,Saint Pierre and Miquelon,North America,1.5,0,5646.31,0,7530.37,0,242.763,0,True
+ISL,ISL,Iceland,Europe,1.5,0,472610,0,331098,0,102390,0,True
+PCN,PCN,Pitcairn Islands,Oceania,1.5,0,0,0,0,0,42.5696,0,True
+PYF,PYF,French Polynesia,Oceania,1.5,0,241872,0,289555,0,3336.5,0,True
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),1.5,0,0,0,0,0,7279.96,0,True
+SYC,SYC,Seychelles,Seven seas (open ocean),1.5,0,0,0,0,0,435.664,0,True
+MHL,MHL,Marshall Islands,Oceania,1.5,0,0,0,0,13.735,164.814,8.33361,True
+TTO,TTO,Trinidad and Tobago,North America,1.5,0,960004,0,1.16158e+06,0,5122.92,0,True
+GRD,GRD,Grenada,North America,1.5,0,93377.5,0,128158,0,347.259,0,True
+VCT,VCT,Saint Vincent and the Grenadines,North America,1.5,0,47326.3,0,69185.6,0,367.728,0,True
+BRB,BRB,Barbados,North America,1.5,0,205288,0,218146,0,444.223,0,True
+LCA,LCA,Saint Lucia,North America,1.5,0,151863,0,186748,0,605.133,0,True
+DMA,DMA,Dominica,North America,1.5,0,63878.3,0,83641.6,0,730.312,0,True
+UMI,UMI,United States Minor Outlying Islands,North America,1.5,0,0,0,0,0,28.0046,0,True
+MSR,MSR,Montserrat,North America,1.5,0,5186.16,0,6049.03,0,99.5971,0,True
+ATG,ATG,Antigua and Barbuda,North America,1.5,0,92102.7,0,119147,0,451.85,0,True
+KNA,KNA,Saint Kitts and Nevis,North America,1.5,0,34986.2,0,45485.9,0,264.122,0,True
+VIR,VIR,United States Virgin Islands,North America,1.5,0,28214,0,33015,0,354.793,0,True
+BLM,BLM,Saint Barthelemy,North America,1.5,0,0,0,0,0,24.4219,0,True
+PRI,PRI,Puerto Rico,North America,1.5,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,True
+AIA,AIA,Anguilla,North America,1.5,0,0,0,0,0,87.4201,0,True
+VGB,VGB,British Virgin Islands,North America,1.5,0,156.959,0,198.339,0,144.938,0,True
+CYM,CYM,Cayman Islands,North America,1.5,0,20770.4,0,26043.7,0,309.202,0,True
+BMU,BMU,Bermuda,North America,1.5,0,36479,0,45595,0,62.302,0,True
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),1.5,0,0,0,0,0,394.833,0,True
+SHN,SHN,Saint Helena,Seven seas (open ocean),1.5,0,3557.42,0,4331.07,0,366.653,0,True
+MUS,MUS,Mauritius,Seven seas (open ocean),1.5,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,True
+COM,COM,Comoros,Africa,1.5,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,True
+STP,STP,São Tomé and Principe,Africa,1.5,0,170750,0,262485,0,1037.16,0,True
+CPV,CPV,Cabo Verde,Africa,1.5,0,429728,0,658054,0,3926.72,0,True
+MLT,MLT,Malta,Europe,1.5,0,370288,0,378372,0,325.684,0,True
+JEY,JEY,Jersey,Europe,1.5,0,98529,0,123275,0,119.05,0,True
+GGY,GGY,Guernsey,Europe,1.5,0,58799.7,0,73482.9,0,73.9851,0,True
+IMN,IMN,Isle of Man,Europe,1.5,0,71948,0,89864.9,0,574.809,0,True
+ALD,ALA,Aland,Europe,1.5,0,20753.3,0,14879.3,0,942.066,0,True
+FRO,FRO,Faroe Islands,Europe,1.5,0,39021.3,0,48956.1,0,1328.53,0,True
+IOA,AUS,Indian Ocean Territories,Asia,1.5,0,272.71,0,176.067,0,111.929,0,True
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),1.5,0,0,0,0,4.27603,49.0614,8.71568,True
+SGP,SGP,Singapore,Asia,1.5,0,4.28604e+06,0,3.9271e+06,0,510.503,0,True
+NFK,NFK,Norfolk Island,Oceania,1.5,0,0,0,0,0,41.1466,0,True
+COK,COK,Cook Islands,Oceania,1.5,0,13059.7,0,17204.5,0.041467,191.133,0.0216954,True
+TON,TON,Tonga,Oceania,1.5,0,49547.1,0,89614.9,0,603.109,0,True
+WLF,WLF,Wallis and Futuna,Oceania,1.5,0,1602.87,0,2130.73,0,139.33,0,True
+WSM,WSM,Samoa,Oceania,1.5,0,110134,0,229975,0,2780.42,0,True
+SLB,SLB,Solomon Islands,Oceania,1.5,0,895930,0,1.13587e+06,0,27198.8,0,True
+TUV,TUV,Tuvalu,Oceania,1.5,0,0,0,0,3.50642,23.0184,15.2332,True
+MDV,MDV,Maldives,Seven seas (open ocean),1.5,0,0,0,0,27.1415,108.742,24.9595,True
+NRU,NRU,Nauru,Oceania,1.5,0,0,0,0,0,28.7669,0,True
+FSM,FSM,Federated States of Micronesia,Oceania,1.5,0,51546.6,0,94421.3,8.76889,633.849,1.38344,True
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),1.5,0,0,0,0,0,3921.5,0,True
+FLK,FLK,Falkland Islands,South America,1.5,0,2540.27,0,3383.92,0,11597.2,0,True
+VUT,VUT,Vanuatu,Oceania,1.5,0,400755,0,497982,0,12296.6,0,True
+NIU,NIU,Niue,Oceania,1.5,0,523.136,0,523.136,0,220.574,0,True
+ASM,ASM,American Samoa,Oceania,1.5,0,17627.2,0,23106.4,0,180.304,0,True
+PLW,PLW,Palau,Oceania,1.5,0,15453.7,0,19821.5,0,491.931,0,True
+GUM,GUM,Guam,Oceania,1.5,0,175529,0,210406,0,564.205,0,True
+MNP,MNP,Northern Mariana Islands,Oceania,1.5,0,34393.8,0,45253.8,0,579.305,0,True
+BHR,BHR,Bahrain,Asia,1.5,0,2.64137e+06,0,2.4325e+06,0,688.118,0,True
+CSI,AUS,Coral Sea Islands,Oceania,1.5,0,0,0,0,0,0.0207323,0,True
+PGA,-99,Spratly Islands,Asia,1.5,0,0,0,0,1.95713,11.9804,16.3361,True
+CLP,FRA,Clipperton Island,Seven seas (open ocean),1.5,0,0,0,0,5.00205,5.00196,100,True
+MAC,MAC,Macao S.A.R,Asia,1.5,0,1.01356e+06,0,907901,0,30.0757,0,True
+ATC,AUS,Ashmore and Cartier Islands,Oceania,1.5,0,0,0,0,0,2.69549,0,True
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,1.5,0,0,0,0,0,0.0358638,0,True
+SER,-99,Serranilla Bank,North America,1.5,0,0,0,0,0,0.105289,0,True
+SCR,-99,Scarborough Reef,Asia,1.5,0,0,0,0,0,0.0977859,0,True
+IND,IND,India,Asia,1.8,1.74519e+08,1.75493e+09,2.16385e+08,2.24008e+09,321023,3.15074e+06,10.1888,False
+NGA,NGA,Nigeria,Africa,1.8,6.64675e+07,4.74453e+08,8.84272e+07,6.10435e+08,249251,907498,27.4658,False
+NER,NER,Niger,Africa,1.8,6.46626e+07,7.21824e+07,9.3396e+07,1.04206e+08,664900,1.1813e+06,56.2853,False
+SDN,SDN,Sudan,Africa,1.8,5.26868e+07,7.34233e+07,6.47965e+07,9.11908e+07,855576,1.85562e+06,46.1074,False
+BFA,BFA,Burkina Faso,Africa,1.8,4.47274e+07,4.72464e+07,6.09121e+07,6.43994e+07,247719,272769,90.8163,False
+SAU,SAU,Saudi Arabia,Asia,1.8,3.05712e+07,6.20701e+07,3.43167e+07,6.99067e+07,831050,1.92173e+06,43.245,False
+MLI,MLI,Mali,Africa,1.8,2.9119e+07,4.31765e+07,3.67942e+07,5.45054e+07,1.13738e+06,1.25272e+06,90.793,False
+THA,THA,Thailand,Asia,1.8,2.7574e+07,6.67212e+07,2.74072e+07,7.41564e+07,87018.7,514453,16.9148,False
+TCD,TCD,Chad,Africa,1.8,2.13812e+07,3.02464e+07,2.55641e+07,3.62048e+07,750817,1.26628e+06,59.293,False
+ARE,ARE,United Arab Emirates,Asia,1.8,1.49305e+07,1.69727e+07,1.28252e+07,1.46028e+07,67658.4,71085,95.1796,False
+PHL,PHL,Philippines,Asia,1.8,1.48064e+07,1.51325e+08,1.72422e+07,1.96822e+08,7195.03,293291,2.45321,False
+YEM,YEM,Yemen,Asia,1.8,1.40192e+07,6.84559e+07,1.97928e+07,9.61469e+07,170974,453075,37.7364,False
+KHM,KHM,Cambodia,Asia,1.8,1.28959e+07,1.71329e+07,1.6951e+07,2.27848e+07,49564.4,181060,27.3746,False
+SDS,SSD,South Sudan,Africa,1.8,1.24206e+07,1.76665e+07,1.58178e+07,2.24756e+07,307884,626859,49.1154,False
+COL,COL,Colombia,South America,1.8,1.18205e+07,6.5018e+07,1.47688e+07,8.13405e+07,155083,1.13512e+06,13.6623,False
+GHA,GHA,Ghana,Africa,1.8,1.16465e+07,5.29174e+07,1.64818e+07,7.00787e+07,115340,238669,48.3265,False
+PAK,PAK,Pakistan,Asia,1.8,1.098e+07,3.19248e+08,1.57083e+07,4.3232e+08,52381.5,872939,6.00059,False
+VNM,VNM,Vietnam,Asia,1.8,1.01911e+07,9.28161e+07,1.0245e+07,1.07253e+08,7616.61,328892,2.31584,False
+SEN,SEN,Senegal,Africa,1.8,9.08122e+06,2.59866e+07,1.52832e+07,4.05961e+07,140340,196225,71.5201,False
+VEN,VEN,Venezuela,South America,1.8,8.62395e+06,4.24884e+07,1.0942e+07,5.29421e+07,205014,912684,22.4628,False
+ETH,ETH,Ethiopia,Africa,1.8,5.38762e+06,1.81779e+08,7.12292e+06,2.3535e+08,148715,1.12737e+06,13.1913,False
+CMR,CMR,Cameroon,Africa,1.8,5.19471e+06,3.63431e+07,6.41203e+06,4.41574e+07,35215.7,464318,7.58439,False
+MRT,MRT,Mauritania,Africa,1.8,4.71383e+06,6.82752e+06,6.01339e+06,8.50438e+06,728964,1.03639e+06,70.337,False
+IDN,IDN,Indonesia,Asia,1.8,4.61868e+06,2.60126e+08,4.79571e+06,2.92624e+08,29729.8,1.87983e+06,1.58152,False
+BEN,BEN,Benin,Africa,1.8,3.97612e+06,2.28736e+07,4.75645e+06,2.6048e+07,37919.2,116113,32.6571,False
+GIN,GIN,Guinea,Africa,1.8,3.52343e+06,1.61837e+07,4.98899e+06,2.3078e+07,28503.1,244302,11.6672,False
+SOM,SOM,Somalia,Africa,1.8,3.26907e+06,1.43063e+07,5.5476e+06,2.39379e+07,166101,471815,35.2046,False
+KEN,KEN,Kenya,Africa,1.8,2.56179e+06,8.81372e+07,3.68752e+06,1.23004e+08,101605,585702,17.3476,False
+OMN,OMN,Oman,Asia,1.8,2.46213e+06,5.63999e+06,2.49809e+06,5.79059e+06,179133,311213,57.5595,False
+TGO,TGO,Togo,Africa,1.8,2.03735e+06,1.09893e+07,2.49635e+06,1.2525e+07,15608.8,56863.4,27.4496,False
+LKA,LKA,Sri Lanka,Asia,1.8,1.76324e+06,2.26008e+07,2.29223e+06,2.81343e+07,9464.25,66291.1,14.2768,False
+ERI,ERI,Eritrea,Africa,1.8,1.7273e+06,1.3633e+07,1.93597e+06,1.51022e+07,45869.6,122538,37.433,False
+BRA,BRA,Brazil,South America,1.8,1.18332e+06,2.1243e+08,1.42257e+06,2.53033e+08,83809.2,8.47266e+06,0.989172,False
+DJI,DJI,Djibouti,Africa,1.8,1.11358e+06,1.34773e+06,1.26094e+06,1.5285e+06,15708.2,21848,71.8979,False
+MEX,MEX,Mexico,North America,1.8,904266,1.49388e+08,1.24282e+06,1.99689e+08,11609,1.95785e+06,0.592947,False
+GTM,GTM,Guatemala,North America,1.8,837168,2.73982e+07,1.49805e+06,4.2427e+07,2921.64,108811,2.68506,False
+GMB,GMB,Gambia,Africa,1.8,783672,3.36997e+06,1.16049e+06,4.52093e+06,3671.01,10501.1,34.9584,False
+MYS,MYS,Malaysia,Asia,1.8,702887,4.359e+07,736502,5.25047e+07,234.749,327885,0.0715951,False
+SLE,SLE,Sierra Leone,Africa,1.8,650264,1.24305e+07,741950,1.39226e+07,4464.27,71611.6,6.234,False
+MMR,MMR,Myanmar,Asia,1.8,645746,4.24877e+07,826972,5.27607e+07,2788.58,663159,0.420499,False
+HND,HND,Honduras,North America,1.8,505125,1.19517e+07,753561,1.73542e+07,2874.85,112236,2.56142,False
+SOL,-99,Somaliland,Africa,1.8,454709,2.83394e+06,744065,4.78726e+06,21810.6,167407,13.0285,False
+DZA,DZA,Algeria,Africa,1.8,260689,4.85326e+07,347907,6.14338e+07,310328,2.30886e+06,13.4408,False
+NIC,NIC,Nicaragua,North America,1.8,188768,6.68907e+06,311744,1.05133e+07,2774.64,128685,2.15615,False
+IRN,IRN,Iran,Asia,1.8,147135,8.95934e+07,181274,1.06568e+08,6624.33,1.62251e+06,0.408277,False
+MDG,MDG,Madagascar,Africa,1.8,137831,5.34276e+07,182022,6.92521e+07,2129.48,592981,0.359114,False
+ABW,ABW,Aruba,North America,1.8,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+CUW,CUW,Curaçao,North America,1.8,91385.9,171905,116604,219014,196.045,463.243,42.3202,False
+JAM,JAM,Jamaica,North America,1.8,54079.9,2.39581e+06,83831.9,3.67148e+06,387.327,11032.9,3.51066,False
+QAT,QAT,Qatar,Asia,1.8,46320,2.75168e+06,40227,2.42414e+06,1186.95,11150.1,10.6452,False
+DOM,DOM,Dominican Republic,North America,1.8,41796.1,1.28349e+07,62350.8,1.76331e+07,730.834,48439.9,1.50875,False
+CIV,CIV,Ivory Coast,Africa,1.8,34321.3,3.11476e+07,49580.9,4.63636e+07,3850.15,320677,1.20063,False
+GNB,GNB,Guinea-Bissau,Africa,1.8,33944.5,2.53551e+06,43391.7,3.15686e+06,624.574,32829.1,1.9025,False
+AUS,AUS,Australia,Oceania,1.8,28693.8,3.97861e+07,19360,2.6854e+07,325052,7.69117e+06,4.2263,False
+LAO,LAO,Laos,Asia,1.8,23575.6,8.47843e+06,30644.6,1.11635e+07,496.221,228114,0.217532,False
+SLV,SLV,El Salvador,North America,1.8,21885.5,5.60567e+06,53089.1,9.37428e+06,292.546,20539.4,1.42432,False
+BOL,BOL,Bolivia,South America,1.8,13913.1,1.47842e+07,22250.2,2.25738e+07,2894.06,1.08681e+06,0.26629,False
+TZA,TZA,United Republic of Tanzania,Africa,1.8,11179.1,1.22335e+08,14595.2,1.59497e+08,1219.26,941505,0.129501,False
+NLD,NLD,Netherlands,Europe,1.8,9666.04,1.86362e+07,12108.8,1.3912e+07,269.119,37397,0.719629,False
+CRI,CRI,Costa Rica,North America,1.8,7565.84,6.98038e+06,10594.4,7.92145e+06,168.171,51151,0.328774,False
+GUY,GUY,Guyana,South America,1.8,1878.04,633573,3037.64,999059,8191.59,211214,3.87834,False
+KIR,KIR,Kiribati,Oceania,1.8,1373.42,4979.2,1372.27,4976.6,146.245,949.863,15.3964,False
+SAH,ESH,Western Sahara,Africa,1.8,353.705,102853,473.432,149177,278.786,90495.4,0.308067,False
+CAF,CAF,Central African Republic,Africa,1.8,82.8886,8.13473e+06,94.8448,9.44636e+06,84.2464,617984,0.0136325,False
+CHL,CHL,Chile,South America,1.8,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+PER,PER,Peru,South America,1.8,0,3.14427e+07,0,4.46236e+07,0,1.28987e+06,0,False
+ARG,ARG,Argentina,South America,1.8,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,1.8,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,1.8,0,1.03466e+06,0,967994,0,5395.04,0,False
+CHN,CHN,China,Asia,1.8,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,False
+ISR,ISR,Israel,Asia,1.8,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,False
+PSX,PSE,Palestine,Asia,1.8,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,1.8,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+MWI,MWI,Malawi,Africa,1.8,0,5.2879e+07,0,7.10866e+07,0,119398,0,False
+SYR,SYR,Syria,Asia,1.8,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+FRA,FRA,France,Europe,1.8,0,8.07947e+07,0,6.17002e+07,0,636757,0,False
+SUR,SUR,Suriname,South America,1.8,0,662600,0,846261,0,145123,0,False
+KOR,KOR,South Korea,Asia,1.8,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,1.8,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+MAR,MAR,Morocco,Africa,1.8,0,3.54531e+07,0,4.97131e+07,0,591743,0,False
+COG,COG,Republic of the Congo,Africa,1.8,0,9.33724e+06,0,1.07184e+07,0,344889,0,False
+COD,COD,Democratic Republic of the Congo,Africa,1.8,0,1.71523e+08,0,2.0323e+08,221.607,2.32524e+06,0.00953051,False
+BTN,BTN,Bhutan,Asia,1.8,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,1.8,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,1.8,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+NAM,NAM,Namibia,Africa,1.8,0,3.45009e+06,0,3.96594e+06,0,822713,0,False
+ZAF,ZAF,South Africa,Africa,1.8,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,False
+MAF,MAF,Saint Martin,North America,1.8,0,0,0,0,0,68.2815,0,False
+SXM,SXM,Sint Maarten,North America,1.8,0,39968.7,0,48129.2,0,23.358,0,False
+UZB,UZB,Uzbekistan,Asia,1.8,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,1.8,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,1.8,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,1.8,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,1.8,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,1.8,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,1.8,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,1.8,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,1.8,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,1.8,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,1.8,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,1.8,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,1.8,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,1.8,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,1.8,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,1.8,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,1.8,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,1.8,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,1.8,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,1.8,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,1.8,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,1.8,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,1.8,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,1.8,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,1.8,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,1.8,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+LBY,LBY,Libya,Africa,1.8,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,False
+TUN,TUN,Tunisia,Africa,1.8,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,1.8,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,1.8,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,1.8,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,1.8,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,1.8,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,1.8,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,1.8,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+ZMB,ZMB,Zambia,Africa,1.8,0,3.69113e+07,0,5.22068e+07,0,751914,0,False
+LBR,LBR,Liberia,Africa,1.8,0,1.29651e+07,0,1.41395e+07,0,95298.2,0,False
+AUT,AUT,Austria,Europe,1.8,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+IRQ,IRQ,Iraq,Asia,1.8,0,7.97278e+07,0,1.19011e+08,0,437367,0,False
+ITA,ITA,Italy,Europe,1.8,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,1.8,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,1.8,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,1.8,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+AGO,AGO,Angola,Africa,1.8,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,False
+HRV,HRV,Croatia,Europe,1.8,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,1.8,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BWA,BWA,Botswana,Africa,1.8,0,2.8525e+06,0,2.5181e+06,0,579029,0,False
+ZWE,ZWE,Zimbabwe,Africa,1.8,0,1.25232e+07,0,1.8211e+07,0,389338,0,False
+BGR,BGR,Bulgaria,Europe,1.8,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,1.8,0,36177.8,0,36646.5,0,60.3174,0,False
+HTI,HTI,Haiti,North America,1.8,0,1.07858e+07,0,1.49327e+07,0,26891.6,0,False
+KWT,KWT,Kuwait,Asia,1.8,0,5.74722e+06,0,5.58102e+06,0,17473.5,0,False
+TLS,TLS,East Timor,Asia,1.8,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,False
+BRN,BRN,Brunei,Asia,1.8,0,603894,0,618094,0,5716.64,0,False
+MCO,MCO,Monaco,Europe,1.8,0,0,0,0,0,18.8396,0,False
+MOZ,MOZ,Mozambique,Africa,1.8,0,4.7154e+07,0,5.61809e+07,0,788447,0,False
+SWZ,SWZ,eSwatini,Africa,1.8,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+BDI,BDI,Burundi,Africa,1.8,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,False
+RWA,RWA,Rwanda,Africa,1.8,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+BGD,BGD,Bangladesh,Asia,1.8,0,1.87152e+08,0,2.34152e+08,0,136904,0,False
+AND,AND,Andorra,Europe,1.8,0,81058.4,0,97604.7,0,452.239,0,False
+AFG,AFG,Afghanistan,Asia,1.8,0,9.44788e+07,0,1.29784e+08,0,642181,0,False
+MNE,MNE,Montenegro,Europe,1.8,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,1.8,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+UGA,UGA,Uganda,Africa,1.8,0,1.23347e+08,0,1.66832e+08,0,241854,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,1.8,0,0,0,0,0,65.3528,0,False
+CUB,CUB,Cuba,North America,1.8,0,6.80126e+06,0,8.50991e+06,0,109929,0,False
+ECU,ECU,Ecuador,South America,1.8,0,2.02565e+07,0,2.77579e+07,0,255014,0,False
+PRY,PRY,Paraguay,South America,1.8,0,1.02603e+07,0,1.32973e+07,0,399901,0,False
+BRI,BRA,Brazilian Island,South America,1.8,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,1.8,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,1.8,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,1.8,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+JOR,JOR,Jordan,Asia,1.8,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,False
+NPL,NPL,Nepal,Asia,1.8,0,5.51307e+07,0,7.66844e+07,0,147106,0,False
+LSO,LSO,Lesotho,Africa,1.8,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GAB,GAB,Gabon,Africa,1.8,0,2.21628e+06,0,2.61017e+06,0,259968,0,False
+GIB,GIB,Gibraltar,Europe,1.8,0,0,0,0,0,3.69249,0,False
+USA,USA,United States of America,North America,1.8,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,False
+CAN,CAN,Canada,North America,1.8,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+BLZ,BLZ,Belize,North America,1.8,0,446261,0,666095,0,22299.4,0,False
+PAN,PAN,Panama,North America,1.8,0,5.11612e+06,0,6.24667e+06,0,74530.3,0,False
+PNG,PNG,Papua New Guinea,Oceania,1.8,0,1.19577e+07,0,1.45626e+07,0,465147,0,False
+EGY,EGY,Egypt,Africa,1.8,0,1.31192e+08,0,1.63656e+08,237.033,1.00106e+06,0.0236782,False
+GNQ,GNQ,Equatorial Guinea,Africa,1.8,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,1.8,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,1.8,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,1.8,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,1.8,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,1.8,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,1.8,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,1.8,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,1.8,0,2.05457,0,3.68493,0,1408.88,0,False
+BRT,-99,Bir Tawil,Africa,1.8,0,1064.6,0,1400,0,2019.46,0,False
+ATA,ATA,Antarctica,Antarctica,1.8,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,1.8,0,25615.5,0,34703,0,2.15438e+06,0,False
+FJI,FJI,Fiji,Oceania,1.8,0,852169,0,1.10957e+06,0,18930.1,0,False
+NZL,NZL,New Zealand,Oceania,1.8,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,1.8,0,292378,0,311330,0,18841.1,0,False
+BHS,BHS,The Bahamas,North America,1.8,0,428157,0,452358,0,12603.9,0,False
+TCA,TCA,Turks and Caicos Islands,North America,1.8,0,20027.2,0,26606.5,0,445.213,0,False
+TWN,TWN,Taiwan,Asia,1.8,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,1.8,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,1.8,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,1.8,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,1.8,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,1.8,0,241872,0,289555,0,3336.5,0,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),1.8,0,0,0,0,0,7279.96,0,False
+SYC,SYC,Seychelles,Seven seas (open ocean),1.8,0,0,0,0,0,435.664,0,False
+MHL,MHL,Marshall Islands,Oceania,1.8,0,0,0,0,21.3998,164.814,12.9842,False
+TTO,TTO,Trinidad and Tobago,North America,1.8,0,960004,0,1.16158e+06,0,5122.92,0,False
+GRD,GRD,Grenada,North America,1.8,0,93377.5,0,128158,0,347.259,0,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,1.8,0,47326.3,0,69185.6,0,367.728,0,False
+BRB,BRB,Barbados,North America,1.8,0,205288,0,218146,0,444.223,0,False
+LCA,LCA,Saint Lucia,North America,1.8,0,151863,0,186748,0,605.133,0,False
+DMA,DMA,Dominica,North America,1.8,0,63878.3,0,83641.6,0,730.312,0,False
+UMI,UMI,United States Minor Outlying Islands,North America,1.8,0,0,0,0,3.05179,28.0046,10.8975,False
+MSR,MSR,Montserrat,North America,1.8,0,5186.16,0,6049.03,0,99.5971,0,False
+ATG,ATG,Antigua and Barbuda,North America,1.8,0,92102.7,0,119147,0,451.85,0,False
+KNA,KNA,Saint Kitts and Nevis,North America,1.8,0,34986.2,0,45485.9,0,264.122,0,False
+VIR,VIR,United States Virgin Islands,North America,1.8,0,28214,0,33015,0,354.793,0,False
+BLM,BLM,Saint Barthelemy,North America,1.8,0,0,0,0,0,24.4219,0,False
+PRI,PRI,Puerto Rico,North America,1.8,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,False
+AIA,AIA,Anguilla,North America,1.8,0,0,0,0,0,87.4201,0,False
+VGB,VGB,British Virgin Islands,North America,1.8,0,156.959,0,198.339,0,144.938,0,False
+CYM,CYM,Cayman Islands,North America,1.8,0,20770.4,0,26043.7,0,309.202,0,False
+BMU,BMU,Bermuda,North America,1.8,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),1.8,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),1.8,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),1.8,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,1.8,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,False
+STP,STP,São Tomé and Principe,Africa,1.8,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,1.8,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,1.8,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,1.8,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,1.8,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,1.8,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,1.8,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,1.8,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,1.8,0,272.71,0,176.067,0,111.929,0,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),1.8,0,0,0,0,4.27603,49.0614,8.71568,False
+SGP,SGP,Singapore,Asia,1.8,0,4.28604e+06,0,3.9271e+06,0,510.503,0,False
+NFK,NFK,Norfolk Island,Oceania,1.8,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,1.8,0,13059.7,0,17204.5,3.85542,191.133,2.01714,False
+TON,TON,Tonga,Oceania,1.8,0,49547.1,0,89614.9,0,603.109,0,False
+WLF,WLF,Wallis and Futuna,Oceania,1.8,0,1602.87,0,2130.73,0,139.33,0,False
+WSM,WSM,Samoa,Oceania,1.8,0,110134,0,229975,0,2780.42,0,False
+SLB,SLB,Solomon Islands,Oceania,1.8,0,895930,0,1.13587e+06,14.0363,27198.8,0.0516063,False
+TUV,TUV,Tuvalu,Oceania,1.8,0,0,0,0,5.5502,23.0184,24.112,False
+MDV,MDV,Maldives,Seven seas (open ocean),1.8,0,0,0,0,45.071,108.742,41.4475,False
+NRU,NRU,Nauru,Oceania,1.8,0,0,0,0,0,28.7669,0,False
+FSM,FSM,Federated States of Micronesia,Oceania,1.8,0,51546.6,0,94421.3,8.76889,633.849,1.38344,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),1.8,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,1.8,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,1.8,0,400755,0,497982,0,12296.6,0,False
+NIU,NIU,Niue,Oceania,1.8,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,1.8,0,17627.2,0,23106.4,0,180.304,0,False
+PLW,PLW,Palau,Oceania,1.8,0,15453.7,0,19821.5,0,491.931,0,False
+GUM,GUM,Guam,Oceania,1.8,0,175529,0,210406,0,564.205,0,False
+MNP,MNP,Northern Mariana Islands,Oceania,1.8,0,34393.8,0,45253.8,0,579.305,0,False
+BHR,BHR,Bahrain,Asia,1.8,0,2.64137e+06,0,2.4325e+06,0,688.118,0,False
+CSI,AUS,Coral Sea Islands,Oceania,1.8,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,1.8,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),1.8,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,1.8,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,1.8,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,1.8,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,1.8,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,1.8,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,2,1.88707e+08,1.75493e+09,2.32786e+08,2.24008e+09,348376,3.15074e+06,11.0569,False
+NGA,NGA,Nigeria,Africa,2,8.76217e+07,4.74453e+08,1.14933e+08,6.10435e+08,296739,907498,32.6986,False
+NER,NER,Niger,Africa,2,6.76472e+07,7.21824e+07,9.76821e+07,1.04206e+08,883389,1.1813e+06,74.7809,False
+SDN,SDN,Sudan,Africa,2,5.60664e+07,7.34233e+07,6.90904e+07,9.11908e+07,993402,1.85562e+06,53.5349,False
+BFA,BFA,Burkina Faso,Africa,2,4.60916e+07,4.72464e+07,6.27953e+07,6.43994e+07,260566,272769,95.5263,False
+MLI,MLI,Mali,Africa,2,3.76381e+07,4.31765e+07,4.74388e+07,5.45054e+07,1.20665e+06,1.25272e+06,96.3218,False
+SAU,SAU,Saudi Arabia,Asia,2,3.46005e+07,6.20701e+07,3.88687e+07,6.99067e+07,931350,1.92173e+06,48.4643,False
+THA,THA,Thailand,Asia,2,3.10668e+07,6.67212e+07,3.13634e+07,7.41564e+07,112658,514453,21.8986,False
+PHL,PHL,Philippines,Asia,2,2.88366e+07,1.51325e+08,3.48832e+07,1.96822e+08,19372.5,293291,6.60523,False
+TCD,TCD,Chad,Africa,2,2.24165e+07,3.02464e+07,2.68053e+07,3.62048e+07,819080,1.26628e+06,64.6838,False
+VNM,VNM,Vietnam,Asia,2,2.16533e+07,9.28161e+07,2.35045e+07,1.07253e+08,24438.4,328892,7.43053,False
+PAK,PAK,Pakistan,Asia,2,2.02314e+07,3.19248e+08,2.89795e+07,4.3232e+08,85643.9,872939,9.81099,False
+IDN,IDN,Indonesia,Asia,2,1.70804e+07,2.60126e+08,1.71413e+07,2.92624e+08,103407,1.87983e+06,5.50091,False
+ARE,ARE,United Arab Emirates,Asia,2,1.63006e+07,1.69727e+07,1.40214e+07,1.46028e+07,68749.1,71085,96.714,False
+YEM,YEM,Yemen,Asia,2,1.52575e+07,6.84559e+07,2.164e+07,9.61469e+07,196246,453075,43.3143,False
+COL,COL,Colombia,South America,2,1.47564e+07,6.5018e+07,1.86434e+07,8.13405e+07,260712,1.13512e+06,22.9678,False
+KHM,KHM,Cambodia,Asia,2,1.47326e+07,1.71329e+07,1.94484e+07,2.27848e+07,70488.1,181060,38.9308,False
+SDS,SSD,South Sudan,Africa,2,1.29333e+07,1.76665e+07,1.647e+07,2.24756e+07,330111,626859,52.6612,False
+GHA,GHA,Ghana,Africa,2,1.28082e+07,5.29174e+07,1.80787e+07,7.00787e+07,127298,238669,53.3367,False
+SEN,SEN,Senegal,Africa,2,1.02924e+07,2.59866e+07,1.73208e+07,4.05961e+07,150148,196225,76.5183,False
+VEN,VEN,Venezuela,South America,2,1.0292e+07,4.24884e+07,1.30714e+07,5.29421e+07,301290,912684,33.0114,False
+BEN,BEN,Benin,Africa,2,7.87865e+06,2.28736e+07,8.95141e+06,2.6048e+07,48367.6,116113,41.6555,False
+ETH,ETH,Ethiopia,Africa,2,6.29918e+06,1.81779e+08,8.3299e+06,2.3535e+08,176646,1.12737e+06,15.6688,False
+CMR,CMR,Cameroon,Africa,2,5.56315e+06,3.63431e+07,6.86515e+06,4.41574e+07,39355.3,464318,8.47593,False
+MRT,MRT,Mauritania,Africa,2,4.75646e+06,6.82752e+06,6.06714e+06,8.50438e+06,786978,1.03639e+06,75.9346,False
+MYS,MYS,Malaysia,Asia,2,4.66954e+06,4.359e+07,4.90867e+06,5.25047e+07,1854.67,327885,0.565648,False
+SOM,SOM,Somalia,Africa,2,4.52789e+06,1.43063e+07,7.69448e+06,2.39379e+07,210618,471815,44.6399,False
+GIN,GIN,Guinea,Africa,2,4.52597e+06,1.61837e+07,6.42392e+06,2.3078e+07,46750.5,244302,19.1364,False
+MMR,MMR,Myanmar,Asia,2,4.26823e+06,4.24877e+07,4.44064e+06,5.27607e+07,6870.96,663159,1.03609,False
+BRA,BRA,Brazil,South America,2,3.36129e+06,2.1243e+08,4.05935e+06,2.53033e+08,467366,8.47266e+06,5.51617,False
+OMN,OMN,Oman,Asia,2,3.09109e+06,5.63999e+06,3.11312e+06,5.79059e+06,214975,311213,69.0763,False
+KEN,KEN,Kenya,Africa,2,3.01656e+06,8.81372e+07,4.35403e+06,1.23004e+08,132073,585702,22.5495,False
+LKA,LKA,Sri Lanka,Asia,2,2.82589e+06,2.26008e+07,3.53081e+06,2.81343e+07,13831.4,66291.1,20.8646,False
+TGO,TGO,Togo,Africa,2,2.75125e+06,1.09893e+07,3.23156e+06,1.2525e+07,18683.4,56863.4,32.8567,False
+ERI,ERI,Eritrea,Africa,2,1.94117e+06,1.3633e+07,2.17403e+06,1.51022e+07,49888.3,122538,40.7126,False
+QAT,QAT,Qatar,Asia,2,1.9402e+06,2.75168e+06,1.71212e+06,2.42414e+06,6113.79,11150.1,54.8315,False
+GTM,GTM,Guatemala,North America,2,1.67362e+06,2.73982e+07,3.01368e+06,4.2427e+07,6745.24,108811,6.19905,False
+MEX,MEX,Mexico,North America,2,1.31204e+06,1.49388e+08,1.79065e+06,1.99689e+08,15664.7,1.95785e+06,0.800101,False
+GMB,GMB,Gambia,Africa,2,1.25843e+06,3.36997e+06,1.87293e+06,4.52093e+06,5796.64,10501.1,55.2004,False
+DJI,DJI,Djibouti,Africa,2,1.18645e+06,1.34773e+06,1.34391e+06,1.5285e+06,16373.2,21848,74.9415,False
+SLE,SLE,Sierra Leone,Africa,2,971966,1.24305e+07,1.10418e+06,1.39226e+07,6672.18,71611.6,9.31717,False
+HND,HND,Honduras,North America,2,637598,1.19517e+07,973494,1.73542e+07,4057.87,112236,3.61547,False
+NIC,NIC,Nicaragua,North America,2,564966,6.68907e+06,897911,1.05133e+07,5433.62,128685,4.22243,False
+IRN,IRN,Iran,Asia,2,501844,8.95934e+07,609984,1.06568e+08,22286.2,1.62251e+06,1.37356,False
+SOL,-99,Somaliland,Africa,2,481362,2.83394e+06,789468,4.78726e+06,23871.4,167407,14.2596,False
+CIV,CIV,Ivory Coast,Africa,2,444683,3.11476e+07,662002,4.63636e+07,17396.4,320677,5.42489,False
+EGY,EGY,Egypt,Africa,2,429901,1.31192e+08,377700,1.63656e+08,10210.7,1.00106e+06,1.01999,False
+DZA,DZA,Algeria,Africa,2,335464,4.85326e+07,448003,6.14338e+07,432521,2.30886e+06,18.7331,False
+BOL,BOL,Bolivia,South America,2,274527,1.47842e+07,456471,2.25738e+07,54079.8,1.08681e+06,4.97602,False
+MDG,MDG,Madagascar,Africa,2,240616,5.34276e+07,318494,6.92521e+07,4178.08,592981,0.704589,False
+CUW,CUW,Curaçao,North America,2,171905,171905,219014,219014,462.562,463.243,99.853,False
+PER,PER,Peru,South America,2,168782,3.14427e+07,294416,4.46236e+07,54269,1.28987e+06,4.20733,False
+LAO,LAO,Laos,Asia,2,138894,8.47843e+06,185191,1.11635e+07,1984.35,228114,0.869896,False
+PAN,PAN,Panama,North America,2,120354,5.11612e+06,133199,6.24667e+06,231.182,74530.3,0.310185,False
+AUS,AUS,Australia,Oceania,2,120295,3.97861e+07,78846.2,2.6854e+07,571273,7.69117e+06,7.42765,False
+ABW,ABW,Aruba,North America,2,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+DOM,DOM,Dominican Republic,North America,2,89977.5,1.28349e+07,136294,1.76331e+07,1281.25,48439.9,2.64504,False
+GNB,GNB,Guinea-Bissau,Africa,2,77794.5,2.53551e+06,99244,3.15686e+06,1489.71,32829.1,4.53776,False
+JAM,JAM,Jamaica,North America,2,73289,2.39581e+06,111642,3.67148e+06,468.595,11032.9,4.24725,False
+CRI,CRI,Costa Rica,North America,2,39432.1,6.98038e+06,55251.6,7.92145e+06,672.729,51151,1.31518,False
+TZA,TZA,United Republic of Tanzania,Africa,2,37140.4,1.22335e+08,49124.6,1.59497e+08,2547.99,941505,0.27063,False
+SLV,SLV,El Salvador,North America,2,33697.5,5.60567e+06,78244.2,9.37428e+06,507.984,20539.4,2.47321,False
+MNP,MNP,Northern Mariana Islands,Oceania,2,18864.4,34393.8,24775.6,45253.8,45.2229,579.305,7.80641,False
+NLD,NLD,Netherlands,Europe,2,9666.04,1.86362e+07,12108.8,1.3912e+07,269.119,37397,0.719629,False
+CAF,CAF,Central African Republic,Africa,2,3226.93,8.13473e+06,3805.59,9.44636e+06,1954.58,617984,0.316284,False
+GUY,GUY,Guyana,South America,2,2377.24,633573,3894.41,999059,10829.4,211214,5.12722,False
+KIR,KIR,Kiribati,Oceania,2,2137.42,4979.2,2136.27,4976.6,174.503,949.863,18.3714,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,2,1846.27,47326.3,3140.11,69185.6,15.0617,367.728,4.09588,False
+SAH,ESH,Western Sahara,Africa,2,1501.42,102853,2086.08,149177,2329.22,90495.4,2.57385,False
+COD,COD,Democratic Republic of the Congo,Africa,2,1316.46,1.71523e+08,1564.77,2.0323e+08,2017.68,2.32524e+06,0.0867728,False
+BRT,-99,Bir Tawil,Africa,2,877.197,1064.6,1134.5,1400,567.739,2019.46,28.1134,False
+CHL,CHL,Chile,South America,2,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+ARG,ARG,Argentina,South America,2,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,2,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,2,0,1.03466e+06,0,967994,0,5395.04,0,False
+CHN,CHN,China,Asia,2,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,False
+ISR,ISR,Israel,Asia,2,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,False
+PSX,PSE,Palestine,Asia,2,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,2,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+MWI,MWI,Malawi,Africa,2,0,5.2879e+07,0,7.10866e+07,0,119398,0,False
+SYR,SYR,Syria,Asia,2,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+FRA,FRA,France,Europe,2,0,8.07947e+07,0,6.17002e+07,0,636757,0,False
+SUR,SUR,Suriname,South America,2,0,662600,0,846261,0,145123,0,False
+KOR,KOR,South Korea,Asia,2,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,2,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+MAR,MAR,Morocco,Africa,2,0,3.54531e+07,0,4.97131e+07,0,591743,0,False
+COG,COG,Republic of the Congo,Africa,2,0,9.33724e+06,0,1.07184e+07,0,344889,0,False
+BTN,BTN,Bhutan,Asia,2,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,2,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,2,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+NAM,NAM,Namibia,Africa,2,0,3.45009e+06,0,3.96594e+06,0,822713,0,False
+ZAF,ZAF,South Africa,Africa,2,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,False
+MAF,MAF,Saint Martin,North America,2,0,0,0,0,0,68.2815,0,False
+SXM,SXM,Sint Maarten,North America,2,0,39968.7,0,48129.2,0,23.358,0,False
+UZB,UZB,Uzbekistan,Asia,2,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,2,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,2,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,2,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,2,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,2,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,2,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,2,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,2,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,2,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,2,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,2,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,2,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,2,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,2,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,2,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,2,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,2,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,2,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,2,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,2,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,2,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,2,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,2,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,2,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,2,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+LBY,LBY,Libya,Africa,2,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,False
+TUN,TUN,Tunisia,Africa,2,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,2,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,2,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,2,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,2,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,2,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,2,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,2,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+ZMB,ZMB,Zambia,Africa,2,0,3.69113e+07,0,5.22068e+07,93.8297,751914,0.0124788,False
+LBR,LBR,Liberia,Africa,2,0,1.29651e+07,0,1.41395e+07,0,95298.2,0,False
+AUT,AUT,Austria,Europe,2,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+IRQ,IRQ,Iraq,Asia,2,0,7.97278e+07,0,1.19011e+08,0,437367,0,False
+ITA,ITA,Italy,Europe,2,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,2,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,2,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,2,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+AGO,AGO,Angola,Africa,2,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,False
+HRV,HRV,Croatia,Europe,2,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,2,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BWA,BWA,Botswana,Africa,2,0,2.8525e+06,0,2.5181e+06,0,579029,0,False
+ZWE,ZWE,Zimbabwe,Africa,2,0,1.25232e+07,0,1.8211e+07,0,389338,0,False
+BGR,BGR,Bulgaria,Europe,2,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,2,0,36177.8,0,36646.5,0,60.3174,0,False
+HTI,HTI,Haiti,North America,2,0,1.07858e+07,0,1.49327e+07,0.000440148,26891.6,1.63675e-06,False
+KWT,KWT,Kuwait,Asia,2,0,5.74722e+06,0,5.58102e+06,0,17473.5,0,False
+TLS,TLS,East Timor,Asia,2,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,False
+BRN,BRN,Brunei,Asia,2,0,603894,0,618094,0,5716.64,0,False
+MCO,MCO,Monaco,Europe,2,0,0,0,0,0,18.8396,0,False
+MOZ,MOZ,Mozambique,Africa,2,0,4.7154e+07,0,5.61809e+07,0,788447,0,False
+SWZ,SWZ,eSwatini,Africa,2,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+BDI,BDI,Burundi,Africa,2,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,False
+RWA,RWA,Rwanda,Africa,2,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+BGD,BGD,Bangladesh,Asia,2,0,1.87152e+08,0,2.34152e+08,0,136904,0,False
+AND,AND,Andorra,Europe,2,0,81058.4,0,97604.7,0,452.239,0,False
+AFG,AFG,Afghanistan,Asia,2,0,9.44788e+07,0,1.29784e+08,0,642181,0,False
+MNE,MNE,Montenegro,Europe,2,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,2,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+UGA,UGA,Uganda,Africa,2,0,1.23347e+08,0,1.66832e+08,0,241854,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,2,0,0,0,0,0,65.3528,0,False
+CUB,CUB,Cuba,North America,2,0,6.80126e+06,0,8.50991e+06,0,109929,0,False
+ECU,ECU,Ecuador,South America,2,0,2.02565e+07,0,2.77579e+07,0,255014,0,False
+PRY,PRY,Paraguay,South America,2,0,1.02603e+07,0,1.32973e+07,0,399901,0,False
+BRI,BRA,Brazilian Island,South America,2,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,2,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,2,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,2,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+JOR,JOR,Jordan,Asia,2,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,False
+NPL,NPL,Nepal,Asia,2,0,5.51307e+07,0,7.66844e+07,0,147106,0,False
+LSO,LSO,Lesotho,Africa,2,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GAB,GAB,Gabon,Africa,2,0,2.21628e+06,0,2.61017e+06,0,259968,0,False
+GIB,GIB,Gibraltar,Europe,2,0,0,0,0,0,3.69249,0,False
+USA,USA,United States of America,North America,2,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,False
+CAN,CAN,Canada,North America,2,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+BLZ,BLZ,Belize,North America,2,0,446261,0,666095,0,22299.4,0,False
+PNG,PNG,Papua New Guinea,Oceania,2,0,1.19577e+07,0,1.45626e+07,0,465147,0,False
+GNQ,GNQ,Equatorial Guinea,Africa,2,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,2,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,2,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,2,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,2,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,2,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,2,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,2,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,2,0,2.05457,0,3.68493,0,1408.88,0,False
+ATA,ATA,Antarctica,Antarctica,2,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,2,0,25615.5,0,34703,0,2.15438e+06,0,False
+FJI,FJI,Fiji,Oceania,2,0,852169,0,1.10957e+06,0,18930.1,0,False
+NZL,NZL,New Zealand,Oceania,2,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,2,0,292378,0,311330,0,18841.1,0,False
+BHS,BHS,The Bahamas,North America,2,0,428157,0,452358,0,12603.9,0,False
+TCA,TCA,Turks and Caicos Islands,North America,2,0,20027.2,0,26606.5,0,445.213,0,False
+TWN,TWN,Taiwan,Asia,2,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,2,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,2,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,2,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,2,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,2,0,241872,0,289555,0,3336.5,0,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),2,0,0,0,0,0,7279.96,0,False
+SYC,SYC,Seychelles,Seven seas (open ocean),2,0,0,0,0,0.690265,435.664,0.15844,False
+MHL,MHL,Marshall Islands,Oceania,2,0,0,0,0,43.1519,164.814,26.1822,False
+TTO,TTO,Trinidad and Tobago,North America,2,0,960004,0,1.16158e+06,0,5122.92,0,False
+GRD,GRD,Grenada,North America,2,0,93377.5,0,128158,0,347.259,0,False
+BRB,BRB,Barbados,North America,2,0,205288,0,218146,0,444.223,0,False
+LCA,LCA,Saint Lucia,North America,2,0,151863,0,186748,0,605.133,0,False
+DMA,DMA,Dominica,North America,2,0,63878.3,0,83641.6,0,730.312,0,False
+UMI,UMI,United States Minor Outlying Islands,North America,2,0,0,0,0,3.05179,28.0046,10.8975,False
+MSR,MSR,Montserrat,North America,2,0,5186.16,0,6049.03,0,99.5971,0,False
+ATG,ATG,Antigua and Barbuda,North America,2,0,92102.7,0,119147,0,451.85,0,False
+KNA,KNA,Saint Kitts and Nevis,North America,2,0,34986.2,0,45485.9,0,264.122,0,False
+VIR,VIR,United States Virgin Islands,North America,2,0,28214,0,33015,0,354.793,0,False
+BLM,BLM,Saint Barthelemy,North America,2,0,0,0,0,0,24.4219,0,False
+PRI,PRI,Puerto Rico,North America,2,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,False
+AIA,AIA,Anguilla,North America,2,0,0,0,0,0,87.4201,0,False
+VGB,VGB,British Virgin Islands,North America,2,0,156.959,0,198.339,0,144.938,0,False
+CYM,CYM,Cayman Islands,North America,2,0,20770.4,0,26043.7,0,309.202,0,False
+BMU,BMU,Bermuda,North America,2,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),2,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),2,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),2,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,2,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,False
+STP,STP,São Tomé and Principe,Africa,2,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,2,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,2,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,2,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,2,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,2,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,2,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,2,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,2,0,272.71,0,176.067,0,111.929,0,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),2,0,0,0,0,4.77871,49.0614,9.74027,False
+SGP,SGP,Singapore,Asia,2,0,4.28604e+06,0,3.9271e+06,0,510.503,0,False
+NFK,NFK,Norfolk Island,Oceania,2,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,2,0,13059.7,0,17204.5,3.85542,191.133,2.01714,False
+TON,TON,Tonga,Oceania,2,0,49547.1,0,89614.9,0,603.109,0,False
+WLF,WLF,Wallis and Futuna,Oceania,2,0,1602.87,0,2130.73,0,139.33,0,False
+WSM,WSM,Samoa,Oceania,2,0,110134,0,229975,0,2780.42,0,False
+SLB,SLB,Solomon Islands,Oceania,2,0,895930,0,1.13587e+06,33.5719,27198.8,0.123431,False
+TUV,TUV,Tuvalu,Oceania,2,0,0,0,0,5.58637,23.0184,24.2692,False
+MDV,MDV,Maldives,Seven seas (open ocean),2,0,0,0,0,49.3617,108.742,45.3933,False
+NRU,NRU,Nauru,Oceania,2,0,0,0,0,0,28.7669,0,False
+FSM,FSM,Federated States of Micronesia,Oceania,2,0,51546.6,0,94421.3,9.90563,633.849,1.56278,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),2,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,2,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,2,0,400755,0,497982,0,12296.6,0,False
+NIU,NIU,Niue,Oceania,2,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,2,0,17627.2,0,23106.4,0,180.304,0,False
+PLW,PLW,Palau,Oceania,2,0,15453.7,0,19821.5,0,491.931,0,False
+GUM,GUM,Guam,Oceania,2,0,175529,0,210406,0,564.205,0,False
+BHR,BHR,Bahrain,Asia,2,0,2.64137e+06,0,2.4325e+06,0,688.118,0,False
+CSI,AUS,Coral Sea Islands,Oceania,2,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,2,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),2,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,2,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,2,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,2,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,2,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,2,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,2.1,2.14006e+08,1.75493e+09,2.64257e+08,2.24008e+09,389918,3.15074e+06,12.3754,False
+NGA,NGA,Nigeria,Africa,2.1,1.14123e+08,4.74453e+08,1.46503e+08,6.10435e+08,336331,907498,37.0613,False
+NER,NER,Niger,Africa,2.1,6.93106e+07,7.21824e+07,1.00084e+08,1.04206e+08,965353,1.1813e+06,81.7194,False
+SDN,SDN,Sudan,Africa,2.1,5.77929e+07,7.34233e+07,7.12903e+07,9.11908e+07,1.06286e+06,1.85562e+06,57.2782,False
+BFA,BFA,Burkina Faso,Africa,2.1,4.64551e+07,4.72464e+07,6.33021e+07,6.43994e+07,265211,272769,97.2294,False
+MLI,MLI,Mali,Africa,2.1,4.0725e+07,4.31765e+07,5.13746e+07,5.45054e+07,1.22647e+06,1.25272e+06,97.9046,False
+PHL,PHL,Philippines,Asia,2.1,4.03071e+07,1.51325e+08,4.86106e+07,1.96822e+08,28690.8,293291,9.78239,False
+SAU,SAU,Saudi Arabia,Asia,2.1,3.65313e+07,6.20701e+07,4.10496e+07,6.99067e+07,976077,1.92173e+06,50.7917,False
+THA,THA,Thailand,Asia,2.1,3.34326e+07,6.67212e+07,3.40813e+07,7.41564e+07,129703,514453,25.2118,False
+PAK,PAK,Pakistan,Asia,2.1,2.72996e+07,3.19248e+08,3.89832e+07,4.3232e+08,109881,872939,12.5875,False
+VNM,VNM,Vietnam,Asia,2.1,2.45326e+07,9.28161e+07,2.67802e+07,1.07253e+08,29934.1,328892,9.10151,False
+IDN,IDN,Indonesia,Asia,2.1,2.36876e+07,2.60126e+08,2.38141e+07,2.92624e+08,157312,1.87983e+06,8.36841,False
+TCD,TCD,Chad,Africa,2.1,2.35561e+07,3.02464e+07,2.8171e+07,3.62048e+07,862837,1.26628e+06,68.1393,False
+GHA,GHA,Ghana,Africa,2.1,1.73318e+07,5.29174e+07,2.30256e+07,7.00787e+07,135052,238669,56.5855,False
+ARE,ARE,United Arab Emirates,Asia,2.1,1.63625e+07,1.69727e+07,1.40758e+07,1.46028e+07,68914.4,71085,96.9465,False
+YEM,YEM,Yemen,Asia,2.1,1.6002e+07,6.84559e+07,2.27485e+07,9.61469e+07,209140,453075,46.1602,False
+COL,COL,Colombia,South America,2.1,1.5807e+07,6.5018e+07,2.00742e+07,8.13405e+07,347208,1.13512e+06,30.5879,False
+KHM,KHM,Cambodia,Asia,2.1,1.5233e+07,1.71329e+07,2.01395e+07,2.27848e+07,76711.9,181060,42.3683,False
+SDS,SSD,South Sudan,Africa,2.1,1.33233e+07,1.76665e+07,1.69641e+07,2.24756e+07,351120,626859,56.0126,False
+BEN,BEN,Benin,Africa,2.1,1.30474e+07,2.28736e+07,1.44819e+07,2.6048e+07,58188.1,116113,50.1132,False
+SEN,SEN,Senegal,Africa,2.1,1.17688e+07,2.59866e+07,1.98448e+07,4.05961e+07,160345,196225,81.7152,False
+VEN,VEN,Venezuela,South America,2.1,1.14003e+07,4.24884e+07,1.44849e+07,5.29421e+07,366715,912684,40.1799,False
+MYS,MYS,Malaysia,Asia,2.1,8.18128e+06,4.359e+07,8.79259e+06,5.25047e+07,5980.83,327885,1.82406,False
+ETH,ETH,Ethiopia,Africa,2.1,6.83656e+06,1.81779e+08,9.03778e+06,2.3535e+08,192729,1.12737e+06,17.0954,False
+MMR,MMR,Myanmar,Asia,2.1,6.59658e+06,4.24877e+07,6.98003e+06,5.27607e+07,13803.4,663159,2.08146,False
+CMR,CMR,Cameroon,Africa,2.1,6.04934e+06,3.63431e+07,7.46387e+06,4.41574e+07,44881.4,464318,9.66609,False
+SOM,SOM,Somalia,Africa,2.1,5.78781e+06,1.43063e+07,9.85021e+06,2.39379e+07,244639,471815,51.8506,False
+BRA,BRA,Brazil,South America,2.1,5.65256e+06,2.1243e+08,6.83906e+06,2.53033e+08,1.04575e+06,8.47266e+06,12.3426,False
+GIN,GIN,Guinea,Africa,2.1,5.40941e+06,1.61837e+07,7.68887e+06,2.3078e+07,59518,244302,24.3625,False
+MRT,MRT,Mauritania,Africa,2.1,4.80045e+06,6.82752e+06,6.12304e+06,8.50438e+06,816651,1.03639e+06,78.7977,False
+TGO,TGO,Togo,Africa,2.1,4.21243e+06,1.09893e+07,4.66027e+06,1.2525e+07,22267.9,56863.4,39.1604,False
+LKA,LKA,Sri Lanka,Asia,2.1,4.00758e+06,2.26008e+07,4.95306e+06,2.81343e+07,18526.1,66291.1,27.9466,False
+OMN,OMN,Oman,Asia,2.1,3.53236e+06,5.63999e+06,3.54072e+06,5.79059e+06,227535,311213,73.1122,False
+KEN,KEN,Kenya,Africa,2.1,3.44703e+06,8.81372e+07,4.98453e+06,1.23004e+08,153951,585702,26.2849,False
+QAT,QAT,Qatar,Asia,2.1,2.62353e+06,2.75168e+06,2.31312e+06,2.42414e+06,8605.69,11150.1,77.1801,False
+GTM,GTM,Guatemala,North America,2.1,2.14966e+06,2.73982e+07,3.85938e+06,4.2427e+07,8687.82,108811,7.98433,False
+ERI,ERI,Eritrea,Africa,2.1,2.09532e+06,1.3633e+07,2.34546e+06,1.51022e+07,52570.1,122538,42.9011,False
+MEX,MEX,Mexico,North America,2.1,1.6735e+06,1.49388e+08,2.28556e+06,1.99689e+08,22228.8,1.95785e+06,1.13537,False
+SLE,SLE,Sierra Leone,Africa,2.1,1.62518e+06,1.24305e+07,1.83418e+06,1.39226e+07,10167.7,71611.6,14.1984,False
+GMB,GMB,Gambia,Africa,2.1,1.47759e+06,3.36997e+06,2.19379e+06,4.52093e+06,6882.94,10501.1,65.5451,False
+CIV,CIV,Ivory Coast,Africa,2.1,1.44149e+06,3.11476e+07,2.20733e+06,4.63636e+07,37405.7,320677,11.6646,False
+DJI,DJI,Djibouti,Africa,2.1,1.2066e+06,1.34773e+06,1.36724e+06,1.5285e+06,17133.4,21848,78.4212,False
+IRN,IRN,Iran,Asia,2.1,767456,8.95934e+07,925931,1.06568e+08,33696.6,1.62251e+06,2.07682,False
+HND,HND,Honduras,North America,2.1,734085,1.19517e+07,1.14293e+06,1.73542e+07,5056.58,112236,4.5053,False
+NIC,NIC,Nicaragua,North America,2.1,649931,6.68907e+06,1.03814e+06,1.05133e+07,6368.36,128685,4.94881,False
+EGY,EGY,Egypt,Africa,2.1,555425,1.31192e+08,487291,1.63656e+08,19074.8,1.00106e+06,1.90547,False
+SOL,-99,Somaliland,Africa,2.1,494814,2.83394e+06,812349,4.78726e+06,24554.5,167407,14.6676,False
+PER,PER,Peru,South America,2.1,407557,3.14427e+07,704086,4.46236e+07,127170,1.28987e+06,9.85916,False
+BOL,BOL,Bolivia,South America,2.1,399536,1.47842e+07,664303,2.25738e+07,112749,1.08681e+06,10.3743,False
+DZA,DZA,Algeria,Africa,2.1,367517,4.85326e+07,491551,6.14338e+07,497837,2.30886e+06,21.562,False
+MDG,MDG,Madagascar,Africa,2.1,295551,5.34276e+07,391353,6.92521e+07,5623.94,592981,0.948417,False
+AUS,AUS,Australia,Oceania,2.1,268108,3.97861e+07,179145,2.6854e+07,730336,7.69117e+06,9.49577,False
+PAN,PAN,Panama,North America,2.1,203903,5.11612e+06,241055,6.24667e+06,1130.7,74530.3,1.5171,False
+LAO,LAO,Laos,Asia,2.1,189817,8.47843e+06,253286,1.11635e+07,2860.88,228114,1.25415,False
+BRN,BRN,Brunei,Asia,2.1,186320,603894,173749,618094,258.146,5716.64,4.51569,False
+CUW,CUW,Curaçao,North America,2.1,171905,171905,219014,219014,462.562,463.243,99.853,False
+GNB,GNB,Guinea-Bissau,Africa,2.1,166668,2.53551e+06,213610,3.15686e+06,4464.85,32829.1,13.6003,False
+TZA,TZA,United Republic of Tanzania,Africa,2.1,140752,1.22335e+08,183296,1.59497e+08,4452.98,941505,0.472964,False
+MOZ,MOZ,Mozambique,Africa,2.1,130522,4.7154e+07,146970,5.61809e+07,411.309,788447,0.052167,False
+SLV,SLV,El Salvador,North America,2.1,127854,5.60567e+06,271740,9.37428e+06,1097.04,20539.4,5.34115,False
+CRI,CRI,Costa Rica,North America,2.1,123419,6.98038e+06,170288,7.92145e+06,2490.42,51151,4.86876,False
+DOM,DOM,Dominican Republic,North America,2.1,100775,1.28349e+07,153373,1.76331e+07,1443.6,48439.9,2.98018,False
+ABW,ABW,Aruba,North America,2.1,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+JAM,JAM,Jamaica,North America,2.1,73289,2.39581e+06,111642,3.67148e+06,496.273,11032.9,4.49812,False
+HTI,HTI,Haiti,North America,2.1,64426.5,1.07858e+07,82113.6,1.49327e+07,162.228,26891.6,0.603267,False
+MNP,MNP,Northern Mariana Islands,Oceania,2.1,18864.4,34393.8,24775.6,45253.8,48.9686,579.305,8.45299,False
+CAF,CAF,Central African Republic,Africa,2.1,17170.1,8.13473e+06,20575.9,9.44636e+06,8011.87,617984,1.29645,False
+GUY,GUY,Guyana,South America,2.1,9798.46,633573,15463.5,999059,15072.8,211214,7.13626,False
+NLD,NLD,Netherlands,Europe,2.1,9666.04,1.86362e+07,12108.8,1.3912e+07,269.119,37397,0.719629,False
+SUR,SUR,Suriname,South America,2.1,6535.4,662600,10404.8,846261,1313.68,145123,0.905215,False
+LBR,LBR,Liberia,Africa,2.1,5656.91,1.29651e+07,6165.12,1.41395e+07,678.406,95298.2,0.711877,False
+KIR,KIR,Kiribati,Oceania,2.1,2137.42,4979.2,2136.27,4976.6,202.526,949.863,21.3216,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,2.1,1846.27,47326.3,3140.11,69185.6,20.1848,367.728,5.48906,False
+SAH,ESH,Western Sahara,Africa,2.1,1791.62,102853,2519.21,149177,3190.37,90495.4,3.52545,False
+COD,COD,Democratic Republic of the Congo,Africa,2.1,1316.46,1.71523e+08,1564.77,2.0323e+08,2300.37,2.32524e+06,0.0989306,False
+BRT,-99,Bir Tawil,Africa,2.1,879.073,1064.6,1137.55,1400,1055.12,2019.46,52.2479,False
+PRY,PRY,Paraguay,South America,2.1,373.392,1.02603e+07,591.154,1.32973e+07,4368.66,399901,1.09243,False
+ZMB,ZMB,Zambia,Africa,2.1,97.4531,3.69113e+07,110.085,5.22068e+07,1006.28,751914,0.133829,False
+CHL,CHL,Chile,South America,2.1,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+ARG,ARG,Argentina,South America,2.1,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,2.1,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,2.1,0,1.03466e+06,0,967994,0,5395.04,0,False
+CHN,CHN,China,Asia,2.1,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,False
+ISR,ISR,Israel,Asia,2.1,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,False
+PSX,PSE,Palestine,Asia,2.1,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,2.1,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+MWI,MWI,Malawi,Africa,2.1,0,5.2879e+07,0,7.10866e+07,0,119398,0,False
+SYR,SYR,Syria,Asia,2.1,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+FRA,FRA,France,Europe,2.1,0,8.07947e+07,0,6.17002e+07,0,636757,0,False
+KOR,KOR,South Korea,Asia,2.1,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,2.1,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+MAR,MAR,Morocco,Africa,2.1,0,3.54531e+07,0,4.97131e+07,0,591743,0,False
+COG,COG,Republic of the Congo,Africa,2.1,0,9.33724e+06,0,1.07184e+07,0,344889,0,False
+BTN,BTN,Bhutan,Asia,2.1,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,2.1,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,2.1,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+NAM,NAM,Namibia,Africa,2.1,0,3.45009e+06,0,3.96594e+06,0,822713,0,False
+ZAF,ZAF,South Africa,Africa,2.1,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,False
+MAF,MAF,Saint Martin,North America,2.1,0,0,0,0,0,68.2815,0,False
+SXM,SXM,Sint Maarten,North America,2.1,0,39968.7,0,48129.2,0,23.358,0,False
+UZB,UZB,Uzbekistan,Asia,2.1,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,2.1,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,2.1,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,2.1,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,2.1,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,2.1,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,2.1,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,2.1,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,2.1,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,2.1,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,2.1,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,2.1,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,2.1,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,2.1,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,2.1,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,2.1,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,2.1,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,2.1,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,2.1,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,2.1,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,2.1,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,2.1,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,2.1,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,2.1,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,2.1,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,2.1,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+LBY,LBY,Libya,Africa,2.1,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,False
+TUN,TUN,Tunisia,Africa,2.1,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,2.1,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,2.1,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,2.1,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,2.1,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,2.1,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,2.1,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,2.1,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+AUT,AUT,Austria,Europe,2.1,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+IRQ,IRQ,Iraq,Asia,2.1,0,7.97278e+07,0,1.19011e+08,0,437367,0,False
+ITA,ITA,Italy,Europe,2.1,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,2.1,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,2.1,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,2.1,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+AGO,AGO,Angola,Africa,2.1,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,False
+HRV,HRV,Croatia,Europe,2.1,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,2.1,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BWA,BWA,Botswana,Africa,2.1,0,2.8525e+06,0,2.5181e+06,0,579029,0,False
+ZWE,ZWE,Zimbabwe,Africa,2.1,0,1.25232e+07,0,1.8211e+07,0,389338,0,False
+BGR,BGR,Bulgaria,Europe,2.1,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,2.1,0,36177.8,0,36646.5,0,60.3174,0,False
+KWT,KWT,Kuwait,Asia,2.1,0,5.74722e+06,0,5.58102e+06,0,17473.5,0,False
+TLS,TLS,East Timor,Asia,2.1,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,False
+MCO,MCO,Monaco,Europe,2.1,0,0,0,0,0,18.8396,0,False
+SWZ,SWZ,eSwatini,Africa,2.1,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+BDI,BDI,Burundi,Africa,2.1,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,False
+RWA,RWA,Rwanda,Africa,2.1,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+BGD,BGD,Bangladesh,Asia,2.1,0,1.87152e+08,0,2.34152e+08,0,136904,0,False
+AND,AND,Andorra,Europe,2.1,0,81058.4,0,97604.7,0,452.239,0,False
+AFG,AFG,Afghanistan,Asia,2.1,0,9.44788e+07,0,1.29784e+08,0,642181,0,False
+MNE,MNE,Montenegro,Europe,2.1,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,2.1,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+UGA,UGA,Uganda,Africa,2.1,0,1.23347e+08,0,1.66832e+08,0,241854,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,2.1,0,0,0,0,0,65.3528,0,False
+CUB,CUB,Cuba,North America,2.1,0,6.80126e+06,0,8.50991e+06,0,109929,0,False
+ECU,ECU,Ecuador,South America,2.1,0,2.02565e+07,0,2.77579e+07,0,255014,0,False
+BRI,BRA,Brazilian Island,South America,2.1,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,2.1,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,2.1,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,2.1,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+JOR,JOR,Jordan,Asia,2.1,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,False
+NPL,NPL,Nepal,Asia,2.1,0,5.51307e+07,0,7.66844e+07,0,147106,0,False
+LSO,LSO,Lesotho,Africa,2.1,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GAB,GAB,Gabon,Africa,2.1,0,2.21628e+06,0,2.61017e+06,0,259968,0,False
+GIB,GIB,Gibraltar,Europe,2.1,0,0,0,0,0,3.69249,0,False
+USA,USA,United States of America,North America,2.1,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,False
+CAN,CAN,Canada,North America,2.1,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+BLZ,BLZ,Belize,North America,2.1,0,446261,0,666095,0,22299.4,0,False
+PNG,PNG,Papua New Guinea,Oceania,2.1,0,1.19577e+07,0,1.45626e+07,1.6046,465147,0.000344966,False
+GNQ,GNQ,Equatorial Guinea,Africa,2.1,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,2.1,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,2.1,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,2.1,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,2.1,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,2.1,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,2.1,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,2.1,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,2.1,0,2.05457,0,3.68493,0,1408.88,0,False
+ATA,ATA,Antarctica,Antarctica,2.1,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,2.1,0,25615.5,0,34703,0,2.15438e+06,0,False
+FJI,FJI,Fiji,Oceania,2.1,0,852169,0,1.10957e+06,0,18930.1,0,False
+NZL,NZL,New Zealand,Oceania,2.1,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,2.1,0,292378,0,311330,0,18841.1,0,False
+BHS,BHS,The Bahamas,North America,2.1,0,428157,0,452358,0,12603.9,0,False
+TCA,TCA,Turks and Caicos Islands,North America,2.1,0,20027.2,0,26606.5,0,445.213,0,False
+TWN,TWN,Taiwan,Asia,2.1,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,2.1,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,2.1,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,2.1,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,2.1,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,2.1,0,241872,0,289555,0,3336.5,0,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),2.1,0,0,0,0,0,7279.96,0,False
+SYC,SYC,Seychelles,Seven seas (open ocean),2.1,0,0,0,0,0.690265,435.664,0.15844,False
+MHL,MHL,Marshall Islands,Oceania,2.1,0,0,0,0,72.4665,164.814,43.9686,False
+TTO,TTO,Trinidad and Tobago,North America,2.1,0,960004,0,1.16158e+06,0,5122.92,0,False
+GRD,GRD,Grenada,North America,2.1,0,93377.5,0,128158,0,347.259,0,False
+BRB,BRB,Barbados,North America,2.1,0,205288,0,218146,0,444.223,0,False
+LCA,LCA,Saint Lucia,North America,2.1,0,151863,0,186748,0,605.133,0,False
+DMA,DMA,Dominica,North America,2.1,0,63878.3,0,83641.6,0,730.312,0,False
+UMI,UMI,United States Minor Outlying Islands,North America,2.1,0,0,0,0,3.53075,28.0046,12.6077,False
+MSR,MSR,Montserrat,North America,2.1,0,5186.16,0,6049.03,0,99.5971,0,False
+ATG,ATG,Antigua and Barbuda,North America,2.1,0,92102.7,0,119147,0,451.85,0,False
+KNA,KNA,Saint Kitts and Nevis,North America,2.1,0,34986.2,0,45485.9,0,264.122,0,False
+VIR,VIR,United States Virgin Islands,North America,2.1,0,28214,0,33015,0,354.793,0,False
+BLM,BLM,Saint Barthelemy,North America,2.1,0,0,0,0,0,24.4219,0,False
+PRI,PRI,Puerto Rico,North America,2.1,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,False
+AIA,AIA,Anguilla,North America,2.1,0,0,0,0,0,87.4201,0,False
+VGB,VGB,British Virgin Islands,North America,2.1,0,156.959,0,198.339,0,144.938,0,False
+CYM,CYM,Cayman Islands,North America,2.1,0,20770.4,0,26043.7,0,309.202,0,False
+BMU,BMU,Bermuda,North America,2.1,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),2.1,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),2.1,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),2.1,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,2.1,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,False
+STP,STP,São Tomé and Principe,Africa,2.1,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,2.1,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,2.1,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,2.1,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,2.1,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,2.1,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,2.1,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,2.1,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,2.1,0,272.71,0,176.067,0,111.929,0,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),2.1,0,0,0,0,5.05866,49.0614,10.3109,False
+SGP,SGP,Singapore,Asia,2.1,0,4.28604e+06,0,3.9271e+06,0,510.503,0,False
+NFK,NFK,Norfolk Island,Oceania,2.1,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,2.1,0,13059.7,0,17204.5,3.85542,191.133,2.01714,False
+TON,TON,Tonga,Oceania,2.1,0,49547.1,0,89614.9,0,603.109,0,False
+WLF,WLF,Wallis and Futuna,Oceania,2.1,0,1602.87,0,2130.73,0,139.33,0,False
+WSM,WSM,Samoa,Oceania,2.1,0,110134,0,229975,0,2780.42,0,False
+SLB,SLB,Solomon Islands,Oceania,2.1,0,895930,0,1.13587e+06,33.5719,27198.8,0.123431,False
+TUV,TUV,Tuvalu,Oceania,2.1,0,0,0,0,5.58637,23.0184,24.2692,False
+MDV,MDV,Maldives,Seven seas (open ocean),2.1,0,0,0,0,50.4693,108.742,46.4118,False
+NRU,NRU,Nauru,Oceania,2.1,0,0,0,0,0,28.7669,0,False
+FSM,FSM,Federated States of Micronesia,Oceania,2.1,0,51546.6,0,94421.3,9.90563,633.849,1.56278,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),2.1,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,2.1,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,2.1,0,400755,0,497982,0,12296.6,0,False
+NIU,NIU,Niue,Oceania,2.1,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,2.1,0,17627.2,0,23106.4,1.86663,180.304,1.03526,False
+PLW,PLW,Palau,Oceania,2.1,0,15453.7,0,19821.5,0,491.931,0,False
+GUM,GUM,Guam,Oceania,2.1,0,175529,0,210406,0,564.205,0,False
+BHR,BHR,Bahrain,Asia,2.1,0,2.64137e+06,0,2.4325e+06,0.219969,688.118,0.0319668,False
+CSI,AUS,Coral Sea Islands,Oceania,2.1,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,2.1,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),2.1,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,2.1,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,2.1,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,2.1,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,2.1,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,2.1,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,2.4,3.62785e+08,1.75493e+09,4.5056e+08,2.24008e+09,686624,3.15074e+06,21.7924,False
+NGA,NGA,Nigeria,Africa,2.4,1.59683e+08,4.74453e+08,2.03055e+08,6.10435e+08,422224,907498,46.5262,False
+NER,NER,Niger,Africa,2.4,7.18408e+07,7.21824e+07,1.03723e+08,1.04206e+08,1.06035e+06,1.1813e+06,89.7611,False
+PHL,PHL,Philippines,Asia,2.4,6.67165e+07,1.51325e+08,7.94938e+07,1.96822e+08,51523.3,293291,17.5673,False
+SDN,SDN,Sudan,Africa,2.4,6.0285e+07,7.34233e+07,7.4464e+07,9.11908e+07,1.16702e+06,1.85562e+06,62.8913,False
+PAK,PAK,Pakistan,Asia,2.4,5.8558e+07,3.19248e+08,8.3124e+07,4.3232e+08,188492,872939,21.5928,False
+IDN,IDN,Indonesia,Asia,2.4,5.06967e+07,2.60126e+08,5.19466e+07,2.92624e+08,304149,1.87983e+06,16.1796,False
+THA,THA,Thailand,Asia,2.4,4.7167e+07,6.67212e+07,5.00798e+07,7.41564e+07,224197,514453,43.5797,False
+BFA,BFA,Burkina Faso,Africa,2.4,4.68013e+07,4.72464e+07,6.37838e+07,6.43994e+07,269281,272769,98.7214,False
+SAU,SAU,Saudi Arabia,Asia,2.4,4.27671e+07,6.20701e+07,4.80878e+07,6.99067e+07,1.17899e+06,1.92173e+06,61.3505,False
+MLI,MLI,Mali,Africa,2.4,4.24406e+07,4.31765e+07,5.35632e+07,5.45054e+07,1.24549e+06,1.25272e+06,99.4224,False
+VNM,VNM,Vietnam,Asia,2.4,2.93978e+07,9.28161e+07,3.21945e+07,1.07253e+08,40956,328892,12.4527,False
+TCD,TCD,Chad,Africa,2.4,2.54345e+07,3.02464e+07,3.04269e+07,3.62048e+07,924887,1.26628e+06,73.0395,False
+MMR,MMR,Myanmar,Asia,2.4,2.20054e+07,4.24877e+07,2.59498e+07,5.27607e+07,96187.9,663159,14.5045,False
+GHA,GHA,Ghana,Africa,2.4,1.96324e+07,5.29174e+07,2.61385e+07,7.00787e+07,149295,238669,62.5534,False
+BEN,BEN,Benin,Africa,2.4,1.89889e+07,2.28736e+07,2.1445e+07,2.6048e+07,80069,116113,68.9576,False
+YEM,YEM,Yemen,Asia,2.4,1.72138e+07,6.84559e+07,2.45557e+07,9.61469e+07,231340,453075,51.0601,False
+COL,COL,Colombia,South America,2.4,1.6887e+07,6.5018e+07,2.15526e+07,8.13405e+07,445385,1.13512e+06,39.2369,False
+ARE,ARE,United Arab Emirates,Asia,2.4,1.67258e+07,1.69727e+07,1.43879e+07,1.46028e+07,69966.8,71085,98.4269,False
+KHM,KHM,Cambodia,Asia,2.4,1.61512e+07,1.71329e+07,2.14158e+07,2.27848e+07,106141,181060,58.6221,False
+MYS,MYS,Malaysia,Asia,2.4,1.50885e+07,4.359e+07,1.65788e+07,5.25047e+07,21487.1,327885,6.55324,False
+SDS,SSD,South Sudan,Africa,2.4,1.39944e+07,1.76665e+07,1.78099e+07,2.24756e+07,392736,626859,62.6514,False
+VEN,VEN,Venezuela,South America,2.4,1.32027e+07,4.24884e+07,1.67769e+07,5.29421e+07,429823,912684,47.0943,False
+SEN,SEN,Senegal,Africa,2.4,1.30065e+07,2.59866e+07,2.19621e+07,4.05961e+07,167980,196225,85.6061,False
+BRA,BRA,Brazil,South America,2.4,9.8205e+06,2.1243e+08,1.18702e+07,2.53033e+08,1.78501e+06,8.47266e+06,21.0678,False
+LKA,LKA,Sri Lanka,Asia,2.4,9.43442e+06,2.26008e+07,1.13187e+07,2.81343e+07,36412.7,66291.1,54.9285,False
+ETH,ETH,Ethiopia,Africa,2.4,7.99319e+06,1.81779e+08,1.05584e+07,2.3535e+08,228849,1.12737e+06,20.2993,False
+SOM,SOM,Somalia,Africa,2.4,7.86867e+06,1.43063e+07,1.32933e+07,2.39379e+07,285420,471815,60.494,False
+CMR,CMR,Cameroon,Africa,2.4,6.62171e+06,3.63431e+07,8.16638e+06,4.41574e+07,50413.2,464318,10.8575,False
+GIN,GIN,Guinea,Africa,2.4,6.29e+06,1.61837e+07,8.94919e+06,2.3078e+07,81062,244302,33.1811,False
+TGO,TGO,Togo,Africa,2.4,5.8491e+06,1.09893e+07,6.45828e+06,1.2525e+07,30030.3,56863.4,52.8114,False
+KWT,KWT,Kuwait,Asia,2.4,5.17128e+06,5.74722e+06,4.99196e+06,5.58102e+06,6113.93,17473.5,34.9896,False
+MRT,MRT,Mauritania,Africa,2.4,4.84297e+06,6.82752e+06,6.17721e+06,8.50438e+06,864156,1.03639e+06,83.3815,False
+OMN,OMN,Oman,Asia,2.4,4.14122e+06,5.63999e+06,4.14599e+06,5.79059e+06,254089,311213,81.6448,False
+KEN,KEN,Kenya,Africa,2.4,3.85706e+06,8.81372e+07,5.58458e+06,1.23004e+08,183945,585702,31.4058,False
+CIV,CIV,Ivory Coast,Africa,2.4,3.63058e+06,3.11476e+07,5.63598e+06,4.63636e+07,79026.4,320677,24.6436,False
+QAT,QAT,Qatar,Asia,2.4,2.75168e+06,2.75168e+06,2.42414e+06,2.42414e+06,11132.1,11150.1,99.8381,False
+MEX,MEX,Mexico,North America,2.4,2.73411e+06,1.49388e+08,3.76062e+06,1.99689e+08,47029.5,1.95785e+06,2.4021,False
+GTM,GTM,Guatemala,North America,2.4,2.71669e+06,2.73982e+07,4.83361e+06,4.2427e+07,13286.1,108811,12.2102,False
+BHR,BHR,Bahrain,Asia,2.4,2.64137e+06,2.64137e+06,2.4325e+06,2.4325e+06,676.325,688.118,98.2862,False
+ERI,ERI,Eritrea,Africa,2.4,2.46587e+06,1.3633e+07,2.75652e+06,1.51022e+07,58840,122538,48.0178,False
+IRN,IRN,Iran,Asia,2.4,2.42318e+06,8.95934e+07,2.88729e+06,1.06568e+08,75094.8,1.62251e+06,4.62831,False
+SLE,SLE,Sierra Leone,Africa,2.4,2.41599e+06,1.24305e+07,2.72159e+06,1.39226e+07,14327.9,71611.6,20.0078,False
+GMB,GMB,Gambia,Africa,2.4,1.58676e+06,3.36997e+06,2.35596e+06,4.52093e+06,8034.04,10501.1,76.5068,False
+HND,HND,Honduras,North America,2.4,1.36469e+06,1.19517e+07,1.94417e+06,1.73542e+07,6973.44,112236,6.21317,False
+DJI,DJI,Djibouti,Africa,2.4,1.27652e+06,1.34773e+06,1.44687e+06,1.5285e+06,18355.2,21848,84.0136,False
+NIC,NIC,Nicaragua,North America,2.4,1.06151e+06,6.68907e+06,1.67803e+06,1.05133e+07,9593.87,128685,7.45533,False
+MDG,MDG,Madagascar,Africa,2.4,736059,5.34276e+07,975283,6.92521e+07,14348.4,592981,2.4197,False
+PER,PER,Peru,South America,2.4,726532,3.14427e+07,1.24942e+06,4.46236e+07,189357,1.28987e+06,14.6804,False
+EGY,EGY,Egypt,Africa,2.4,691508,1.31192e+08,656014,1.63656e+08,59366.9,1.00106e+06,5.93041,False
+LAO,LAO,Laos,Asia,2.4,578676,8.47843e+06,770050,1.11635e+07,7754.21,228114,3.39927,False
+SOL,-99,Somaliland,Africa,2.4,545865,2.83394e+06,898252,4.78726e+06,27248.2,167407,16.2767,False
+BOL,BOL,Bolivia,South America,2.4,527501,1.47842e+07,877028,2.25738e+07,175462,1.08681e+06,16.1447,False
+DZA,DZA,Algeria,Africa,2.4,437002,4.85326e+07,586644,6.14338e+07,637630,2.30886e+06,27.6167,False
+HTI,HTI,Haiti,North America,2.4,429421,1.07858e+07,544050,1.49327e+07,926.151,26891.6,3.44402,False
+BRN,BRN,Brunei,Asia,2.4,420127,603894,408200,618094,1464.46,5716.64,25.6176,False
+TZA,TZA,United Republic of Tanzania,Africa,2.4,397394,1.22335e+08,512661,1.59497e+08,7987.74,941505,0.848401,False
+PAN,PAN,Panama,North America,2.4,387217,5.11612e+06,478038,6.24667e+06,3483.52,74530.3,4.67397,False
+SUR,SUR,Suriname,South America,2.4,381042,662600,445398,846261,25080.9,145123,17.2825,False
+MOZ,MOZ,Mozambique,Africa,2.4,371200,4.7154e+07,425308,5.61809e+07,2771.89,788447,0.351563,False
+AUS,AUS,Australia,Oceania,2.4,304294,3.97861e+07,203683,2.6854e+07,983387,7.69117e+06,12.7859,False
+GNB,GNB,Guinea-Bissau,Africa,2.4,276443,2.53551e+06,355727,3.15686e+06,7705.31,32829.1,23.471,False
+IRQ,IRQ,Iraq,Asia,2.4,250840,7.97278e+07,391536,1.19011e+08,806.334,437367,0.184361,False
+CRI,CRI,Costa Rica,North America,2.4,183923,6.98038e+06,253066,7.92145e+06,3962.41,51151,7.74649,False
+SLV,SLV,El Salvador,North America,2.4,178319,5.60567e+06,375005,9.37428e+06,1362.95,20539.4,6.63578,False
+CUW,CUW,Curaçao,North America,2.4,171905,171905,219014,219014,462.562,463.243,99.853,False
+DOM,DOM,Dominican Republic,North America,2.4,138814,1.28349e+07,206852,1.76331e+07,1797.48,48439.9,3.71075,False
+GUY,GUY,Guyana,South America,2.4,118213,633573,183456,999059,57223.3,211214,27.0926,False
+COD,COD,Democratic Republic of the Congo,Africa,2.4,104003,1.71523e+08,126184,2.0323e+08,5363.07,2.32524e+06,0.230646,False
+ABW,ABW,Aruba,North America,2.4,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+JAM,JAM,Jamaica,North America,2.4,73289,2.39581e+06,111642,3.67148e+06,526.804,11032.9,4.77485,False
+CAF,CAF,Central African Republic,Africa,2.4,58083.3,8.13473e+06,69798.7,9.44636e+06,23679.8,617984,3.83178,False
+LBR,LBR,Liberia,Africa,2.4,41438.3,1.29651e+07,45180.4,1.41395e+07,1865.9,95298.2,1.95795,False
+PNG,PNG,Papua New Guinea,Oceania,2.4,29865.9,1.19577e+07,37037.8,1.45626e+07,3424.95,465147,0.736316,False
+FSM,FSM,Federated States of Micronesia,Oceania,2.4,27865.8,51546.6,47980.2,94421.3,192.636,633.849,30.3915,False
+MNP,MNP,Northern Mariana Islands,Oceania,2.4,20944.9,34393.8,27532.1,45253.8,244.681,579.305,42.237,False
+NLD,NLD,Netherlands,Europe,2.4,9666.04,1.86362e+07,12108.8,1.3912e+07,269.119,37397,0.719629,False
+SAH,ESH,Western Sahara,Africa,2.4,3029.23,102853,4399.88,149177,7064.48,90495.4,7.80645,False
+PRY,PRY,Paraguay,South America,2.4,2890.14,1.02603e+07,4570.66,1.32973e+07,13770.3,399901,3.44343,False
+KIR,KIR,Kiribati,Oceania,2.4,2137.42,4979.2,2136.27,4976.6,214.919,949.863,22.6263,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,2.4,1846.27,47326.3,3140.11,69185.6,27.3407,367.728,7.43503,False
+BRT,-99,Bir Tawil,Africa,2.4,1030.62,1064.6,1355.84,1400,1956.81,2019.46,96.8979,False
+SLB,SLB,Solomon Islands,Oceania,2.4,784.62,895930,1047.71,1.13587e+06,67.627,27198.8,0.24864,False
+ZMB,ZMB,Zambia,Africa,2.4,407.529,3.69113e+07,546.31,5.22068e+07,1175.23,751914,0.156298,False
+CHL,CHL,Chile,South America,2.4,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+ARG,ARG,Argentina,South America,2.4,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,2.4,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,2.4,0,1.03466e+06,0,967994,0,5395.04,0,False
+CHN,CHN,China,Asia,2.4,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,False
+ISR,ISR,Israel,Asia,2.4,0,1.76634e+07,0,1.40246e+07,0,22101.4,0,False
+PSX,PSE,Palestine,Asia,2.4,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,2.4,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+MWI,MWI,Malawi,Africa,2.4,0,5.2879e+07,0,7.10866e+07,0,119398,0,False
+SYR,SYR,Syria,Asia,2.4,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+FRA,FRA,France,Europe,2.4,0,8.07947e+07,0,6.17002e+07,0,636757,0,False
+KOR,KOR,South Korea,Asia,2.4,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,2.4,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+MAR,MAR,Morocco,Africa,2.4,0,3.54531e+07,0,4.97131e+07,0,591743,0,False
+COG,COG,Republic of the Congo,Africa,2.4,0,9.33724e+06,0,1.07184e+07,0,344889,0,False
+BTN,BTN,Bhutan,Asia,2.4,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,2.4,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,2.4,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+NAM,NAM,Namibia,Africa,2.4,0,3.45009e+06,0,3.96594e+06,0,822713,0,False
+ZAF,ZAF,South Africa,Africa,2.4,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,False
+MAF,MAF,Saint Martin,North America,2.4,0,0,0,0,0,68.2815,0,False
+SXM,SXM,Sint Maarten,North America,2.4,0,39968.7,0,48129.2,0,23.358,0,False
+UZB,UZB,Uzbekistan,Asia,2.4,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,2.4,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,2.4,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,2.4,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,2.4,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,2.4,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,2.4,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,2.4,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,2.4,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,2.4,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,2.4,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,2.4,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,2.4,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,2.4,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,2.4,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,2.4,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,2.4,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,2.4,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,2.4,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,2.4,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,2.4,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,2.4,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,2.4,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,2.4,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,2.4,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,2.4,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+LBY,LBY,Libya,Africa,2.4,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,False
+TUN,TUN,Tunisia,Africa,2.4,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,2.4,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,2.4,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,2.4,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,2.4,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,2.4,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,2.4,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,2.4,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+AUT,AUT,Austria,Europe,2.4,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+ITA,ITA,Italy,Europe,2.4,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,2.4,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,2.4,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,2.4,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+AGO,AGO,Angola,Africa,2.4,0,5.23185e+07,0,6.36813e+07,0,1.24465e+06,0,False
+HRV,HRV,Croatia,Europe,2.4,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,2.4,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BWA,BWA,Botswana,Africa,2.4,0,2.8525e+06,0,2.5181e+06,0,579029,0,False
+ZWE,ZWE,Zimbabwe,Africa,2.4,0,1.25232e+07,0,1.8211e+07,0,389338,0,False
+BGR,BGR,Bulgaria,Europe,2.4,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,2.4,0,36177.8,0,36646.5,0,60.3174,0,False
+TLS,TLS,East Timor,Asia,2.4,0,2.13496e+06,0,4.04494e+06,0,15082.2,0,False
+MCO,MCO,Monaco,Europe,2.4,0,0,0,0,0,18.8396,0,False
+SWZ,SWZ,eSwatini,Africa,2.4,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+BDI,BDI,Burundi,Africa,2.4,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,False
+RWA,RWA,Rwanda,Africa,2.4,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+BGD,BGD,Bangladesh,Asia,2.4,0,1.87152e+08,0,2.34152e+08,0,136904,0,False
+AND,AND,Andorra,Europe,2.4,0,81058.4,0,97604.7,0,452.239,0,False
+AFG,AFG,Afghanistan,Asia,2.4,0,9.44788e+07,0,1.29784e+08,0,642181,0,False
+MNE,MNE,Montenegro,Europe,2.4,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,2.4,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+UGA,UGA,Uganda,Africa,2.4,0,1.23347e+08,0,1.66832e+08,0,241854,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,2.4,0,0,0,0,0,65.3528,0,False
+CUB,CUB,Cuba,North America,2.4,0,6.80126e+06,0,8.50991e+06,0,109929,0,False
+ECU,ECU,Ecuador,South America,2.4,0,2.02565e+07,0,2.77579e+07,0,255014,0,False
+BRI,BRA,Brazilian Island,South America,2.4,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,2.4,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,2.4,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,2.4,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+JOR,JOR,Jordan,Asia,2.4,0,1.55503e+07,0,1.75686e+07,0,88862.7,0,False
+NPL,NPL,Nepal,Asia,2.4,0,5.51307e+07,0,7.66844e+07,0,147106,0,False
+LSO,LSO,Lesotho,Africa,2.4,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GAB,GAB,Gabon,Africa,2.4,0,2.21628e+06,0,2.61017e+06,0,259968,0,False
+GIB,GIB,Gibraltar,Europe,2.4,0,0,0,0,0,3.69249,0,False
+USA,USA,United States of America,North America,2.4,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,False
+CAN,CAN,Canada,North America,2.4,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+BLZ,BLZ,Belize,North America,2.4,0,446261,0,666095,35.1552,22299.4,0.157651,False
+GNQ,GNQ,Equatorial Guinea,Africa,2.4,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,2.4,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,2.4,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,2.4,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,2.4,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,2.4,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,2.4,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,2.4,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,2.4,0,2.05457,0,3.68493,0,1408.88,0,False
+ATA,ATA,Antarctica,Antarctica,2.4,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,2.4,0,25615.5,0,34703,0,2.15438e+06,0,False
+FJI,FJI,Fiji,Oceania,2.4,0,852169,0,1.10957e+06,0,18930.1,0,False
+NZL,NZL,New Zealand,Oceania,2.4,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,2.4,0,292378,0,311330,0,18841.1,0,False
+BHS,BHS,The Bahamas,North America,2.4,0,428157,0,452358,0,12603.9,0,False
+TCA,TCA,Turks and Caicos Islands,North America,2.4,0,20027.2,0,26606.5,0,445.213,0,False
+TWN,TWN,Taiwan,Asia,2.4,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,2.4,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,2.4,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,2.4,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,2.4,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,2.4,0,241872,0,289555,0,3336.5,0,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),2.4,0,0,0,0,0,7279.96,0,False
+SYC,SYC,Seychelles,Seven seas (open ocean),2.4,0,0,0,0,2.53422,435.664,0.581691,False
+MHL,MHL,Marshall Islands,Oceania,2.4,0,0,0,0,85.4355,164.814,51.8374,False
+TTO,TTO,Trinidad and Tobago,North America,2.4,0,960004,0,1.16158e+06,0,5122.92,0,False
+GRD,GRD,Grenada,North America,2.4,0,93377.5,0,128158,0,347.259,0,False
+BRB,BRB,Barbados,North America,2.4,0,205288,0,218146,0,444.223,0,False
+LCA,LCA,Saint Lucia,North America,2.4,0,151863,0,186748,0,605.133,0,False
+DMA,DMA,Dominica,North America,2.4,0,63878.3,0,83641.6,0,730.312,0,False
+UMI,UMI,United States Minor Outlying Islands,North America,2.4,0,0,0,0,3.53075,28.0046,12.6077,False
+MSR,MSR,Montserrat,North America,2.4,0,5186.16,0,6049.03,0,99.5971,0,False
+ATG,ATG,Antigua and Barbuda,North America,2.4,0,92102.7,0,119147,0.369087,451.85,0.0816836,False
+KNA,KNA,Saint Kitts and Nevis,North America,2.4,0,34986.2,0,45485.9,0,264.122,0,False
+VIR,VIR,United States Virgin Islands,North America,2.4,0,28214,0,33015,0,354.793,0,False
+BLM,BLM,Saint Barthelemy,North America,2.4,0,0,0,0,0,24.4219,0,False
+PRI,PRI,Puerto Rico,North America,2.4,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,False
+AIA,AIA,Anguilla,North America,2.4,0,0,0,0,0,87.4201,0,False
+VGB,VGB,British Virgin Islands,North America,2.4,0,156.959,0,198.339,0,144.938,0,False
+CYM,CYM,Cayman Islands,North America,2.4,0,20770.4,0,26043.7,0,309.202,0,False
+BMU,BMU,Bermuda,North America,2.4,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),2.4,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),2.4,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),2.4,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,2.4,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,False
+STP,STP,São Tomé and Principe,Africa,2.4,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,2.4,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,2.4,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,2.4,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,2.4,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,2.4,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,2.4,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,2.4,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,2.4,0,272.71,0,176.067,0,111.929,0,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),2.4,0,0,0,0,47.0979,49.0614,95.998,False
+SGP,SGP,Singapore,Asia,2.4,0,4.28604e+06,0,3.9271e+06,11.1719,510.503,2.18842,False
+NFK,NFK,Norfolk Island,Oceania,2.4,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,2.4,0,13059.7,0,17204.5,14.4384,191.133,7.55413,False
+TON,TON,Tonga,Oceania,2.4,0,49547.1,0,89614.9,0,603.109,0,False
+WLF,WLF,Wallis and Futuna,Oceania,2.4,0,1602.87,0,2130.73,0,139.33,0,False
+WSM,WSM,Samoa,Oceania,2.4,0,110134,0,229975,0,2780.42,0,False
+TUV,TUV,Tuvalu,Oceania,2.4,0,0,0,0,6.28087,23.0184,27.2864,False
+MDV,MDV,Maldives,Seven seas (open ocean),2.4,0,0,0,0,50.4693,108.742,46.4118,False
+NRU,NRU,Nauru,Oceania,2.4,0,0,0,0,0,28.7669,0,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),2.4,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,2.4,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,2.4,0,400755,0,497982,0,12296.6,0,False
+NIU,NIU,Niue,Oceania,2.4,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,2.4,0,17627.2,0,23106.4,1.86663,180.304,1.03526,False
+PLW,PLW,Palau,Oceania,2.4,0,15453.7,0,19821.5,9.95561,491.931,2.02378,False
+GUM,GUM,Guam,Oceania,2.4,0,175529,0,210406,0,564.205,0,False
+CSI,AUS,Coral Sea Islands,Oceania,2.4,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,2.4,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),2.4,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,2.4,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,2.4,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,2.4,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,2.4,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,2.4,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,2.7,6.13318e+08,1.75493e+09,7.66002e+08,2.24008e+09,1.15879e+06,3.15074e+06,36.7784,True
+NGA,NGA,Nigeria,Africa,2.7,3.24405e+08,4.74453e+08,4.13864e+08,6.10435e+08,651250,907498,71.7632,True
+IDN,IDN,Indonesia,Asia,2.7,9.45324e+07,2.60126e+08,1.00362e+08,2.92624e+08,695473,1.87983e+06,36.9967,True
+PHL,PHL,Philippines,Asia,2.7,8.83673e+07,1.51325e+08,1.08878e+08,1.96822e+08,93468.3,293291,31.8688,True
+PAK,PAK,Pakistan,Asia,2.7,8.40807e+07,3.19248e+08,1.11787e+08,4.3232e+08,237100,872939,27.1611,True
+NER,NER,Niger,Africa,2.7,7.2134e+07,7.21824e+07,1.04139e+08,1.04206e+08,1.10353e+06,1.1813e+06,93.4167,True
+SDN,SDN,Sudan,Africa,2.7,6.42666e+07,7.34233e+07,7.953e+07,9.11908e+07,1.31891e+06,1.85562e+06,71.0767,True
+THA,THA,Thailand,Asia,2.7,5.41978e+07,6.67212e+07,5.84318e+07,7.41564e+07,290059,514453,56.382,True
+SAU,SAU,Saudi Arabia,Asia,2.7,4.83718e+07,6.20701e+07,5.44126e+07,6.99067e+07,1.31871e+06,1.92173e+06,68.6214,True
+BFA,BFA,Burkina Faso,Africa,2.7,4.72464e+07,4.72464e+07,6.43994e+07,6.43994e+07,272769,272769,100,True
+MLI,MLI,Mali,Africa,2.7,4.31722e+07,4.31765e+07,5.44997e+07,5.45054e+07,1.25258e+06,1.25272e+06,99.9886,True
+GHA,GHA,Ghana,Africa,2.7,3.28064e+07,5.29174e+07,4.29552e+07,7.00787e+07,184457,238669,77.2858,True
+VNM,VNM,Vietnam,Asia,2.7,3.25332e+07,9.28161e+07,3.58785e+07,1.07253e+08,52048.2,328892,15.8253,True
+TCD,TCD,Chad,Africa,2.7,2.91816e+07,3.02464e+07,3.49277e+07,3.62048e+07,1.00656e+06,1.26628e+06,79.489,True
+MYS,MYS,Malaysia,Asia,2.7,2.76214e+07,4.359e+07,3.17234e+07,5.25047e+07,79082.9,327885,24.1191,True
+MMR,MMR,Myanmar,Asia,2.7,2.64179e+07,4.24877e+07,3.16395e+07,5.27607e+07,137982,663159,20.8068,True
+BEN,BEN,Benin,Africa,2.7,2.27287e+07,2.28736e+07,2.58734e+07,2.6048e+07,114073,116113,98.243,True
+YEM,YEM,Yemen,Asia,2.7,1.95968e+07,6.84559e+07,2.80902e+07,9.61469e+07,256950,453075,56.7125,True
+COL,COL,Colombia,South America,2.7,1.80607e+07,6.5018e+07,2.31381e+07,8.13405e+07,637092,1.13512e+06,56.1256,True
+BRA,BRA,Brazil,South America,2.7,1.68524e+07,2.1243e+08,2.0236e+07,2.53033e+08,2.93935e+06,8.47266e+06,34.6922,True
+ARE,ARE,United Arab Emirates,Asia,2.7,1.68023e+07,1.69727e+07,1.44534e+07,1.46028e+07,70311.2,71085,98.9115,True
+KHM,KHM,Cambodia,Asia,2.7,1.67182e+07,1.71329e+07,2.22094e+07,2.27848e+07,139558,181060,77.0785,True
+SEN,SEN,Senegal,Africa,2.7,1.64709e+07,2.59866e+07,2.78719e+07,4.05961e+07,181167,196225,92.3265,True
+VEN,VEN,Venezuela,South America,2.7,1.56359e+07,4.24884e+07,1.98494e+07,5.29421e+07,504510,912684,55.2777,True
+SDS,SSD,South Sudan,Africa,2.7,1.51636e+07,1.76665e+07,1.92879e+07,2.24756e+07,474970,626859,75.7698,True
+CIV,CIV,Ivory Coast,Africa,2.7,1.37513e+07,3.11476e+07,2.02479e+07,4.63636e+07,169232,320677,52.7734,True
+LKA,LKA,Sri Lanka,Asia,2.7,1.36448e+07,2.26008e+07,1.65901e+07,2.81343e+07,47004.1,66291.1,70.9055,True
+SOM,SOM,Somalia,Africa,2.7,1.0762e+07,1.43063e+07,1.79222e+07,2.39379e+07,335493,471815,71.1068,True
+ETH,ETH,Ethiopia,Africa,2.7,1.01924e+07,1.81779e+08,1.34533e+07,2.3535e+08,279760,1.12737e+06,24.8152,True
+TGO,TGO,Togo,Africa,2.7,9.00597e+06,1.09893e+07,1.01226e+07,1.2525e+07,45012.3,56863.4,79.1587,True
+CMR,CMR,Cameroon,Africa,2.7,8.99e+06,3.63431e+07,1.10378e+07,4.41574e+07,72627.6,464318,15.6418,True
+GIN,GIN,Guinea,Africa,2.7,7.50765e+06,1.61837e+07,1.06943e+07,2.3078e+07,111095,244302,45.4743,True
+KWT,KWT,Kuwait,Asia,2.7,5.68356e+06,5.74722e+06,5.50657e+06,5.58102e+06,15187,17473.5,86.9145,True
+MEX,MEX,Mexico,North America,2.7,5.43761e+06,1.49388e+08,7.43633e+06,1.99689e+08,82361.2,1.95785e+06,4.20673,True
+SLE,SLE,Sierra Leone,Africa,2.7,5.11595e+06,1.24305e+07,5.73744e+06,1.39226e+07,29198.2,71611.6,40.773,True
+MRT,MRT,Mauritania,Africa,2.7,5.02692e+06,6.82752e+06,6.4126e+06,8.50438e+06,899745,1.03639e+06,86.8153,True
+OMN,OMN,Oman,Asia,2.7,4.42036e+06,5.63999e+06,4.44638e+06,5.79059e+06,267501,311213,85.9543,True
+KEN,KEN,Kenya,Africa,2.7,4.35455e+06,8.81372e+07,6.31077e+06,1.23004e+08,221965,585702,37.8972,True
+IRN,IRN,Iran,Asia,2.7,3.87804e+06,8.95934e+07,4.64037e+06,1.06568e+08,110279,1.62251e+06,6.79682,True
+SGP,SGP,Singapore,Asia,2.7,3.45511e+06,4.28604e+06,3.16428e+06,3.9271e+06,332.238,510.503,65.0806,True
+ERI,ERI,Eritrea,Africa,2.7,3.29931e+06,1.3633e+07,3.68707e+06,1.51022e+07,69589,122538,56.7898,True
+GTM,GTM,Guatemala,North America,2.7,3.28218e+06,2.73982e+07,5.82103e+06,4.2427e+07,21258,108811,19.5367,True
+GMB,GMB,Gambia,Africa,2.7,2.75633e+06,3.36997e+06,3.79121e+06,4.52093e+06,9899.66,10501.1,94.2728,True
+QAT,QAT,Qatar,Asia,2.7,2.75168e+06,2.75168e+06,2.42414e+06,2.42414e+06,11132.1,11150.1,99.8381,True
+BHR,BHR,Bahrain,Asia,2.7,2.64137e+06,2.64137e+06,2.4325e+06,2.4325e+06,676.325,688.118,98.2862,True
+HND,HND,Honduras,North America,2.7,2.24311e+06,1.19517e+07,3.08022e+06,1.73542e+07,11198.4,112236,9.97752,True
+GNB,GNB,Guinea-Bissau,Africa,2.7,2.10698e+06,2.53551e+06,2.5725e+06,3.15686e+06,27789.5,32829.1,84.6491,True
+NIC,NIC,Nicaragua,North America,2.7,1.78535e+06,6.68907e+06,2.73632e+06,1.05133e+07,20056.1,128685,15.5854,True
+MDG,MDG,Madagascar,Africa,2.7,1.76024e+06,5.34276e+07,2.33465e+06,6.92521e+07,36204.6,592981,6.10551,True
+PAN,PAN,Panama,North America,2.7,1.62472e+06,5.11612e+06,1.89948e+06,6.24667e+06,8873.27,74530.3,11.9056,True
+TZA,TZA,United Republic of Tanzania,Africa,2.7,1.56654e+06,1.22335e+08,2.06007e+06,1.59497e+08,19137.7,941505,2.03267,True
+EGY,EGY,Egypt,Africa,2.7,1.52244e+06,1.31192e+08,1.42185e+06,1.63656e+08,98251.4,1.00106e+06,9.81475,True
+LAO,LAO,Laos,Asia,2.7,1.4284e+06,8.47843e+06,1.78295e+06,1.11635e+07,15681.8,228114,6.87455,True
+PER,PER,Peru,South America,2.7,1.42227e+06,3.14427e+07,2.44789e+06,4.46236e+07,355174,1.28987e+06,27.5357,True
+IRQ,IRQ,Iraq,Asia,2.7,1.30572e+06,7.97278e+07,2.02634e+06,1.19011e+08,12116.7,437367,2.77038,True
+DJI,DJI,Djibouti,Africa,2.7,1.30499e+06,1.34773e+06,1.4794e+06,1.5285e+06,19365.5,21848,88.6376,True
+BOL,BOL,Bolivia,South America,2.7,1.15894e+06,1.47842e+07,1.92118e+06,2.25738e+07,393189,1.08681e+06,36.1783,True
+MOZ,MOZ,Mozambique,Africa,2.7,1.02276e+06,4.7154e+07,1.21008e+06,5.61809e+07,23907.9,788447,3.03228,True
+HTI,HTI,Haiti,North America,2.7,731682,1.07858e+07,970690,1.49327e+07,1932.21,26891.6,7.18517,True
+PNG,PNG,Papua New Guinea,Oceania,2.7,729868,1.19577e+07,821848,1.45626e+07,42216.1,465147,9.07585,True
+SUR,SUR,Suriname,South America,2.7,629531,662600,791388,846261,67370.5,145123,46.4229,True
+BRN,BRN,Brunei,Asia,2.7,587538,603894,595891,618094,4511.81,5716.64,78.9242,True
+SOL,-99,Somaliland,Africa,2.7,581468,2.83394e+06,959075,4.78726e+06,29362.2,167407,17.5394,True
+DZA,DZA,Algeria,Africa,2.7,480591,4.85326e+07,646284,6.14338e+07,728132,2.30886e+06,31.5364,True
+GUY,GUY,Guyana,South America,2.7,473412,633573,743020,999059,113025,211214,53.5121,True
+COD,COD,Democratic Republic of the Congo,Africa,2.7,468489,1.71523e+08,562162,2.0323e+08,9802.3,2.32524e+06,0.421561,True
+AUS,AUS,Australia,Oceania,2.7,341050,3.97861e+07,228858,2.6854e+07,1.52824e+06,7.69117e+06,19.8701,True
+SLV,SLV,El Salvador,North America,2.7,318805,5.60567e+06,678972,9.37428e+06,2466.81,20539.4,12.0101,True
+DOM,DOM,Dominican Republic,North America,2.7,314706,1.28349e+07,475309,1.76331e+07,4068.03,48439.9,8.39809,True
+CAF,CAF,Central African Republic,Africa,2.7,292818,8.13473e+06,353185,9.44636e+06,69777.4,617984,11.2911,True
+CRI,CRI,Costa Rica,North America,2.7,275414,6.98038e+06,372229,7.92145e+06,5758.28,51151,11.2574,True
+LBR,LBR,Liberia,Africa,2.7,258649,1.29651e+07,282237,1.41395e+07,5853.86,95298.2,6.14268,True
+CUW,CUW,Curaçao,North America,2.7,171905,171905,219014,219014,462.562,463.243,99.853,True
+JAM,JAM,Jamaica,North America,2.7,106807,2.39581e+06,173636,3.67148e+06,904.271,11032.9,8.19613,True
+ABW,ABW,Aruba,North America,2.7,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,True
+UGA,UGA,Uganda,Africa,2.7,46965,1.23347e+08,64394.5,1.66832e+08,285.202,241854,0.117923,True
+FSM,FSM,Federated States of Micronesia,Oceania,2.7,38907.2,51546.6,70194.8,94421.3,452.755,633.849,71.4295,True
+MNP,MNP,Northern Mariana Islands,Oceania,2.7,32853.7,34393.8,43237,45253.8,286.884,579.305,49.522,True
+CYM,CYM,Cayman Islands,North America,2.7,20770.4,20770.4,26043.7,26043.7,274.131,309.202,88.6577,True
+COG,COG,Republic of the Congo,Africa,2.7,17348.5,9.33724e+06,20744.7,1.07184e+07,1366.62,344889,0.396251,True
+AGO,AGO,Angola,Africa,2.7,13370.5,5.23185e+07,16439.4,6.36813e+07,423.671,1.24465e+06,0.0340393,True
+NLD,NLD,Netherlands,Europe,2.7,9666.04,1.86362e+07,12108.8,1.3912e+07,269.119,37397,0.719629,True
+ZMB,ZMB,Zambia,Africa,2.7,8033.85,3.69113e+07,10528.6,5.22068e+07,2207.37,751914,0.293567,True
+JOR,JOR,Jordan,Asia,2.7,7183.13,1.55503e+07,7623.67,1.75686e+07,72.6315,88862.7,0.0817346,True
+PRY,PRY,Paraguay,South America,2.7,6934.31,1.02603e+07,10965.2,1.32973e+07,32555.8,399901,8.14095,True
+SAH,ESH,Western Sahara,Africa,2.7,6388.53,102853,8987.88,149177,10734.8,90495.4,11.8622,True
+BLZ,BLZ,Belize,North America,2.7,5237.3,446261,7642.07,666095,323.925,22299.4,1.45262,True
+GRD,GRD,Grenada,North America,2.7,5199.01,93377.5,8831.29,128158,42.8747,347.259,12.3466,True
+KIR,KIR,Kiribati,Oceania,2.7,4839.22,4979.2,4836.82,4976.6,347.612,949.863,36.596,True
+SLB,SLB,Solomon Islands,Oceania,2.7,4697.01,895930,6242.5,1.13587e+06,953.852,27198.8,3.50696,True
+VCT,VCT,Saint Vincent and the Grenadines,North America,2.7,1846.27,47326.3,3140.11,69185.6,39.8854,367.728,10.8464,True
+BRT,-99,Bir Tawil,Africa,2.7,1064.6,1064.6,1400,1400,2019.43,2019.46,99.9987,True
+CUB,CUB,Cuba,North America,2.7,1031.48,6.80126e+06,1273.53,8.50991e+06,155.707,109929,0.141643,True
+FRA,FRA,France,Europe,2.7,562.607,8.07947e+07,742.368,6.17002e+07,328.472,636757,0.0515851,True
+ZWE,ZWE,Zimbabwe,Africa,2.7,463.842,1.25232e+07,804.301,1.8211e+07,80.9542,389338,0.0207928,True
+GAB,GAB,Gabon,Africa,2.7,175.302,2.21628e+06,208.074,2.61017e+06,91.0637,259968,0.0350288,True
+CHL,CHL,Chile,South America,2.7,0,1.96015e+07,0,2.25921e+07,0,736595,0,True
+ARG,ARG,Argentina,South America,2.7,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,True
+ESB,-99,Dhekelia Sovereign Base Area,Asia,2.7,0,20776.8,0,20384.5,0,127.423,0,True
+CYP,CYP,Cyprus,Asia,2.7,0,1.03466e+06,0,967994,0,5395.04,0,True
+CHN,CHN,China,Asia,2.7,0,1.04753e+09,0,1.14711e+09,0,9.37522e+06,0,True
+ISR,ISR,Israel,Asia,2.7,0,1.76634e+07,0,1.40246e+07,0.868238,22101.4,0.00392843,True
+PSX,PSE,Palestine,Asia,2.7,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,True
+LBN,LBN,Lebanon,Asia,2.7,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,True
+MWI,MWI,Malawi,Africa,2.7,0,5.2879e+07,0,7.10866e+07,0,119398,0,True
+SYR,SYR,Syria,Asia,2.7,0,3.58793e+07,0,4.75504e+07,0,185940,0,True
+KOR,KOR,South Korea,Asia,2.7,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,True
+PRK,PRK,North Korea,Asia,2.7,0,2.14021e+07,0,2.39589e+07,0,122379,0,True
+MAR,MAR,Morocco,Africa,2.7,0,3.54531e+07,0,4.97131e+07,0,591743,0,True
+BTN,BTN,Bhutan,Asia,2.7,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,True
+UKR,UKR,Ukraine,Europe,2.7,0,3.52591e+07,0,3.61595e+07,0,571999,0,True
+BLR,BLR,Belarus,Europe,2.7,0,7.35153e+06,0,8.03146e+06,0,207499,0,True
+NAM,NAM,Namibia,Africa,2.7,0,3.45009e+06,0,3.96594e+06,0,822713,0,True
+ZAF,ZAF,South Africa,Africa,2.7,0,6.34593e+07,0,6.49435e+07,0,1.21982e+06,0,True
+MAF,MAF,Saint Martin,North America,2.7,0,0,0,0,0,68.2815,0,True
+SXM,SXM,Sint Maarten,North America,2.7,0,39968.7,0,48129.2,0,23.358,0,True
+UZB,UZB,Uzbekistan,Asia,2.7,0,3.17163e+07,0,4.15725e+07,0,447831,0,True
+KAZ,KAZ,Kazakhstan,Asia,2.7,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,True
+TJK,TJK,Tajikistan,Asia,2.7,0,7.93817e+06,0,1.26819e+07,0,142239,0,True
+LTU,LTU,Lithuania,Europe,2.7,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,True
+URY,URY,Uruguay,South America,2.7,0,2.89053e+06,0,3.72573e+06,0,177342,0,True
+MNG,MNG,Mongolia,Asia,2.7,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,True
+RUS,RUS,Russia,Europe,2.7,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,True
+CZE,CZE,Czechia,Europe,2.7,0,1.1607e+07,0,8.15203e+06,0,78759,0,True
+DEU,DEU,Germany,Europe,2.7,0,7.51203e+07,0,5.44185e+07,0,357674,0,True
+EST,EST,Estonia,Europe,2.7,0,1.12619e+06,0,848509,0,45819,0,True
+LVA,LVA,Latvia,Europe,2.7,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,True
+NOR,NOR,Norway,Europe,2.7,0,7.02167e+06,0,4.75375e+06,0,382074,0,True
+SWE,SWE,Sweden,Europe,2.7,0,1.35253e+07,0,9.27909e+06,0,446173,0,True
+FIN,FIN,Finland,Europe,2.7,0,6.12602e+06,0,4.43366e+06,0,333059,0,True
+LUX,LUX,Luxembourg,Europe,2.7,0,922822,0,602201,0,2608.48,0,True
+BEL,BEL,Belgium,Europe,2.7,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,True
+GEO,GEO,Georgia,Asia,2.7,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,True
+MKD,MKD,North Macedonia,Europe,2.7,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,True
+ALB,ALB,Albania,Europe,2.7,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,True
+AZE,AZE,Azerbaijan,Asia,2.7,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,True
+KOS,-99,Kosovo,Europe,2.7,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,True
+TUR,TUR,Turkey,Asia,2.7,0,9.48319e+07,0,1.21902e+08,0,780080,0,True
+ESP,ESP,Spain,Europe,2.7,0,4.91165e+07,0,3.53514e+07,0,506885,0,True
+KGZ,KGZ,Kyrgyzstan,Asia,2.7,0,6.38419e+06,0,8.74985e+06,0,198990,0,True
+ARM,ARM,Armenia,Asia,2.7,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,True
+DNK,DNK,Denmark,Europe,2.7,0,6.52654e+06,0,4.655e+06,0,42695.9,0,True
+LBY,LBY,Libya,Africa,2.7,0,1.00179e+07,0,1.21096e+07,0,1.62376e+06,0,True
+TUN,TUN,Tunisia,Africa,2.7,0,1.19796e+07,0,1.39603e+07,0,156613,0,True
+ROU,ROU,Romania,Europe,2.7,0,1.46562e+07,0,1.68727e+07,0,236377,0,True
+HUN,HUN,Hungary,Europe,2.7,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,True
+SVK,SVK,Slovakia,Europe,2.7,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,True
+POL,POL,Poland,Europe,2.7,0,3.17657e+07,0,2.46776e+07,0,313428,0,True
+IRL,IRL,Ireland,Europe,2.7,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,True
+GBR,GBR,United Kingdom,Europe,2.7,0,7.82883e+07,0,5.71469e+07,0,243783,0,True
+GRC,GRC,Greece,Europe,2.7,0,9.95235e+06,0,7.49269e+06,0,131353,0,True
+AUT,AUT,Austria,Europe,2.7,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,True
+ITA,ITA,Italy,Europe,2.7,0,5.57792e+07,0,4.09817e+07,0,301184,0,True
+CHE,CHE,Switzerland,Europe,2.7,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,True
+LIE,LIE,Liechtenstein,Europe,2.7,0,36124.2,0,40021.8,0,137.25,0,True
+SRB,SRB,Republic of Serbia,Europe,2.7,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,True
+HRV,HRV,Croatia,Europe,2.7,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,True
+SVN,SVN,Slovenia,Europe,2.7,0,2.2598e+06,0,1.61432e+06,0,20327,0,True
+BWA,BWA,Botswana,Africa,2.7,0,2.8525e+06,0,2.5181e+06,0,579029,0,True
+BGR,BGR,Bulgaria,Europe,2.7,0,5.97598e+06,0,6.38754e+06,0,112760,0,True
+SMR,SMR,San Marino,Europe,2.7,0,36177.8,0,36646.5,0,60.3174,0,True
+TLS,TLS,East Timor,Asia,2.7,0,2.13496e+06,0,4.04494e+06,54.5721,15082.2,0.361832,True
+MCO,MCO,Monaco,Europe,2.7,0,0,0,0,0,18.8396,0,True
+SWZ,SWZ,eSwatini,Africa,2.7,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,True
+BDI,BDI,Burundi,Africa,2.7,0,1.90607e+07,0,1.9907e+07,0,27041.2,0,True
+RWA,RWA,Rwanda,Africa,2.7,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,True
+BGD,BGD,Bangladesh,Asia,2.7,0,1.87152e+08,0,2.34152e+08,0,136904,0,True
+AND,AND,Andorra,Europe,2.7,0,81058.4,0,97604.7,0,452.239,0,True
+AFG,AFG,Afghanistan,Asia,2.7,0,9.44788e+07,0,1.29784e+08,0,642181,0,True
+MNE,MNE,Montenegro,Europe,2.7,0,535560,0,579515,0,13727.5,0,True
+BIH,BIH,Bosnia and Herzegovina,Europe,2.7,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,True
+USG,-99,US Naval Base Guantanamo Bay,North America,2.7,0,0,0,0,60.7263,65.3528,92.9207,True
+ECU,ECU,Ecuador,South America,2.7,0,2.02565e+07,0,2.77579e+07,0,255014,0,True
+BRI,BRA,Brazilian Island,South America,2.7,0,0,0,0,0,2.82463,0,True
+PRT,PRT,Portugal,Europe,2.7,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,True
+MDA,MDA,Moldova,Europe,2.7,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,True
+TKM,TKM,Turkmenistan,Asia,2.7,0,6.3208e+06,0,7.86674e+06,0,470849,0,True
+NPL,NPL,Nepal,Asia,2.7,0,5.51307e+07,0,7.66844e+07,0,147106,0,True
+LSO,LSO,Lesotho,Africa,2.7,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,True
+GIB,GIB,Gibraltar,Europe,2.7,0,0,0,0,0,3.69249,0,True
+USA,USA,United States of America,North America,2.7,0,4.26001e+08,0,3.06749e+08,0,9.46422e+06,0,True
+CAN,CAN,Canada,North America,2.7,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,True
+GNQ,GNQ,Equatorial Guinea,Africa,2.7,0,1.60306e+06,0,1.73866e+06,0,26671.7,0,True
+HKG,HKG,Hong Kong S.A.R.,Asia,2.7,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,True
+VAT,VAT,Vatican,Europe,2.7,0,0,0,0,0,0.0122038,0,True
+CYN,-99,Northern Cyprus,Asia,2.7,0,359752,0,366353,0,3319.43,0,True
+CNM,-99,Cyprus No Mans Area,Asia,2.7,0,132290,0,116721,0,340.999,0,True
+KAS,-99,Siachen Glacier,Asia,2.7,0,16968.5,0,23025.5,0,2088.06,0,True
+KAB,KAZ,Baykonur Cosmodrome,Asia,2.7,0,9380.15,0,12143.1,0,6501.49,0,True
+WSB,-99,Akrotiri Sovereign Base Area,Asia,2.7,0,18548,0,16548.1,0,98.685,0,True
+SPI,-99,Southern Patagonian Ice Field,South America,2.7,0,2.05457,0,3.68493,0,1408.88,0,True
+ATA,ATA,Antarctica,Antarctica,2.7,0,0,0,0,0,1.23582e+07,0,True
+GRL,GRL,Greenland,North America,2.7,0,25615.5,0,34703,0,2.15438e+06,0,True
+FJI,FJI,Fiji,Oceania,2.7,0,852169,0,1.10957e+06,16.0279,18930.1,0.0846689,True
+NZL,NZL,New Zealand,Oceania,2.7,0,5.25603e+06,0,3.8787e+06,0,268499,0,True
+NCL,NCL,New Caledonia,Oceania,2.7,0,292378,0,311330,0,18841.1,0,True
+BHS,BHS,The Bahamas,North America,2.7,0,428157,0,452358,0,12603.9,0,True
+TCA,TCA,Turks and Caicos Islands,North America,2.7,0,20027.2,0,26606.5,0,445.213,0,True
+TWN,TWN,Taiwan,Asia,2.7,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,True
+JPN,JPN,Japan,Asia,2.7,0,9.08181e+07,0,6.99495e+07,0,373507,0,True
+SPM,SPM,Saint Pierre and Miquelon,North America,2.7,0,5646.31,0,7530.37,0,242.763,0,True
+ISL,ISL,Iceland,Europe,2.7,0,472610,0,331098,0,102390,0,True
+PCN,PCN,Pitcairn Islands,Oceania,2.7,0,0,0,0,0,42.5696,0,True
+PYF,PYF,French Polynesia,Oceania,2.7,0,241872,0,289555,0,3336.5,0,True
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),2.7,0,0,0,0,3.01773,7279.96,0.0414526,True
+SYC,SYC,Seychelles,Seven seas (open ocean),2.7,0,0,0,0,78.3811,435.664,17.9912,True
+MHL,MHL,Marshall Islands,Oceania,2.7,0,0,0,0,85.4355,164.814,51.8374,True
+TTO,TTO,Trinidad and Tobago,North America,2.7,0,960004,0,1.16158e+06,44.4802,5122.92,0.868258,True
+BRB,BRB,Barbados,North America,2.7,0,205288,0,218146,0.0250032,444.223,0.00562852,True
+LCA,LCA,Saint Lucia,North America,2.7,0,151863,0,186748,25.5467,605.133,4.22167,True
+DMA,DMA,Dominica,North America,2.7,0,63878.3,0,83641.6,0.512198,730.312,0.0701341,True
+UMI,UMI,United States Minor Outlying Islands,North America,2.7,0,0,0,0,7.44675,28.0046,26.5912,True
+MSR,MSR,Montserrat,North America,2.7,0,5186.16,0,6049.03,0,99.5971,0,True
+ATG,ATG,Antigua and Barbuda,North America,2.7,0,92102.7,0,119147,0.369087,451.85,0.0816836,True
+KNA,KNA,Saint Kitts and Nevis,North America,2.7,0,34986.2,0,45485.9,0,264.122,0,True
+VIR,VIR,United States Virgin Islands,North America,2.7,0,28214,0,33015,0,354.793,0,True
+BLM,BLM,Saint Barthelemy,North America,2.7,0,0,0,0,0,24.4219,0,True
+PRI,PRI,Puerto Rico,North America,2.7,0,2.19506e+06,0,3.23172e+06,0,9005.96,0,True
+AIA,AIA,Anguilla,North America,2.7,0,0,0,0,1.28809,87.4201,1.47345,True
+VGB,VGB,British Virgin Islands,North America,2.7,0,156.959,0,198.339,0,144.938,0,True
+BMU,BMU,Bermuda,North America,2.7,0,36479,0,45595,0,62.302,0,True
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),2.7,0,0,0,0,0,394.833,0,True
+SHN,SHN,Saint Helena,Seven seas (open ocean),2.7,0,3557.42,0,4331.07,0,366.653,0,True
+MUS,MUS,Mauritius,Seven seas (open ocean),2.7,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,True
+COM,COM,Comoros,Africa,2.7,0,1.07156e+06,0,1.68094e+06,0,1672.23,0,True
+STP,STP,São Tomé and Principe,Africa,2.7,0,170750,0,262485,0,1037.16,0,True
+CPV,CPV,Cabo Verde,Africa,2.7,0,429728,0,658054,0,3926.72,0,True
+MLT,MLT,Malta,Europe,2.7,0,370288,0,378372,0,325.684,0,True
+JEY,JEY,Jersey,Europe,2.7,0,98529,0,123275,0,119.05,0,True
+GGY,GGY,Guernsey,Europe,2.7,0,58799.7,0,73482.9,0,73.9851,0,True
+IMN,IMN,Isle of Man,Europe,2.7,0,71948,0,89864.9,0,574.809,0,True
+ALD,ALA,Aland,Europe,2.7,0,20753.3,0,14879.3,0,942.066,0,True
+FRO,FRO,Faroe Islands,Europe,2.7,0,39021.3,0,48956.1,0,1328.53,0,True
+IOA,AUS,Indian Ocean Territories,Asia,2.7,0,272.71,0,176.067,0,111.929,0,True
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),2.7,0,0,0,0,47.0979,49.0614,95.998,True
+NFK,NFK,Norfolk Island,Oceania,2.7,0,0,0,0,0,41.1466,0,True
+COK,COK,Cook Islands,Oceania,2.7,0,13059.7,0,17204.5,15.2753,191.133,7.99196,True
+TON,TON,Tonga,Oceania,2.7,0,49547.1,0,89614.9,0,603.109,0,True
+WLF,WLF,Wallis and Futuna,Oceania,2.7,0,1602.87,0,2130.73,2.21196,139.33,1.58757,True
+WSM,WSM,Samoa,Oceania,2.7,0,110134,0,229975,0,2780.42,0,True
+TUV,TUV,Tuvalu,Oceania,2.7,0,0,0,0,18.2539,23.0184,79.3014,True
+MDV,MDV,Maldives,Seven seas (open ocean),2.7,0,0,0,0,50.4693,108.742,46.4118,True
+NRU,NRU,Nauru,Oceania,2.7,0,0,0,0,26.0944,28.7669,90.7096,True
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),2.7,0,0,0,0,0,3921.5,0,True
+FLK,FLK,Falkland Islands,South America,2.7,0,2540.27,0,3383.92,0,11597.2,0,True
+VUT,VUT,Vanuatu,Oceania,2.7,0,400755,0,497982,0,12296.6,0,True
+NIU,NIU,Niue,Oceania,2.7,0,523.136,0,523.136,0,220.574,0,True
+ASM,ASM,American Samoa,Oceania,2.7,0,17627.2,0,23106.4,1.86663,180.304,1.03526,True
+PLW,PLW,Palau,Oceania,2.7,0,15453.7,0,19821.5,9.95561,491.931,2.02378,True
+GUM,GUM,Guam,Oceania,2.7,0,175529,0,210406,8.04034,564.205,1.42507,True
+CSI,AUS,Coral Sea Islands,Oceania,2.7,0,0,0,0,0,0.0207323,0,True
+PGA,-99,Spratly Islands,Asia,2.7,0,0,0,0,1.95713,11.9804,16.3361,True
+CLP,FRA,Clipperton Island,Seven seas (open ocean),2.7,0,0,0,0,5.00205,5.00196,100,True
+MAC,MAC,Macao S.A.R,Asia,2.7,0,1.01356e+06,0,907901,0,30.0757,0,True
+ATC,AUS,Ashmore and Cartier Islands,Oceania,2.7,0,0,0,0,0,2.69549,0,True
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,2.7,0,0,0,0,0,0.0358638,0,True
+SER,-99,Serranilla Bank,North America,2.7,0,0,0,0,0,0.105289,0,True
+SCR,-99,Scarborough Reef,Asia,2.7,0,0,0,0,0,0.0977859,0,True
+IND,IND,India,Asia,3.6,1.20375e+09,1.75493e+09,1.52184e+09,2.24008e+09,2.01476e+06,3.15074e+06,63.9457,False
+NGA,NGA,Nigeria,Africa,3.6,4.35822e+08,4.74453e+08,5.59476e+08,6.10435e+08,833566,907498,91.8532,False
+IDN,IDN,Indonesia,Asia,3.6,1.73393e+08,2.60126e+08,1.89272e+08,2.92624e+08,1.18084e+06,1.87983e+06,62.8164,False
+PAK,PAK,Pakistan,Asia,3.6,1.53886e+08,3.19248e+08,2.08904e+08,4.3232e+08,400841,872939,45.9186,False
+PHL,PHL,Philippines,Asia,3.6,1.23155e+08,1.51325e+08,1.57255e+08,1.96822e+08,178959,293291,61.0177,False
+BGD,BGD,Bangladesh,Asia,3.6,1.19288e+08,1.87152e+08,1.45486e+08,2.34152e+08,74858.1,136904,54.6794,False
+COD,COD,Democratic Republic of the Congo,Africa,3.6,7.55176e+07,1.71523e+08,8.73559e+07,2.0323e+08,971616,2.32524e+06,41.7856,False
+NER,NER,Niger,Africa,3.6,7.21755e+07,7.21824e+07,1.04197e+08,1.04206e+08,1.15783e+06,1.1813e+06,98.0133,False
+SDN,SDN,Sudan,Africa,3.6,7.0853e+07,7.34233e+07,8.79207e+07,9.11908e+07,1.72508e+06,1.85562e+06,92.9655,False
+THA,THA,Thailand,Asia,3.6,6.25405e+07,6.67212e+07,6.85289e+07,7.41564e+07,396815,514453,77.1333,False
+SAU,SAU,Saudi Arabia,Asia,3.6,5.41019e+07,6.20701e+07,6.09129e+07,6.99067e+07,1.49833e+06,1.92173e+06,77.9682,False
+GHA,GHA,Ghana,Africa,3.6,5.08494e+07,5.29174e+07,6.7191e+07,7.00787e+07,232451,238669,97.3947,False
+BFA,BFA,Burkina Faso,Africa,3.6,4.72464e+07,4.72464e+07,6.43994e+07,6.43994e+07,272769,272769,100,False
+MLI,MLI,Mali,Africa,3.6,4.31765e+07,4.31765e+07,5.45054e+07,5.45054e+07,1.25272e+06,1.25272e+06,100,False
+VNM,VNM,Vietnam,Asia,3.6,4.09663e+07,9.28161e+07,4.58593e+07,1.07253e+08,80401.4,328892,24.4461,False
+MYS,MYS,Malaysia,Asia,3.6,3.97456e+07,4.359e+07,4.72729e+07,5.25047e+07,207779,327885,63.3696,False
+BRA,BRA,Brazil,South America,3.6,3.43048e+07,2.1243e+08,4.11769e+07,2.53033e+08,5.53993e+06,8.47266e+06,65.386,False
+MMR,MMR,Myanmar,Asia,3.6,3.28294e+07,4.24877e+07,3.99778e+07,5.27607e+07,233447,663159,35.2022,False
+CIV,CIV,Ivory Coast,Africa,3.6,3.01515e+07,3.11476e+07,4.48397e+07,4.63636e+07,308872,320677,96.3186,False
+TCD,TCD,Chad,Africa,3.6,3.01134e+07,3.02464e+07,3.60463e+07,3.62048e+07,1.15435e+06,1.26628e+06,91.1606,False
+IRQ,IRQ,Iraq,Asia,3.6,2.67401e+07,7.97278e+07,4.1532e+07,1.19011e+08,183003,437367,41.8421,False
+YEM,YEM,Yemen,Asia,3.6,2.47887e+07,6.84559e+07,3.57491e+07,9.61469e+07,324118,453075,71.5374,False
+BEN,BEN,Benin,Africa,3.6,2.28736e+07,2.28736e+07,2.6048e+07,2.6048e+07,116085,116113,99.9752,False
+COL,COL,Colombia,South America,3.6,2.16213e+07,6.5018e+07,2.8022e+07,8.13405e+07,854734,1.13512e+06,75.2991,False
+SEN,SEN,Senegal,Africa,3.6,2.08463e+07,2.59866e+07,3.50227e+07,4.05961e+07,194309,196225,99.024,False
+VEN,VEN,Venezuela,South America,3.6,2.07113e+07,4.24884e+07,2.6254e+07,5.29421e+07,737109,912684,80.7628,False
+MEX,MEX,Mexico,North America,3.6,1.88911e+07,1.49388e+08,2.59918e+07,1.99689e+08,321895,1.95785e+06,16.4413,False
+LKA,LKA,Sri Lanka,Asia,3.6,1.77107e+07,2.26008e+07,2.18495e+07,2.81343e+07,56576.4,66291.1,85.3454,False
+KHM,KHM,Cambodia,Asia,3.6,1.70343e+07,1.71329e+07,2.26474e+07,2.27848e+07,164071,181060,90.617,False
+ARE,ARE,United Arab Emirates,Asia,3.6,1.69576e+07,1.69727e+07,1.45894e+07,1.46028e+07,70894.6,71085,99.7321,False
+SDS,SSD,South Sudan,Africa,3.6,1.66499e+07,1.76665e+07,2.11871e+07,2.24756e+07,576791,626859,92.0129,False
+TZA,TZA,United Republic of Tanzania,Africa,3.6,1.64667e+07,1.22335e+08,2.04389e+07,1.59497e+08,105296,941505,11.1838,False
+ETH,ETH,Ethiopia,Africa,3.6,1.56536e+07,1.81779e+08,2.06292e+07,2.3535e+08,398001,1.12737e+06,35.3034,False
+CMR,CMR,Cameroon,Africa,3.6,1.41513e+07,3.63431e+07,1.73405e+07,4.41574e+07,151133,464318,32.5494,False
+SOM,SOM,Somalia,Africa,3.6,1.38286e+07,1.43063e+07,2.31232e+07,2.39379e+07,430346,471815,91.2107,False
+SLE,SLE,Sierra Leone,Africa,3.6,1.16483e+07,1.24305e+07,1.30348e+07,1.39226e+07,67177.4,71611.6,93.8079,False
+LBR,LBR,Liberia,Africa,3.6,1.12293e+07,1.29651e+07,1.22339e+07,1.41395e+07,77972,95298.2,81.819,False
+GIN,GIN,Guinea,Africa,3.6,1.08393e+07,1.61837e+07,1.54486e+07,2.3078e+07,176533,244302,72.2603,False
+TGO,TGO,Togo,Africa,3.6,1.04203e+07,1.09893e+07,1.18257e+07,1.2525e+07,53995.6,56863.4,94.9568,False
+DOM,DOM,Dominican Republic,North America,3.6,8.26036e+06,1.28349e+07,1.08645e+07,1.76331e+07,21105.6,48439.9,43.5707,False
+MOZ,MOZ,Mozambique,Africa,3.6,8.04125e+06,4.7154e+07,9.73459e+06,5.61809e+07,172976,788447,21.9389,False
+IRN,IRN,Iran,Asia,3.6,7.80702e+06,8.95934e+07,9.59473e+06,1.06568e+08,225547,1.62251e+06,13.9011,False
+GTM,GTM,Guatemala,North America,3.6,6.57673e+06,2.73982e+07,1.14793e+07,4.2427e+07,58945.4,108811,54.1724,False
+EGY,EGY,Egypt,Africa,3.6,6.56987e+06,1.31192e+08,5.99273e+06,1.63656e+08,238539,1.00106e+06,23.8287,False
+KEN,KEN,Kenya,Africa,3.6,6.54512e+06,8.81372e+07,9.39242e+06,1.23004e+08,304877,585702,52.0533,False
+MRT,MRT,Mauritania,Africa,3.6,5.94179e+06,6.82752e+06,7.51759e+06,8.50438e+06,992183,1.03639e+06,95.7346,False
+KWT,KWT,Kuwait,Asia,3.6,5.74722e+06,5.74722e+06,5.58102e+06,5.58102e+06,17472.7,17473.5,99.995,False
+AGO,AGO,Angola,Africa,3.6,5.66414e+06,5.23185e+07,6.48376e+06,6.36813e+07,47055.6,1.24465e+06,3.78063,False
+MDG,MDG,Madagascar,Africa,3.6,5.35688e+06,5.34276e+07,7.08357e+06,6.92521e+07,129465,592981,21.8329,False
+OMN,OMN,Oman,Asia,3.6,5.01026e+06,5.63999e+06,5.07638e+06,5.79059e+06,288123,311213,92.5805,False
+HTI,HTI,Haiti,North America,3.6,4.62573e+06,1.07858e+07,5.89477e+06,1.49327e+07,8854.37,26891.6,32.9262,False
+BOL,BOL,Bolivia,South America,3.6,4.62407e+06,1.47842e+07,7.26234e+06,2.25738e+07,649386,1.08681e+06,59.7517,False
+COG,COG,Republic of the Congo,Africa,3.6,4.5579e+06,9.33724e+06,5.03092e+06,1.07184e+07,194981,344889,56.5345,False
+ERI,ERI,Eritrea,Africa,3.6,4.54268e+06,1.3633e+07,5.07244e+06,1.51022e+07,83683.6,122538,68.292,False
+HND,HND,Honduras,North America,3.6,4.30594e+06,1.19517e+07,6.1072e+06,1.73542e+07,36656.1,112236,32.6597,False
+CAF,CAF,Central African Republic,Africa,3.6,4.29334e+06,8.13473e+06,4.80845e+06,9.44636e+06,276937,617984,44.813,False
+SGP,SGP,Singapore,Asia,3.6,4.28604e+06,4.28604e+06,3.9271e+06,3.9271e+06,510.503,510.503,100,False
+UGA,UGA,Uganda,Africa,3.6,4.28099e+06,1.23347e+08,5.87935e+06,1.66832e+08,15523.4,241854,6.41853,False
+PAN,PAN,Panama,North America,3.6,4.1878e+06,5.11612e+06,4.99006e+06,6.24667e+06,43850.3,74530.3,58.8355,False
+NPL,NPL,Nepal,Asia,3.6,3.69119e+06,5.51307e+07,5.31081e+06,7.66844e+07,3065.68,147106,2.084,False
+NIC,NIC,Nicaragua,North America,3.6,3.68621e+06,6.68907e+06,5.59983e+06,1.05133e+07,66478.2,128685,51.6597,False
+LAO,LAO,Laos,Asia,3.6,3.68437e+06,8.47843e+06,4.72723e+06,1.11635e+07,44899.2,228114,19.6828,False
+GMB,GMB,Gambia,Africa,3.6,3.36997e+06,3.36997e+06,4.52093e+06,4.52093e+06,10501,10501.1,99.9994,False
+PNG,PNG,Papua New Guinea,Oceania,3.6,2.99837e+06,1.19577e+07,3.58274e+06,1.45626e+07,190760,465147,41.0106,False
+MWI,MWI,Malawi,Africa,3.6,2.79976e+06,5.2879e+07,3.86293e+06,7.10866e+07,6491.89,119398,5.4372,False
+QAT,QAT,Qatar,Asia,3.6,2.75168e+06,2.75168e+06,2.42414e+06,2.42414e+06,11132.1,11150.1,99.8381,False
+BHR,BHR,Bahrain,Asia,3.6,2.64137e+06,2.64137e+06,2.4325e+06,2.4325e+06,676.325,688.118,98.2862,False
+GNB,GNB,Guinea-Bissau,Africa,3.6,2.53551e+06,2.53551e+06,3.15686e+06,3.15686e+06,32772.7,32829.1,99.8284,False
+PER,PER,Peru,South America,3.6,2.03462e+06,3.14427e+07,3.48145e+06,4.46236e+07,605859,1.28987e+06,46.9707,False
+CUB,CUB,Cuba,North America,3.6,1.95022e+06,6.80126e+06,2.40971e+06,8.50991e+06,34867.3,109929,31.7179,False
+GAB,GAB,Gabon,Africa,3.6,1.52784e+06,2.21628e+06,1.78607e+06,2.61017e+06,85083.5,259968,32.7284,False
+ECU,ECU,Ecuador,South America,3.6,1.35305e+06,2.02565e+07,1.78913e+06,2.77579e+07,60607.9,255014,23.7665,False
+DJI,DJI,Djibouti,Africa,3.6,1.33091e+06,1.34773e+06,1.50929e+06,1.5285e+06,20801.1,21848,95.2084,False
+CRI,CRI,Costa Rica,North America,3.6,1.23775e+06,6.98038e+06,1.7089e+06,7.92145e+06,25187.1,51151,49.2406,False
+SLV,SLV,El Salvador,North America,3.6,1.17672e+06,5.60567e+06,2.49066e+06,9.37428e+06,9405.42,20539.4,45.792,False
+ZMB,ZMB,Zambia,Africa,3.6,1.02698e+06,3.69113e+07,1.51069e+06,5.22068e+07,30113.8,751914,4.00496,False
+DZA,DZA,Algeria,Africa,3.6,1.02186e+06,4.85326e+07,1.39287e+06,6.14338e+07,1.25603e+06,2.30886e+06,54.4007,False
+SOL,-99,Somaliland,Africa,3.6,883898,2.83394e+06,1.47174e+06,4.78726e+06,53078.4,167407,31.7063,False
+FRA,FRA,France,Europe,3.6,738852,8.07947e+07,936768,6.17002e+07,81162.2,636757,12.7462,False
+TTO,TTO,Trinidad and Tobago,North America,3.6,698216,960004,843249,1.16158e+06,3884.76,5122.92,75.8309,False
+SUR,SUR,Suriname,South America,3.6,662451,662600,846009,846261,144124,145123,99.3116,False
+GUY,GUY,Guyana,South America,3.6,627981,633573,990082,999059,185631,211214,87.888,False
+BRN,BRN,Brunei,Asia,3.6,601949,603894,615275,618094,5302.05,5716.64,92.7477,False
+AUS,AUS,Australia,Oceania,3.6,409346,3.97861e+07,272935,2.6854e+07,2.46795e+06,7.69117e+06,32.0882,False
+JAM,JAM,Jamaica,North America,3.6,407866,2.39581e+06,621167,3.67148e+06,2384.38,11032.9,21.6116,False
+SLB,SLB,Solomon Islands,Oceania,3.6,392639,895930,470193,1.13587e+06,11589.3,27198.8,42.6097,False
+BLZ,BLZ,Belize,North America,3.6,350097,446261,520487,666095,16001.7,22299.4,71.7587,False
+TLS,TLS,East Timor,Asia,3.6,348857,2.13496e+06,665304,4.04494e+06,2531.9,15082.2,16.7873,False
+GNQ,GNQ,Equatorial Guinea,Africa,3.6,210388,1.60306e+06,229129,1.73866e+06,2862.03,26671.7,10.7306,False
+BRB,BRB,Barbados,North America,3.6,177983,205288,194299,218146,373.412,444.223,84.0596,False
+BWA,BWA,Botswana,Africa,3.6,177502,2.8525e+06,161090,2.5181e+06,87313.2,579029,15.0792,False
+GUM,GUM,Guam,Oceania,3.6,175529,175529,210406,210406,556.749,564.205,98.6785,False
+CUW,CUW,Curaçao,North America,3.6,171905,171905,219014,219014,462.562,463.243,99.853,False
+ZWE,ZWE,Zimbabwe,Africa,3.6,123978,1.25232e+07,206048,1.8211e+07,12205.1,389338,3.13482,False
+BDI,BDI,Burundi,Africa,3.6,115682,1.90607e+07,106442,1.9907e+07,202.735,27041.2,0.749727,False
+ABW,ABW,Aruba,North America,3.6,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+ATG,ATG,Antigua and Barbuda,North America,3.6,92102.7,92102.7,119147,119147,450.002,451.85,99.5911,False
+PRY,PRY,Paraguay,South America,3.6,75811.3,1.02603e+07,119013,1.32973e+07,123775,399901,30.9515,False
+LBY,LBY,Libya,Africa,3.6,61663.5,1.00179e+07,72574.4,1.21096e+07,138648,1.62376e+06,8.5387,False
+FSM,FSM,Federated States of Micronesia,Oceania,3.6,46095.5,51546.6,84004.9,94421.3,527.145,633.849,83.1658,False
+SXM,SXM,Sint Maarten,North America,3.6,39968.7,39968.7,48129.2,48129.2,23.358,23.358,99.9999,False
+CHN,CHN,China,Asia,3.6,38426.3,1.04753e+09,39695.6,1.14711e+09,58.2444,9.37522e+06,0.00062126,False
+JOR,JOR,Jordan,Asia,3.6,36955.9,1.55503e+07,37262.9,1.75686e+07,519.62,88862.7,0.584745,False
+GRD,GRD,Grenada,North America,3.6,36783.2,93377.5,54058.7,128158,174.172,347.259,50.1561,False
+MNP,MNP,Northern Mariana Islands,Oceania,3.6,34393.8,34393.8,45253.8,45253.8,440.915,579.305,76.1111,False
+MAR,MAR,Morocco,Africa,3.6,31611.3,3.54531e+07,47945.8,4.97131e+07,9027.74,591743,1.52562,False
+PRI,PRI,Puerto Rico,North America,3.6,31014,2.19506e+06,45638.6,3.23172e+06,752.607,9005.96,8.35677,False
+SAH,ESH,Western Sahara,Africa,3.6,29666,102853,42800.3,149177,35108.5,90495.4,38.7959,False
+VIR,VIR,United States Virgin Islands,North America,3.6,28214,28214,33015,33015,222.888,354.793,62.8221,False
+CYM,CYM,Cayman Islands,North America,3.6,20770.4,20770.4,26043.7,26043.7,309.204,309.202,100,False
+TCA,TCA,Turks and Caicos Islands,North America,3.6,20027.2,20027.2,26606.5,26606.5,440.025,445.213,98.8346,False
+LCA,LCA,Saint Lucia,North America,3.6,18658,151863,21952.2,186748,228.166,605.133,37.7051,False
+PLW,PLW,Palau,Oceania,3.6,13692.7,15453.7,17450.9,19821.5,306.672,491.931,62.3404,False
+NAM,NAM,Namibia,Africa,3.6,12315.2,3.45009e+06,15398.1,3.96594e+06,752.985,822713,0.0915245,False
+ISR,ISR,Israel,Asia,3.6,10596,1.76634e+07,7956.05,1.40246e+07,214.933,22101.4,0.972488,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,3.6,10057.8,47326.3,17066.3,69185.6,164.459,367.728,44.7231,False
+KNA,KNA,Saint Kitts and Nevis,North America,3.6,10001.8,34986.2,13046.6,45485.9,69.8724,264.122,26.4546,False
+NLD,NLD,Netherlands,Europe,3.6,9666.04,1.86362e+07,12108.8,1.3912e+07,273.303,37397,0.730816,False
+AFG,AFG,Afghanistan,Asia,3.6,9602.35,9.44788e+07,13685.9,1.29784e+08,1240.6,642181,0.193185,False
+KIR,KIR,Kiribati,Oceania,3.6,4979.2,4979.2,4976.6,4976.6,388.751,949.863,40.9271,False
+FJI,FJI,Fiji,Oceania,3.6,4504.01,852169,5149.96,1.10957e+06,131.467,18930.1,0.694488,False
+BHS,BHS,The Bahamas,North America,3.6,1289.69,428157,1366.77,452358,2943.55,12603.9,23.3543,False
+BRT,-99,Bir Tawil,Africa,3.6,1064.6,1064.6,1400,1400,2019.43,2019.46,99.9987,False
+ZAF,ZAF,South Africa,Africa,3.6,838.567,6.34593e+07,1175.57,6.49435e+07,364.313,1.21982e+06,0.029866,False
+VGB,VGB,British Virgin Islands,North America,3.6,156.959,156.959,198.339,198.339,68.2877,144.938,47.1153,False
+USA,USA,United States of America,North America,3.6,58.5123,4.26001e+08,36.2219,3.06749e+08,420.909,9.46422e+06,0.00444738,False
+CHL,CHL,Chile,South America,3.6,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+ARG,ARG,Argentina,South America,3.6,0,4.93102e+07,0,6.25727e+07,0,2.7829e+06,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,3.6,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,3.6,0,1.03466e+06,0,967994,0,5395.04,0,False
+PSX,PSE,Palestine,Asia,3.6,0,5.6358e+06,0,1.00227e+07,0,6074.38,0,False
+LBN,LBN,Lebanon,Asia,3.6,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+SYR,SYR,Syria,Asia,3.6,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+KOR,KOR,South Korea,Asia,3.6,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,3.6,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+BTN,BTN,Bhutan,Asia,3.6,0,1.51122e+06,0,1.82005e+06,0,40421.3,0,False
+UKR,UKR,Ukraine,Europe,3.6,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,3.6,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+MAF,MAF,Saint Martin,North America,3.6,0,0,0,0,68.0847,68.2815,99.7118,False
+UZB,UZB,Uzbekistan,Asia,3.6,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,3.6,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,3.6,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,3.6,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,3.6,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,3.6,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,3.6,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,3.6,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,3.6,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,3.6,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,3.6,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,3.6,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,3.6,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,3.6,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,3.6,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,3.6,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,3.6,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,3.6,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,3.6,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,3.6,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,3.6,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,3.6,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,3.6,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,3.6,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,3.6,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,3.6,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+TUN,TUN,Tunisia,Africa,3.6,0,1.19796e+07,0,1.39603e+07,0,156613,0,False
+ROU,ROU,Romania,Europe,3.6,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,3.6,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,3.6,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,3.6,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,3.6,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,3.6,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,3.6,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+AUT,AUT,Austria,Europe,3.6,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+ITA,ITA,Italy,Europe,3.6,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,3.6,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,3.6,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,3.6,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+HRV,HRV,Croatia,Europe,3.6,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,3.6,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BGR,BGR,Bulgaria,Europe,3.6,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,3.6,0,36177.8,0,36646.5,0,60.3174,0,False
+MCO,MCO,Monaco,Europe,3.6,0,0,0,0,0,18.8396,0,False
+SWZ,SWZ,eSwatini,Africa,3.6,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+RWA,RWA,Rwanda,Africa,3.6,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+AND,AND,Andorra,Europe,3.6,0,81058.4,0,97604.7,0,452.239,0,False
+MNE,MNE,Montenegro,Europe,3.6,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,3.6,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,3.6,0,0,0,0,65.3531,65.3528,100,False
+BRI,BRA,Brazilian Island,South America,3.6,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,3.6,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,3.6,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,3.6,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+LSO,LSO,Lesotho,Africa,3.6,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GIB,GIB,Gibraltar,Europe,3.6,0,0,0,0,0,3.69249,0,False
+CAN,CAN,Canada,North America,3.6,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,3.6,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,3.6,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,3.6,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,3.6,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,3.6,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,3.6,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,3.6,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,3.6,0,2.05457,0,3.68493,0,1408.88,0,False
+ATA,ATA,Antarctica,Antarctica,3.6,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,3.6,0,25615.5,0,34703,0,2.15438e+06,0,False
+NZL,NZL,New Zealand,Oceania,3.6,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,3.6,0,292378,0,311330,0,18841.1,0,False
+TWN,TWN,Taiwan,Asia,3.6,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,3.6,0,9.08181e+07,0,6.99495e+07,0,373507,0,False
+SPM,SPM,Saint Pierre and Miquelon,North America,3.6,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,3.6,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,3.6,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,3.6,0,241872,0,289555,16.5669,3336.5,0.496536,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),3.6,0,0,0,0,4.98614,7279.96,0.0684913,False
+SYC,SYC,Seychelles,Seven seas (open ocean),3.6,0,0,0,0,410.403,435.664,94.2017,False
+MHL,MHL,Marshall Islands,Oceania,3.6,0,0,0,0,114.913,164.814,69.7224,False
+DMA,DMA,Dominica,North America,3.6,0,63878.3,0,83641.6,15.0327,730.312,2.0584,False
+UMI,UMI,United States Minor Outlying Islands,North America,3.6,0,0,0,0,13.9269,28.0046,49.7307,False
+MSR,MSR,Montserrat,North America,3.6,0,5186.16,0,6049.03,2.3788,99.5971,2.38842,False
+BLM,BLM,Saint Barthelemy,North America,3.6,0,0,0,0,23.4694,24.4219,96.0997,False
+AIA,AIA,Anguilla,North America,3.6,0,0,0,0,87.1568,87.4201,99.6988,False
+BMU,BMU,Bermuda,North America,3.6,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),3.6,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),3.6,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),3.6,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+COM,COM,Comoros,Africa,3.6,0,1.07156e+06,0,1.68094e+06,33.9707,1672.23,2.03146,False
+STP,STP,São Tomé and Principe,Africa,3.6,0,170750,0,262485,0,1037.16,0,False
+CPV,CPV,Cabo Verde,Africa,3.6,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,3.6,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,3.6,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,3.6,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,3.6,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,3.6,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,3.6,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,3.6,0,272.71,0,176.067,13.2074,111.929,11.7999,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),3.6,0,0,0,0,47.0979,49.0614,95.998,False
+NFK,NFK,Norfolk Island,Oceania,3.6,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,3.6,0,13059.7,0,17204.5,15.2753,191.133,7.99196,False
+TON,TON,Tonga,Oceania,3.6,0,49547.1,0,89614.9,27.3964,603.109,4.54252,False
+WLF,WLF,Wallis and Futuna,Oceania,3.6,0,1602.87,0,2130.73,75.366,139.33,54.0917,False
+WSM,WSM,Samoa,Oceania,3.6,0,110134,0,229975,56.8036,2780.42,2.04298,False
+TUV,TUV,Tuvalu,Oceania,3.6,0,0,0,0,18.2539,23.0184,79.3014,False
+MDV,MDV,Maldives,Seven seas (open ocean),3.6,0,0,0,0,50.4693,108.742,46.4118,False
+NRU,NRU,Nauru,Oceania,3.6,0,0,0,0,26.0944,28.7669,90.7096,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),3.6,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,3.6,0,2540.27,0,3383.92,0,11597.2,0,False
+VUT,VUT,Vanuatu,Oceania,3.6,0,400755,0,497982,58.4991,12296.6,0.475732,False
+NIU,NIU,Niue,Oceania,3.6,0,523.136,0,523.136,0,220.574,0,False
+ASM,ASM,American Samoa,Oceania,3.6,0,17627.2,0,23106.4,76.361,180.304,42.3512,False
+CSI,AUS,Coral Sea Islands,Oceania,3.6,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,3.6,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),3.6,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,3.6,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,3.6,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,3.6,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,3.6,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,3.6,0,0,0,0,0,0.0977859,0,False
+IND,IND,India,Asia,4.4,1.64042e+09,1.75493e+09,2.09081e+09,2.24008e+09,2.59e+06,3.15074e+06,82.2029,False
+NGA,NGA,Nigeria,Africa,4.4,4.66355e+08,4.74453e+08,6.00021e+08,6.10435e+08,887692,907498,97.8175,False
+PAK,PAK,Pakistan,Asia,4.4,2.61292e+08,3.19248e+08,3.53175e+08,4.3232e+08,544390,872939,62.3629,False
+IDN,IDN,Indonesia,Asia,4.4,1.95194e+08,2.60126e+08,2.15644e+08,2.92624e+08,1.36077e+06,1.87983e+06,72.388,False
+BGD,BGD,Bangladesh,Asia,4.4,1.87061e+08,1.87152e+08,2.3403e+08,2.34152e+08,135271,136904,98.8072,False
+PHL,PHL,Philippines,Asia,4.4,1.36458e+08,1.51325e+08,1.75919e+08,1.96822e+08,218717,293291,74.5735,False
+COD,COD,Democratic Republic of the Congo,Africa,4.4,1.0584e+08,1.71523e+08,1.24135e+08,2.0323e+08,1.53364e+06,2.32524e+06,65.9562,False
+SDN,SDN,Sudan,Africa,4.4,7.24792e+07,7.34233e+07,8.99895e+07,9.11908e+07,1.8367e+06,1.85562e+06,98.9805,False
+NER,NER,Niger,Africa,4.4,7.21792e+07,7.21824e+07,1.04202e+08,1.04206e+08,1.18058e+06,1.1813e+06,99.9388,False
+THA,THA,Thailand,Asia,4.4,6.52494e+07,6.67212e+07,7.20904e+07,7.41564e+07,459668,514453,89.3508,False
+IRQ,IRQ,Iraq,Asia,4.4,6.31944e+07,7.97278e+07,9.33523e+07,1.19011e+08,287446,437367,65.7219,False
+SAU,SAU,Saudi Arabia,Asia,4.4,5.75716e+07,6.20701e+07,6.48246e+07,6.99067e+07,1.6822e+06,1.92173e+06,87.5358,False
+GHA,GHA,Ghana,Africa,4.4,5.24597e+07,5.29174e+07,6.94406e+07,7.00787e+07,237195,238669,99.3824,False
+BRA,BRA,Brazil,South America,4.4,5.17585e+07,2.1243e+08,6.20389e+07,2.53033e+08,6.3823e+06,8.47266e+06,75.3281,False
+VNM,VNM,Vietnam,Asia,4.4,4.89707e+07,9.28161e+07,5.55284e+07,1.07253e+08,111763,328892,33.9816,False
+BFA,BFA,Burkina Faso,Africa,4.4,4.72464e+07,4.72464e+07,6.43994e+07,6.43994e+07,272769,272769,100,False
+MLI,MLI,Mali,Africa,4.4,4.31765e+07,4.31765e+07,5.45054e+07,5.45054e+07,1.25272e+06,1.25272e+06,100,False
+MYS,MYS,Malaysia,Asia,4.4,4.13806e+07,4.359e+07,4.94409e+07,5.25047e+07,252704,327885,77.0711,False
+MMR,MMR,Myanmar,Asia,4.4,3.65088e+07,4.24877e+07,4.48012e+07,5.27607e+07,337543,663159,50.8992,False
+YEM,YEM,Yemen,Asia,4.4,3.15765e+07,6.84559e+07,4.56525e+07,9.61469e+07,366895,453075,80.979,False
+CIV,CIV,Ivory Coast,Africa,4.4,3.09079e+07,3.11476e+07,4.59926e+07,4.63636e+07,318490,320677,99.318,False
+TZA,TZA,United Republic of Tanzania,Africa,4.4,3.08581e+07,1.22335e+08,3.9033e+07,1.59497e+08,237426,941505,25.2177,False
+TCD,TCD,Chad,Africa,4.4,3.02075e+07,3.02464e+07,3.61586e+07,3.62048e+07,1.22509e+06,1.26628e+06,96.7466,False
+MEX,MEX,Mexico,North America,4.4,2.97364e+07,1.49388e+08,4.08995e+07,1.99689e+08,516417,1.95785e+06,26.3768,False
+NPL,NPL,Nepal,Asia,4.4,2.79033e+07,5.51307e+07,4.04078e+07,7.66844e+07,27045,147106,18.3847,False
+VEN,VEN,Venezuela,South America,4.4,2.61797e+07,4.24884e+07,3.31572e+07,5.29421e+07,800751,912684,87.7359,False
+MOZ,MOZ,Mozambique,Africa,4.4,2.52732e+07,4.7154e+07,3.02035e+07,5.61809e+07,495545,788447,62.8508,False
+SEN,SEN,Senegal,Africa,4.4,2.28757e+07,2.59866e+07,3.76593e+07,4.05961e+07,196010,196225,99.8906,False
+BEN,BEN,Benin,Africa,4.4,2.28736e+07,2.28736e+07,2.6048e+07,2.6048e+07,116085,116113,99.9752,False
+COL,COL,Colombia,South America,4.4,2.27004e+07,6.5018e+07,2.94985e+07,8.13405e+07,887069,1.13512e+06,78.1478,False
+ETH,ETH,Ethiopia,Africa,4.4,2.01483e+07,1.81779e+08,2.65186e+07,2.3535e+08,485346,1.12737e+06,43.051,False
+LKA,LKA,Sri Lanka,Asia,4.4,1.8807e+07,2.26008e+07,2.33021e+07,2.81343e+07,59207.7,66291.1,89.3146,False
+CMR,CMR,Cameroon,Africa,4.4,1.85027e+07,3.63431e+07,2.27164e+07,4.41574e+07,235345,464318,50.6861,False
+SDS,SSD,South Sudan,Africa,4.4,1.74854e+07,1.76665e+07,2.22457e+07,2.24756e+07,616851,626859,98.4034,False
+KHM,KHM,Cambodia,Asia,4.4,1.70785e+07,1.71329e+07,2.27092e+07,2.27848e+07,171378,181060,94.653,False
+ARE,ARE,United Arab Emirates,Asia,4.4,1.69727e+07,1.69727e+07,1.46028e+07,1.46028e+07,71036.8,71085,99.9322,False
+GIN,GIN,Guinea,Africa,4.4,1.48019e+07,1.61837e+07,2.11109e+07,2.3078e+07,230428,244302,94.321,False
+AGO,AGO,Angola,Africa,4.4,1.47546e+07,5.23185e+07,1.7536e+07,6.36813e+07,221012,1.24465e+06,17.757,False
+EGY,EGY,Egypt,Africa,4.4,1.44825e+07,1.31192e+08,1.32063e+07,1.63656e+08,379356,1.00106e+06,37.8955,False
+SOM,SOM,Somalia,Africa,4.4,1.4176e+07,1.43063e+07,2.3718e+07,2.39379e+07,462760,471815,98.0808,False
+LBR,LBR,Liberia,Africa,4.4,1.29338e+07,1.29651e+07,1.41046e+07,1.41395e+07,95062.2,95298.2,99.7523,False
+SLE,SLE,Sierra Leone,Africa,4.4,1.24093e+07,1.24305e+07,1.38986e+07,1.39226e+07,71106.7,71611.6,99.295,False
+IRN,IRN,Iran,Asia,4.4,1.08003e+07,8.95934e+07,1.33729e+07,1.06568e+08,352783,1.62251e+06,21.7431,False
+TGO,TGO,Togo,Africa,4.4,1.07599e+07,1.09893e+07,1.22426e+07,1.2525e+07,55701.6,56863.4,97.9569,False
+UGA,UGA,Uganda,Africa,4.4,1.03112e+07,1.23347e+08,1.41752e+07,1.66832e+08,33473.5,241854,13.8404,False
+DOM,DOM,Dominican Republic,North America,4.4,1.01756e+07,1.28349e+07,1.36434e+07,1.76331e+07,30657.4,48439.9,63.2896,False
+MWI,MWI,Malawi,Africa,4.4,9.34539e+06,5.2879e+07,1.27349e+07,7.10866e+07,38427.5,119398,32.1844,False
+MDG,MDG,Madagascar,Africa,4.4,9.01806e+06,5.34276e+07,1.19498e+07,6.92521e+07,213578,592981,36.0177,False
+KEN,KEN,Kenya,Africa,4.4,8.78705e+06,8.81372e+07,1.26359e+07,1.23004e+08,354049,585702,60.4486,False
+COG,COG,Republic of the Congo,Africa,4.4,8.07084e+06,9.33724e+06,9.20228e+06,1.07184e+07,275033,344889,79.7454,False
+GTM,GTM,Guatemala,North America,4.4,7.76051e+06,2.73982e+07,1.35712e+07,4.2427e+07,67352.2,108811,61.8984,False
+ECU,ECU,Ecuador,South America,4.4,7.37792e+06,2.02565e+07,1.04651e+07,2.77579e+07,102969,255014,40.3778,False
+CAF,CAF,Central African Republic,Africa,4.4,7.13099e+06,8.13473e+06,8.22848e+06,9.44636e+06,569268,617984,92.117,False
+MRT,MRT,Mauritania,Africa,4.4,6.74976e+06,6.82752e+06,8.40774e+06,8.50438e+06,1.01737e+06,1.03639e+06,98.1645,False
+HTI,HTI,Haiti,North America,4.4,6.02617e+06,1.07858e+07,7.97408e+06,1.49327e+07,13438.8,26891.6,49.9738,False
+ERI,ERI,Eritrea,Africa,4.4,5.99448e+06,1.3633e+07,6.68101e+06,1.51022e+07,94920.5,122538,77.4622,False
+BOL,BOL,Bolivia,South America,4.4,5.90505e+06,1.47842e+07,9.29531e+06,2.25738e+07,696122,1.08681e+06,64.052,False
+KWT,KWT,Kuwait,Asia,4.4,5.74722e+06,5.74722e+06,5.58102e+06,5.58102e+06,17472.7,17473.5,99.995,False
+HND,HND,Honduras,North America,4.4,5.71908e+06,1.19517e+07,8.20899e+06,1.73542e+07,55313.8,112236,49.2832,False
+CUB,CUB,Cuba,North America,4.4,5.47742e+06,6.80126e+06,6.83022e+06,8.50991e+06,87957.2,109929,80.0126,False
+OMN,OMN,Oman,Asia,4.4,5.25294e+06,5.63999e+06,5.34746e+06,5.79059e+06,298227,311213,95.8272,False
+LAO,LAO,Laos,Asia,4.4,5.04302e+06,8.47843e+06,6.54172e+06,1.11635e+07,79615.2,228114,34.9015,False
+NIC,NIC,Nicaragua,North America,4.4,4.90492e+06,6.68907e+06,7.63197e+06,1.05133e+07,109210,128685,84.866,False
+PAN,PAN,Panama,North America,4.4,4.57561e+06,5.11612e+06,5.51023e+06,6.24667e+06,54441.8,74530.3,73.0466,False
+PNG,PNG,Papua New Guinea,Oceania,4.4,4.44067e+06,1.19577e+07,5.37057e+06,1.45626e+07,255817,465147,54.9969,False
+SGP,SGP,Singapore,Asia,4.4,4.28604e+06,4.28604e+06,3.9271e+06,3.9271e+06,510.503,510.503,100,False
+GMB,GMB,Gambia,Africa,4.4,3.36997e+06,3.36997e+06,4.52093e+06,4.52093e+06,10501,10501.1,99.9994,False
+ZMB,ZMB,Zambia,Africa,4.4,3.21798e+06,3.69113e+07,4.74404e+06,5.22068e+07,87089.2,751914,11.5823,False
+QAT,QAT,Qatar,Asia,4.4,2.75168e+06,2.75168e+06,2.42414e+06,2.42414e+06,11132.1,11150.1,99.8381,False
+BHR,BHR,Bahrain,Asia,4.4,2.64137e+06,2.64137e+06,2.4325e+06,2.4325e+06,676.325,688.118,98.2862,False
+GNB,GNB,Guinea-Bissau,Africa,4.4,2.53551e+06,2.53551e+06,3.15686e+06,3.15686e+06,32813.7,32829.1,99.9533,False
+PER,PER,Peru,South America,4.4,2.40715e+06,3.14427e+07,4.06065e+06,4.46236e+07,636656,1.28987e+06,49.3582,False
+DZA,DZA,Algeria,Africa,4.4,2.07337e+06,4.85326e+07,2.83992e+06,6.14338e+07,1.6945e+06,2.30886e+06,73.3914,False
+SLV,SLV,El Salvador,North America,4.4,1.88521e+06,5.60567e+06,3.78474e+06,9.37428e+06,13588.2,20539.4,66.1566,False
+USA,USA,United States of America,North America,4.4,1.87379e+06,4.26001e+08,1.3954e+06,3.06749e+08,37663.9,9.46422e+06,0.397961,False
+NAM,NAM,Namibia,Africa,4.4,1.75641e+06,3.45009e+06,2.10716e+06,3.96594e+06,130494,822713,15.8614,False
+GAB,GAB,Gabon,Africa,4.4,1.74287e+06,2.21628e+06,2.04334e+06,2.61017e+06,141036,259968,54.2514,False
+CRI,CRI,Costa Rica,North America,4.4,1.50188e+06,6.98038e+06,2.07509e+06,7.92145e+06,30081.8,51151,58.8098,False
+SOL,-99,Somaliland,Africa,4.4,1.48823e+06,2.83394e+06,2.50432e+06,4.78726e+06,94578.1,167407,56.4961,False
+DJI,DJI,Djibouti,Africa,4.4,1.34377e+06,1.34773e+06,1.524e+06,1.5285e+06,21596,21848,98.8468,False
+FRA,FRA,France,Europe,4.4,1.30692e+06,8.07947e+07,1.64941e+06,6.17002e+07,85297.7,636757,13.3956,False
+AFG,AFG,Afghanistan,Asia,4.4,1.24626e+06,9.44788e+07,1.66115e+06,1.29784e+08,35427.2,642181,5.5167,False
+TLS,TLS,East Timor,Asia,4.4,904139,2.13496e+06,1.72744e+06,4.04494e+06,6300.16,15082.2,41.7722,False
+PRY,PRY,Paraguay,South America,4.4,875657,1.02603e+07,1.36428e+06,1.32973e+07,240047,399901,60.0265,False
+CHN,CHN,China,Asia,4.4,867040,1.04753e+09,962686,1.14711e+09,5462.1,9.37522e+06,0.058261,False
+PRI,PRI,Puerto Rico,North America,4.4,849055,2.19506e+06,1.25013e+06,3.23172e+06,3072.68,9005.96,34.1184,False
+TTO,TTO,Trinidad and Tobago,North America,4.4,834048,960004,1.00434e+06,1.16158e+06,4646.7,5122.92,90.7042,False
+BDI,BDI,Burundi,Africa,4.4,827459,1.90607e+07,783934,1.9907e+07,1715.25,27041.2,6.34308,False
+JAM,JAM,Jamaica,North America,4.4,684405,2.39581e+06,1.04656e+06,3.67148e+06,4086.35,11032.9,37.0378,False
+SUR,SUR,Suriname,South America,4.4,662600,662600,846261,846261,145114,145123,99.9932,False
+SLB,SLB,Solomon Islands,Oceania,4.4,645440,895930,808907,1.13587e+06,19785.3,27198.8,72.7431,False
+GUY,GUY,Guyana,South America,4.4,630144,633573,993543,999059,195616,211214,92.6155,False
+BRN,BRN,Brunei,Asia,4.4,602686,603894,616262,618094,5472.13,5716.64,95.7228,False
+ZWE,ZWE,Zimbabwe,Africa,4.4,515099,1.25232e+07,862209,1.8211e+07,44518,389338,11.4343,False
+BWA,BWA,Botswana,Africa,4.4,433434,2.8525e+06,393762,2.5181e+06,259528,579029,44.8212,False
+AUS,AUS,Australia,Oceania,4.4,432915,3.97861e+07,287035,2.6854e+07,3.18894e+06,7.69117e+06,41.4624,False
+BLZ,BLZ,Belize,North America,4.4,389447,446261,580447,666095,18266.1,22299.4,81.9129,False
+GNQ,GNQ,Equatorial Guinea,Africa,4.4,363588,1.60306e+06,395915,1.73866e+06,5510.13,26671.7,20.6591,False
+LBY,LBY,Libya,Africa,4.4,236612,1.00179e+07,276069,1.21096e+07,613601,1.62376e+06,37.7889,False
+MAR,MAR,Morocco,Africa,4.4,235420,3.54531e+07,355811,4.97131e+07,38101.3,591743,6.43882,False
+BRB,BRB,Barbados,North America,4.4,205288,205288,218146,218146,440.975,444.223,99.2687,False
+GUM,GUM,Guam,Oceania,4.4,175529,175529,210406,210406,556.749,564.205,98.6785,False
+CUW,CUW,Curaçao,North America,4.4,171905,171905,219014,219014,462.562,463.243,99.853,False
+JOR,JOR,Jordan,Asia,4.4,133209,1.55503e+07,154786,1.75686e+07,1749.09,88862.7,1.96831,False
+FJI,FJI,Fiji,Oceania,4.4,125013,852169,146559,1.10957e+06,3141,18930.1,16.5927,False
+BTN,BTN,Bhutan,Asia,4.4,109582,1.51122e+06,138814,1.82005e+06,531.777,40421.3,1.31559,False
+LCA,LCA,Saint Lucia,North America,4.4,100131,151863,121549,186748,449.188,605.133,74.2296,False
+BHS,BHS,The Bahamas,North America,4.4,98143.3,428157,103809,452358,6221.04,12603.9,49.3581,False
+ABW,ABW,Aruba,North America,4.4,92626.3,92626.3,90939.9,90939.9,169.765,169.766,99.9994,False
+ATG,ATG,Antigua and Barbuda,North America,4.4,92102.7,92102.7,119147,119147,450.002,451.85,99.5911,False
+GRD,GRD,Grenada,North America,4.4,66698,93377.5,92484.4,128158,272.241,347.259,78.397,False
+SAH,ESH,Western Sahara,Africa,4.4,63318.8,102853,92645.3,149177,63696.2,90495.4,70.3861,False
+TUN,TUN,Tunisia,Africa,4.4,52052.2,1.19796e+07,66778.4,1.39603e+07,11674.1,156613,7.45413,False
+FSM,FSM,Federated States of Micronesia,Oceania,4.4,51546.6,51546.6,94421.3,94421.3,612.027,633.849,96.5572,False
+ISR,ISR,Israel,Asia,4.4,41989,1.76634e+07,30955,1.40246e+07,821.11,22101.4,3.7152,False
+SXM,SXM,Sint Maarten,North America,4.4,39968.7,39968.7,48129.2,48129.2,23.358,23.358,99.9999,False
+ZAF,ZAF,South Africa,Africa,4.4,34400.7,6.34593e+07,40206.2,6.49435e+07,2721.19,1.21982e+06,0.22308,False
+MNP,MNP,Northern Mariana Islands,Oceania,4.4,34393.8,34393.8,45253.8,45253.8,479.417,579.305,82.7572,False
+STP,STP,São Tomé and Principe,Africa,4.4,31051.7,170750,46178.5,262485,113.975,1037.16,10.9892,False
+VIR,VIR,United States Virgin Islands,North America,4.4,28214,28214,33015,33015,354.747,354.793,99.9871,False
+VUT,VUT,Vanuatu,Oceania,4.4,24582.2,400755,30707.6,497982,1446.35,12296.6,11.7622,False
+CYM,CYM,Cayman Islands,North America,4.4,20770.4,20770.4,26043.7,26043.7,309.204,309.202,100,False
+TCA,TCA,Turks and Caicos Islands,North America,4.4,20027.2,20027.2,26606.5,26606.5,440.025,445.213,98.8346,False
+COM,COM,Comoros,Africa,4.4,19552.3,1.07156e+06,33282.1,1.68094e+06,120.854,1672.23,7.22714,False
+ASM,ASM,American Samoa,Oceania,4.4,17627.2,17627.2,23106.4,23106.4,161.629,180.304,89.6424,False
+PLW,PLW,Palau,Oceania,4.4,15453.7,15453.7,19821.5,19821.5,459.628,491.931,93.4334,False
+KNA,KNA,Saint Kitts and Nevis,North America,4.4,13944.8,34986.2,18229.1,45485.9,176.366,264.122,66.7744,False
+DMA,DMA,Dominica,North America,4.4,12407.9,63878.3,16841.4,83641.6,195.931,730.312,26.8284,False
+PSX,PSE,Palestine,Asia,4.4,11137.4,5.6358e+06,16197.4,1.00227e+07,218.691,6074.38,3.60022,False
+WSM,WSM,Samoa,Oceania,4.4,10529.5,110134,25537,229975,750.225,2780.42,26.9824,False
+VCT,VCT,Saint Vincent and the Grenadines,North America,4.4,10057.8,47326.3,17066.3,69185.6,180.65,367.728,49.1258,False
+NLD,NLD,Netherlands,Europe,4.4,9666.04,1.86362e+07,12108.8,1.3912e+07,288.235,37397,0.770743,False
+ARG,ARG,Argentina,South America,4.4,5451.19,4.93102e+07,7498.99,6.25727e+07,1969.06,2.7829e+06,0.0707557,False
+MSR,MSR,Montserrat,North America,4.4,5186.16,5186.16,6049.03,6049.03,82.5671,99.5971,82.9011,False
+KIR,KIR,Kiribati,Oceania,4.4,4979.2,4979.2,4976.6,4976.6,388.751,949.863,40.9271,False
+WLF,WLF,Wallis and Futuna,Oceania,4.4,1602.87,1602.87,2130.73,2130.73,120.903,139.33,86.7748,False
+BRT,-99,Bir Tawil,Africa,4.4,1064.6,1064.6,1400,1400,2019.43,2019.46,99.9987,False
+VGB,VGB,British Virgin Islands,North America,4.4,156.959,156.959,198.339,198.339,144.455,144.938,99.667,False
+CHL,CHL,Chile,South America,4.4,0,1.96015e+07,0,2.25921e+07,0,736595,0,False
+ESB,-99,Dhekelia Sovereign Base Area,Asia,4.4,0,20776.8,0,20384.5,0,127.423,0,False
+CYP,CYP,Cyprus,Asia,4.4,0,1.03466e+06,0,967994,0,5395.04,0,False
+LBN,LBN,Lebanon,Asia,4.4,0,4.44491e+06,0,5.20584e+06,0,10004.1,0,False
+SYR,SYR,Syria,Asia,4.4,0,3.58793e+07,0,4.75504e+07,0,185940,0,False
+KOR,KOR,South Korea,Asia,4.4,0,3.76589e+07,0,2.9604e+07,0,98543.9,0,False
+PRK,PRK,North Korea,Asia,4.4,0,2.14021e+07,0,2.39589e+07,0,122379,0,False
+UKR,UKR,Ukraine,Europe,4.4,0,3.52591e+07,0,3.61595e+07,0,571999,0,False
+BLR,BLR,Belarus,Europe,4.4,0,7.35153e+06,0,8.03146e+06,0,207499,0,False
+MAF,MAF,Saint Martin,North America,4.4,0,0,0,0,68.0847,68.2815,99.7118,False
+UZB,UZB,Uzbekistan,Asia,4.4,0,3.17163e+07,0,4.15725e+07,0,447831,0,False
+KAZ,KAZ,Kazakhstan,Asia,4.4,0,2.04481e+07,0,2.34465e+07,0,2.71427e+06,0,False
+TJK,TJK,Tajikistan,Asia,4.4,0,7.93817e+06,0,1.26819e+07,0,142239,0,False
+LTU,LTU,Lithuania,Europe,4.4,0,2.39477e+06,0,2.88575e+06,0,64938.8,0,False
+URY,URY,Uruguay,South America,4.4,0,2.89053e+06,0,3.72573e+06,0,177342,0,False
+MNG,MNG,Mongolia,Asia,4.4,0,3.78559e+06,0,4.7565e+06,0,1.56466e+06,0,False
+RUS,RUS,Russia,Europe,4.4,0,1.34542e+08,0,1.37573e+08,0,1.69802e+07,0,False
+CZE,CZE,Czechia,Europe,4.4,0,1.1607e+07,0,8.15203e+06,0,78759,0,False
+DEU,DEU,Germany,Europe,4.4,0,7.51203e+07,0,5.44185e+07,0,357674,0,False
+EST,EST,Estonia,Europe,4.4,0,1.12619e+06,0,848509,0,45819,0,False
+LVA,LVA,Latvia,Europe,4.4,0,1.60977e+06,0,1.7115e+06,0,64576.3,0,False
+NOR,NOR,Norway,Europe,4.4,0,7.02167e+06,0,4.75375e+06,0,382074,0,False
+SWE,SWE,Sweden,Europe,4.4,0,1.35253e+07,0,9.27909e+06,0,446173,0,False
+FIN,FIN,Finland,Europe,4.4,0,6.12602e+06,0,4.43366e+06,0,333059,0,False
+LUX,LUX,Luxembourg,Europe,4.4,0,922822,0,602201,0,2608.48,0,False
+BEL,BEL,Belgium,Europe,4.4,0,1.35007e+07,0,9.6112e+06,0,30669.5,0,False
+GEO,GEO,Georgia,Asia,4.4,0,2.68653e+06,0,3.72853e+06,0,69570.9,0,False
+MKD,MKD,North Macedonia,Europe,4.4,0,2.33003e+06,0,2.33046e+06,0,25385.2,0,False
+ALB,ALB,Albania,Europe,4.4,0,2.88697e+06,0,3.49915e+06,0,28335.8,0,False
+AZE,AZE,Azerbaijan,Asia,4.4,0,1.00762e+07,0,1.11976e+07,0,86249.9,0,False
+KOS,-99,Kosovo,Europe,4.4,0,1.98909e+06,0,2.10616e+06,0,10913.1,0,False
+TUR,TUR,Turkey,Asia,4.4,0,9.48319e+07,0,1.21902e+08,0,780080,0,False
+ESP,ESP,Spain,Europe,4.4,0,4.91165e+07,0,3.53514e+07,0,506885,0,False
+KGZ,KGZ,Kyrgyzstan,Asia,4.4,0,6.38419e+06,0,8.74985e+06,0,198990,0,False
+ARM,ARM,Armenia,Asia,4.4,0,2.27438e+06,0,3.00727e+06,0,29588.2,0,False
+DNK,DNK,Denmark,Europe,4.4,0,6.52654e+06,0,4.655e+06,0,42695.9,0,False
+ROU,ROU,Romania,Europe,4.4,0,1.46562e+07,0,1.68727e+07,0,236377,0,False
+HUN,HUN,Hungary,Europe,4.4,0,8.18516e+06,0,6.04469e+06,0,93200.7,0,False
+SVK,SVK,Slovakia,Europe,4.4,0,5.10948e+06,0,3.78247e+06,0,48457.9,0,False
+POL,POL,Poland,Europe,4.4,0,3.17657e+07,0,2.46776e+07,0,313428,0,False
+IRL,IRL,Ireland,Europe,4.4,0,6.5011e+06,0,4.68845e+06,0,69445.2,0,False
+GBR,GBR,United Kingdom,Europe,4.4,0,7.82883e+07,0,5.71469e+07,0,243783,0,False
+GRC,GRC,Greece,Europe,4.4,0,9.95235e+06,0,7.49269e+06,0,131353,0,False
+AUT,AUT,Austria,Europe,4.4,0,9.16238e+06,0,6.51304e+06,0,83993.2,0,False
+ITA,ITA,Italy,Europe,4.4,0,5.57792e+07,0,4.09817e+07,0,301184,0,False
+CHE,CHE,Switzerland,Europe,4.4,0,9.48339e+06,0,6.79002e+06,0,41435.5,0,False
+LIE,LIE,Liechtenstein,Europe,4.4,0,36124.2,0,40021.8,0,137.25,0,False
+SRB,SRB,Republic of Serbia,Europe,4.4,0,7.41721e+06,0,7.77764e+06,0,77628.7,0,False
+HRV,HRV,Croatia,Europe,4.4,0,3.49125e+06,0,3.58842e+06,0,55023.3,0,False
+SVN,SVN,Slovenia,Europe,4.4,0,2.2598e+06,0,1.61432e+06,0,20327,0,False
+BGR,BGR,Bulgaria,Europe,4.4,0,5.97598e+06,0,6.38754e+06,0,112760,0,False
+SMR,SMR,San Marino,Europe,4.4,0,36177.8,0,36646.5,0,60.3174,0,False
+MCO,MCO,Monaco,Europe,4.4,0,0,0,0,0,18.8396,0,False
+SWZ,SWZ,eSwatini,Africa,4.4,0,1.56223e+06,0,1.72693e+06,0,17111.9,0,False
+RWA,RWA,Rwanda,Africa,4.4,0,2.68707e+07,0,3.32914e+07,0,25305.1,0,False
+AND,AND,Andorra,Europe,4.4,0,81058.4,0,97604.7,0,452.239,0,False
+MNE,MNE,Montenegro,Europe,4.4,0,535560,0,579515,0,13727.5,0,False
+BIH,BIH,Bosnia and Herzegovina,Europe,4.4,0,2.90609e+06,0,3.0707e+06,0,51826.7,0,False
+USG,-99,US Naval Base Guantanamo Bay,North America,4.4,0,0,0,0,65.3531,65.3528,100,False
+BRI,BRA,Brazilian Island,South America,4.4,0,0,0,0,0,2.82463,0,False
+PRT,PRT,Portugal,Europe,4.4,0,1.03086e+07,0,7.41198e+06,0,91390.2,0,False
+MDA,MDA,Moldova,Europe,4.4,0,1.61614e+06,0,2.35254e+06,0,33206.6,0,False
+TKM,TKM,Turkmenistan,Asia,4.4,0,6.3208e+06,0,7.86674e+06,0,470849,0,False
+LSO,LSO,Lesotho,Africa,4.4,0,2.63174e+06,0,2.9389e+06,0,30106.4,0,False
+GIB,GIB,Gibraltar,Europe,4.4,0,0,0,0,0,3.69249,0,False
+CAN,CAN,Canada,North America,4.4,0,4.97596e+07,0,3.29004e+07,0,9.94563e+06,0,False
+HKG,HKG,Hong Kong S.A.R.,Asia,4.4,0,4.34392e+06,0,3.70911e+06,0,1036.2,0,False
+VAT,VAT,Vatican,Europe,4.4,0,0,0,0,0,0.0122038,0,False
+CYN,-99,Northern Cyprus,Asia,4.4,0,359752,0,366353,0,3319.43,0,False
+CNM,-99,Cyprus No Mans Area,Asia,4.4,0,132290,0,116721,0,340.999,0,False
+KAS,-99,Siachen Glacier,Asia,4.4,0,16968.5,0,23025.5,0,2088.06,0,False
+KAB,KAZ,Baykonur Cosmodrome,Asia,4.4,0,9380.15,0,12143.1,0,6501.49,0,False
+WSB,-99,Akrotiri Sovereign Base Area,Asia,4.4,0,18548,0,16548.1,0,98.685,0,False
+SPI,-99,Southern Patagonian Ice Field,South America,4.4,0,2.05457,0,3.68493,0,1408.88,0,False
+ATA,ATA,Antarctica,Antarctica,4.4,0,0,0,0,0,1.23582e+07,0,False
+GRL,GRL,Greenland,North America,4.4,0,25615.5,0,34703,0,2.15438e+06,0,False
+NZL,NZL,New Zealand,Oceania,4.4,0,5.25603e+06,0,3.8787e+06,0,268499,0,False
+NCL,NCL,New Caledonia,Oceania,4.4,0,292378,0,311330,0,18841.1,0,False
+TWN,TWN,Taiwan,Asia,4.4,0,1.7237e+07,0,2.21733e+07,0,36197.9,0,False
+JPN,JPN,Japan,Asia,4.4,0,9.08181e+07,0,6.99495e+07,4.67363,373507,0.00125128,False
+SPM,SPM,Saint Pierre and Miquelon,North America,4.4,0,5646.31,0,7530.37,0,242.763,0,False
+ISL,ISL,Iceland,Europe,4.4,0,472610,0,331098,0,102390,0,False
+PCN,PCN,Pitcairn Islands,Oceania,4.4,0,0,0,0,0,42.5696,0,False
+PYF,PYF,French Polynesia,Oceania,4.4,0,241872,0,289555,27.1898,3336.5,0.814918,False
+ATF,ATF,French Southern and Antarctic Lands,Seven seas (open ocean),4.4,0,0,0,0,5.33467,7279.96,0.0732788,False
+SYC,SYC,Seychelles,Seven seas (open ocean),4.4,0,0,0,0,425.094,435.664,97.5739,False
+MHL,MHL,Marshall Islands,Oceania,4.4,0,0,0,0,114.913,164.814,69.7224,False
+UMI,UMI,United States Minor Outlying Islands,North America,4.4,0,0,0,0,13.9269,28.0046,49.7307,False
+BLM,BLM,Saint Barthelemy,North America,4.4,0,0,0,0,23.4694,24.4219,96.0997,False
+AIA,AIA,Anguilla,North America,4.4,0,0,0,0,87.1568,87.4201,99.6988,False
+BMU,BMU,Bermuda,North America,4.4,0,36479,0,45595,0,62.302,0,False
+HMD,HMD,Heard Island and McDonald Islands,Seven seas (open ocean),4.4,0,0,0,0,0,394.833,0,False
+SHN,SHN,Saint Helena,Seven seas (open ocean),4.4,0,3557.42,0,4331.07,0,366.653,0,False
+MUS,MUS,Mauritius,Seven seas (open ocean),4.4,0,1.31689e+06,0,1.47253e+06,0,2014.43,0,False
+CPV,CPV,Cabo Verde,Africa,4.4,0,429728,0,658054,0,3926.72,0,False
+MLT,MLT,Malta,Europe,4.4,0,370288,0,378372,0,325.684,0,False
+JEY,JEY,Jersey,Europe,4.4,0,98529,0,123275,0,119.05,0,False
+GGY,GGY,Guernsey,Europe,4.4,0,58799.7,0,73482.9,0,73.9851,0,False
+IMN,IMN,Isle of Man,Europe,4.4,0,71948,0,89864.9,0,574.809,0,False
+ALD,ALA,Aland,Europe,4.4,0,20753.3,0,14879.3,0,942.066,0,False
+FRO,FRO,Faroe Islands,Europe,4.4,0,39021.3,0,48956.1,0,1328.53,0,False
+IOA,AUS,Indian Ocean Territories,Asia,4.4,0,272.71,0,176.067,13.2074,111.929,11.7999,False
+IOT,IOT,British Indian Ocean Territory,Seven seas (open ocean),4.4,0,0,0,0,47.0979,49.0614,95.998,False
+NFK,NFK,Norfolk Island,Oceania,4.4,0,0,0,0,0,41.1466,0,False
+COK,COK,Cook Islands,Oceania,4.4,0,13059.7,0,17204.5,15.2753,191.133,7.99196,False
+TON,TON,Tonga,Oceania,4.4,0,49547.1,0,89614.9,39.521,603.109,6.55288,False
+TUV,TUV,Tuvalu,Oceania,4.4,0,0,0,0,18.2539,23.0184,79.3014,False
+MDV,MDV,Maldives,Seven seas (open ocean),4.4,0,0,0,0,50.4693,108.742,46.4118,False
+NRU,NRU,Nauru,Oceania,4.4,0,0,0,0,26.0944,28.7669,90.7096,False
+SGS,SGS,South Georgia and the Islands,Seven seas (open ocean),4.4,0,0,0,0,0,3921.5,0,False
+FLK,FLK,Falkland Islands,South America,4.4,0,2540.27,0,3383.92,0,11597.2,0,False
+NIU,NIU,Niue,Oceania,4.4,0,523.136,0,523.136,0,220.574,0,False
+CSI,AUS,Coral Sea Islands,Oceania,4.4,0,0,0,0,0,0.0207323,0,False
+PGA,-99,Spratly Islands,Asia,4.4,0,0,0,0,1.95713,11.9804,16.3361,False
+CLP,FRA,Clipperton Island,Seven seas (open ocean),4.4,0,0,0,0,5.00205,5.00196,100,False
+MAC,MAC,Macao S.A.R,Asia,4.4,0,1.01356e+06,0,907901,0,30.0757,0,False
+ATC,AUS,Ashmore and Cartier Islands,Oceania,4.4,0,0,0,0,0,2.69549,0,False
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),North America,4.4,0,0,0,0,0,0.0358638,0,False
+SER,-99,Serranilla Bank,North America,4.4,0,0,0,0,0,0.105289,0,False
+SCR,-99,Scarborough Reef,Asia,4.4,0,0,0,0,0,0.0977859,0,False
