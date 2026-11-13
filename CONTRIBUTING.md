@@ -12,15 +12,19 @@ The workflow is:
 
 ## Setup
 
-Prerequisites: `bash`, `curl`, `unzip`.
+Prerequisites: `bash`, `curl`, `unzip`, [uv](https://docs.astral.sh/uv/)
+for the Python preprocessing, Node.js 20 or later for the site.
 
 ```bash
 ./scripts/download_data.sh   # fetches about 1.7 GB of raw data into data/raw/
+./scripts/build_all.sh       # rebuilds data/processed/ and validates it against the paper
+uvx ruff check scripts && uvx ruff format --check scripts   # lint the scripts
 ```
 
-Build, run and check commands will be added once the visualization stack is
-chosen. See `CLAUDE.md` for project rules, including how raw and processed data
-are handled.
+You only need the raw data to change `data/processed/`; the site builds from
+the committed processed files. See `scripts/README.md` for the pipeline and
+`CLAUDE.md` for project rules, including how raw and processed data are
+handled.
 
 ## Conventions
 

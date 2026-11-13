@@ -64,8 +64,20 @@ jobs:
   #         key: cache-${{ runner.os }}-${{ hashFiles('LOCKFILE') }}
   #     - run: YOUR_BUILD_AND_TEST_COMMAND
 
+  python-lint:
+    needs: changes
+    if: needs.changes.outputs.code == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v7
+      - name: Ruff lint and format check
+        run: |
+          uvx ruff check scripts
+          uvx ruff format --check scripts
+
   checks:
-    needs: [changes, repo-hygiene]
+    needs: [changes, repo-hygiene, python-lint]
     if: always()
     runs-on: ubuntu-latest
     steps:

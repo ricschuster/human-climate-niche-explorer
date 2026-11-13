@@ -1,0 +1,82 @@
+{
+  "coordinates": [
+    [
+      -180,
+      83.66666666666667
+    ],
+    [
+      180,
+      83.66666666666667
+    ],
+    [
+      180,
+      -59.5
+    ],
+    [
+      -180,
+      -59.5
+    ]
+  ],
+  "width": 4320,
+  "height": 2884,
+  "population": {
+    "files": {
+      "light": "population_light.png",
+      "dark": "population_dark.png"
+    },
+    "population": "9.5 billion (SSP2, 2070)",
+    "unit": "people per 1/12 degree cell (about 100 km2)",
+    "classes": [
+      {
+        "label": "0-10",
+        "color_light": "#cde2fb",
+        "color_dark": "#0d366b"
+      },
+      {
+        "label": "11-100",
+        "color_light": "#9ec5f4",
+        "color_dark": "#184f95"
+      },
+      {
+        "label": "101-1,000",
+        "color_light": "#6da7ec",
+        "color_dark": "#256abf"
+      },
+      {
+        "label": "1,001-10,000",
+        "color_light": "#3987e5",
+        "color_dark": "#3987e5"
+      },
+      {
+        "label": "10,001-100,000",
+        "color_light": "#256abf",
+        "color_dark": "#6da7ec"
+      },
+      {
+        "label": "100,001-1,000,000",
+        "color_light": "#184f95",
+        "color_dark": "#9ec5f4"
+      },
+      {
+        "label": "Over 1,000,000",
+        "color_light": "#0d366b",
+        "color_dark": "#cde2fb"
+      }
+    ]
+  },
+  "hot": {
+    "files": {
+      "1.0": "hot_1.0.png",
+      "1.5": "hot_1.5.png",
+      "1.8": "hot_1.8.png",
+      "2.0": "hot_2.0.png",
+      "2.1": "hot_2.1.png",
+      "2.4": "hot_2.4.png",
+      "2.7": "hot_2.7.png",
+      "3.6": "hot_3.6.png",
+      "4.4": "hot_4.4.png"
+    },
+    "color": "#eb6834",
+    "definition": "ensemble-mean MAT above 29 C"
+  }
+}
