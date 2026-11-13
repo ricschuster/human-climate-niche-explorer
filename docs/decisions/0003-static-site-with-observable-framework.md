@@ -29,9 +29,16 @@ option needs a preprocessing step either way.
   JSON, Parquet, PNG) to `data/processed/`.
 - Commit `data/processed/`, so CI and GitHub Pages can build the site without
   the 1.7 GB raw download (see ADR 0002).
-- Render the map with MapLibre GL. Start with precomputed raster layers per
-  warming level, coarsened from the 1/12 degree grid, and move to a vector
-  grid or tiles only if hover detail on the map is needed.
+- Render the map with MapLibre GL:
+  - Grid layers (cells with MAT of 29 degrees C or more at each warming level,
+    and population density) as full-resolution 1/12 degree PNG images,
+    reprojected to Web Mercator in preprocessing. A test on 2026-11-13 gave
+    50 to 85 KB per exposure layer and about 310 KB for population, so all
+    eight warming levels fit in well under 1 MB and no coarsening is needed.
+  - Countries as a simplified vector layer for hover and click, carrying the
+    per-country numbers. Cell-level hover is not needed for this audience.
+  - No third-party basemap: the land and country layers are enough, and this
+    avoids API keys and tile-service dependencies.
 
 ## Consequences
 

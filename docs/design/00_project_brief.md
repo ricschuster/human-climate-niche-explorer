@@ -49,6 +49,9 @@ Checked against the raw data on 2026-11-12:
   each SSP and year, and the warming vs. exposure series for fixed populations.
 - The country-level spreadsheets cover heat exposure at 1.5 and 2.7 degrees C
   and the emissions and poverty data behind Fig. 6.
+- The paper's country method is reconstructed and reproduces its Fig. 5 data
+  exactly, so country results can be computed for every warming level (see
+  `docs/decisions/0004-country-aggregation-and-boundaries.md`).
 
 ## MVP scope
 
@@ -95,12 +98,17 @@ in every view driven by the warming slider, as in Figs. 3 to 5.
 3. Quotable: every headline number has a short plain-language sentence a
    reader could lift into a briefing.
 4. Credit the source clearly (CC BY 4.0) on every page.
+5. Neutral design: no organizational branding. The footer credits the paper's
+   authors and names who built the site.
+
+## Resolved questions
+
+- Map rendering: full-resolution raster images per warming level plus a
+  country vector layer, no third-party basemap (ADR 0003).
+- Country boundaries: Natural Earth for published results, World Borders 0.3
+  only to validate against the paper (ADR 0004).
+- Branding: neutral, no NCC branding (design principle 5).
 
 ## Open questions
 
-- Map rendering: precomputed raster images per warming level vs. a coarser
-  vector grid that supports hover. See ADR 0003.
-- Country boundaries: the paper used the World Borders Dataset; Natural Earth
-  may be easier to source. Results must match the paper's Fig. 5 data at 1.5
-  and 2.7 degrees C whichever is used.
-- Whether NCC branding should appear, or the site stays neutral.
+- None at present.

@@ -8,7 +8,11 @@ All notable changes to this project are documented here. The format is based on
 ### Added
 
 - Project brief with audience, MVP and later layers; ADR 0003 choosing a
-  static Observable Framework site on GitHub Pages.
+  static Observable Framework site on GitHub Pages, with full-resolution
+  raster map layers.
+- ADR 0004: reconstructed the paper's country aggregation method (reproduces
+  Fig. 5 exactly) and chose Natural Earth borders for published results.
+- `download_data.sh` also fetches Natural Earth and World Borders boundaries.
 - Project harness from `ricschuster/claude-project-template`: Claude Code
   working rules, CI hygiene checks, issue and PR templates, ADRs, design notes
   and handoffs.
