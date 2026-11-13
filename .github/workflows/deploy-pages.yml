@@ -1,0 +1,51 @@
+name: Deploy to GitHub Pages
+
+# Builds the Observable Framework site from the committed data/processed/ and
+# publishes dist/ to GitHub Pages.
+#
+# Manual only for now: the site is reviewed before it goes public (the repo is
+# public, so a Pages site would be too). Once the review is signed off, enable
+# Pages with "GitHub Actions" as the source and add this under `on:` so every
+# merge to main redeploys:
+#   push:
+#     branches: [main]
+# See docs/design/02_site.md, "Deployment".
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# One deployment at a time; never cancel one that is under way.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

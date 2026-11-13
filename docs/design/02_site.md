@@ -59,10 +59,30 @@ fails the chroma floor by design and never identifies a series. The map's
 population ramp is single-hue blue (steps 100 to 700), reversed for dark mode
 so that low density recedes towards the page in both themes.
 
+## Deployment
+
+`.github/workflows/deploy-pages.yml` builds the site from the committed
+`data/processed/` and publishes `dist/` with `actions/upload-pages-artifact`
+and `actions/deploy-pages`. The site lives under the repository path
+(`https://ricschuster.github.io/human-climate-niche-explorer/`); Framework
+writes relative links, so no base path setting is needed.
+
+The site is reviewed before it goes public. The repository is public, so a
+Pages site would be public too, and the workflow is therefore manual only
+(`workflow_dispatch`) and Pages is not enabled yet. To go live after the
+review:
+
+1. Enable Pages with GitHub Actions as the source (Settings, Pages, or
+   `gh api -X POST repos/ricschuster/human-climate-niche-explorer/pages -f build_type=workflow`).
+2. Add `push: branches: [main]` under `on:` in the workflow, by PR, so every
+   merge redeploys.
+3. Run the workflow once (`gh workflow run deploy-pages.yml`) and set the
+   repository's website link to the Pages URL.
+
 ## Not yet done
 
-- Deployment to GitHub Pages (needs Pages enabled on the repository and a
-  deploy workflow).
+- Review of the wording by the audience (policy or NCC staff), then going
+  live (see Deployment).
 - The scenario-by-year view (Fig. 2) and emissions and poverty (Fig. 6), listed
   as later layers in the brief.
 - A favicon and social preview image.
